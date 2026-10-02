@@ -1,0 +1,28 @@
+# 1. creating numpy array with the help of list.
+
+myarr = np.array([3,6,78,2])
+
+myarr
+array([ 3,  6, 78,  2])
+
+# 2. we can also give d type of the array.
+
+myarr = np.array([3,6,78,2], np.int8)
+
+array([ 3,  6, 78,  2], dtype=int8)
+
+--> matlb hum app 8 bit integer hi use kar saktai hai.
+
+# 3. getting element of array
+myarr[2]
+
+# 4. 2 D array
+myarr = np.array([[3,6,78,2]], np.int8)
+myarr[0,2] - otp = 78
+
+# 5. acces infp about myarr
+myarr.shape - gives how many row and column are there.
+otp = (1, 4)
+
+myarr.dtype - gives how many bit of integer is using.
+otp = dtype('int8')

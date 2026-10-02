@@ -1,0 +1,1 @@
+"C:\Python 3.12\python.exe" D:\PYTHON\tryOut.py

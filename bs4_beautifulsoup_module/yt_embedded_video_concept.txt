@@ -1,0 +1,7 @@
+if a youtube video is embedded on a website, then to get the link of the yt video we have to attain the id of that yt
+video.
+have to get the 'yt video id' while scrapping a yt video link embedded on the website.
+
+then
+Create a youtube link with the help of id.
+yt_link = "https://www.youtube.com/watch?v={paste that video id here}"

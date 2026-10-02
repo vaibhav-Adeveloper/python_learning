@@ -1,0 +1,2001 @@
+CustomerID,Name,Age,Gender,Region,SubscriptionPlan,MonthlyCharges,TenureMonths,SupportTicketsRaised,UsageHoursPerWeek,PaymentMethod,ContractType,AutoRenewal,Churn
+CUST1000,Customer_0,56,Female,North,Standard,504.57,3,3,21.9,Debit Card,Month-to-Month,Yes,No
+CUST1001,Customer_1,69,Male,South,Premium,537.55,37,3,29.0,Wallet,Month-to-Month,No,No
+CUST1002,Customer_2,46,Female,South,Basic,218.99,37,5,9.1,Net Banking,Month-to-Month,Yes,No
+CUST1003,Customer_3,32,Other,East,Standard,364.57,3,0,7.2,Wallet,Month-to-Month,Yes,No
+CUST1004,Customer_4,60,Male,North,Basic,1202.31,63,1,26.4,Debit Card,Month-to-Month,Yes,No
+CUST1005,Customer_5,25,Male,South,Premium,1805.37,35,3,12.3,Debit Card,One Year,Yes,No
+CUST1006,Customer_6,38,Male,North,Standard,716.9,52,1,39.0,Credit Card,One Year,Yes,No
+CUST1007,Customer_7,56,Female,South,Basic,789.95,28,3,18.6,UPI,Month-to-Month,Yes,No
+CUST1008,Customer_8,36,Female,North,Basic,408.09,18,0,5.4,Credit Card,Month-to-Month,Yes,No
+CUST1009,Customer_9,40,Male,West,Basic,899.54,36,1,27.7,Wallet,Month-to-Month,Yes,Yes
+CUST1010,Customer_10,28,Female,East,Standard,267.0,33,0,12.9,Credit Card,Month-to-Month,Yes,No
+CUST1011,Customer_11,28,Male,North,Basic,1851.68,64,2,6.8,Debit Card,Month-to-Month,Yes,Yes
+CUST1012,Customer_12,41,Male,West,Basic,1411.6,26,4,17.5,Net Banking,Two Year,Yes,Yes
+CUST1013,Customer_13,53,Female,North,Premium,1983.35,48,1,38.6,UPI,One Year,No,Yes
+CUST1014,Customer_14,57,Male,North,Premium,1789.08,40,3,17.0,Debit Card,Two Year,Yes,Yes
+CUST1015,Customer_15,41,Female,West,Standard,1051.38,17,1,14.5,Net Banking,One Year,Yes,No
+CUST1016,Customer_16,20,Male,North,Premium,1135.43,40,2,18.3,Wallet,Two Year,Yes,No
+CUST1017,Customer_17,39,Other,North,Basic,543.04,7,3,1.5,Wallet,One Year,Yes,No
+CUST1018,Customer_18,19,Male,East,Standard,1031.67,57,0,6.2,Wallet,Two Year,Yes,No
+CUST1019,Customer_19,41,Male,West,Standard,1825.45,8,2,34.1,Credit Card,Month-to-Month,Yes,Yes
+CUST1020,Customer_20,61,Female,West,Standard,291.54,56,3,39.1,Wallet,Month-to-Month,No,No
+CUST1021,Customer_21,47,Male,South,Basic,1754.4,31,3,7.2,Wallet,Month-to-Month,Yes,No
+CUST1022,Customer_22,55,Other,North,Standard,813.71,59,1,21.9,Credit Card,Two Year,Yes,Yes
+CUST1023,Customer_23,19,Female,East,Standard,1819.12,58,1,38.7,Net Banking,Month-to-Month,Yes,Yes
+CUST1024,Customer_24,38,Female,North,Standard,1893.58,12,2,7.1,Debit Card,Month-to-Month,No,No
+CUST1025,Customer_25,50,Female,North,Basic,1407.56,48,0,8.3,UPI,Month-to-Month,No,Yes
+CUST1026,Customer_26,29,Female,South,Basic,1395.96,31,1,37.1,Wallet,One Year,Yes,No
+CUST1027,Customer_27,39,Female,North,Basic,1014.96,63,4,28.5,Wallet,Month-to-Month,Yes,Yes
+CUST1028,Customer_28,61,Female,East,Basic,1703.97,39,1,6.9,Wallet,One Year,No,Yes
+CUST1029,Customer_29,42,Female,East,Standard,1930.9,20,3,16.3,Credit Card,Two Year,Yes,Yes
+CUST1030,Customer_30,66,Male,South,Basic,1595.15,48,5,3.2,Credit Card,Two Year,Yes,No
+CUST1031,Customer_31,44,Male,North,Premium,1319.49,71,2,17.9,Credit Card,Month-to-Month,Yes,Yes
+CUST1032,Customer_32,59,Female,East,Basic,1292.23,54,2,31.3,UPI,Month-to-Month,Yes,Yes
+CUST1033,Customer_33,45,Male,North,Basic,1729.05,71,1,22.6,Debit Card,Month-to-Month,No,No
+CUST1034,Customer_34,33,Female,North,Standard,1174.17,29,3,26.3,Wallet,Month-to-Month,No,No
+CUST1035,Customer_35,32,Male,North,Basic,1646.95,48,1,13.7,Net Banking,Month-to-Month,No,No
+CUST1036,Customer_36,64,Male,South,Standard,1115.99,56,2,7.3,Wallet,One Year,Yes,No
+CUST1037,Customer_37,68,Female,North,Standard,312.4,17,2,1.5,Wallet,Month-to-Month,Yes,No
+CUST1038,Customer_38,61,Female,East,Basic,891.1,9,1,33.0,Wallet,Two Year,Yes,Yes
+CUST1039,Customer_39,69,Male,North,Basic,999.99,34,4,25.8,Wallet,Two Year,No,No
+CUST1040,Customer_40,20,Female,East,Basic,454.91,45,2,9.9,Debit Card,Month-to-Month,No,No
+CUST1041,Customer_41,54,Female,North,Basic,384.49,9,1,17.3,Net Banking,Two Year,Yes,No
+CUST1042,Customer_42,68,Male,East,Basic,1163.84,7,2,32.3,Credit Card,One Year,Yes,No
+CUST1043,Customer_43,24,Female,East,Basic,353.26,16,0,22.0,Net Banking,Month-to-Month,Yes,Yes
+CUST1044,Customer_44,38,Male,North,Basic,745.3,19,0,12.7,Wallet,Month-to-Month,No,No
+CUST1045,Customer_45,26,Male,North,Standard,1540.27,6,1,11.4,Net Banking,Month-to-Month,Yes,No
+CUST1046,Customer_46,56,Other,East,Standard,1935.98,11,0,9.5,Wallet,Month-to-Month,Yes,No
+CUST1047,Customer_47,35,Male,West,Standard,1492.17,61,2,33.1,Net Banking,One Year,Yes,No
+CUST1048,Customer_48,21,Female,South,Basic,1986.73,42,4,23.7,UPI,Month-to-Month,Yes,No
+CUST1049,Customer_49,42,Female,West,Basic,1457.01,13,2,28.7,Net Banking,One Year,No,Yes
+CUST1050,Customer_50,31,Male,West,Premium,728.83,12,5,34.5,Credit Card,Month-to-Month,No,No
+CUST1051,Customer_51,67,Female,North,Standard,1409.69,20,4,39.5,Credit Card,Month-to-Month,No,No
+CUST1052,Customer_52,26,Female,South,Premium,1463.88,50,4,10.7,Net Banking,Month-to-Month,No,Yes
+CUST1053,Customer_53,43,Male,West,Basic,869.11,36,2,8.1,Net Banking,Month-to-Month,Yes,No
+CUST1054,Customer_54,19,Female,North,Standard,231.88,69,3,19.0,Debit Card,Month-to-Month,Yes,No
+CUST1055,Customer_55,37,Female,West,Standard,1465.76,37,3,2.4,Net Banking,Month-to-Month,Yes,No
+CUST1056,Customer_56,45,Female,West,Basic,239.06,12,2,31.9,Credit Card,Two Year,No,Yes
+CUST1057,Customer_57,64,Female,North,Standard,1336.14,40,3,35.5,UPI,One Year,Yes,No
+CUST1058,Customer_58,24,Male,North,Standard,494.51,54,2,27.8,Credit Card,Month-to-Month,Yes,Yes
+CUST1059,Customer_59,61,Female,North,Basic,1218.09,2,1,11.5,Debit Card,Month-to-Month,Yes,No
+CUST1060,Customer_60,25,Female,South,Basic,1107.04,50,2,5.8,Net Banking,Month-to-Month,Yes,No
+CUST1061,Customer_61,64,Female,West,Premium,224.32,41,1,15.9,UPI,Month-to-Month,No,No
+CUST1062,Customer_62,52,Female,North,Premium,853.16,45,1,33.5,Credit Card,One Year,No,Yes
+CUST1063,Customer_63,31,Female,East,Basic,1281.96,9,6,14.6,UPI,One Year,Yes,No
+CUST1064,Customer_64,34,Female,West,Basic,1727.49,62,2,2.3,Wallet,One Year,Yes,No
+CUST1065,Customer_65,53,Female,East,Basic,1799.56,47,1,11.7,Credit Card,Month-to-Month,No,No
+CUST1066,Customer_66,67,Female,South,Standard,1070.93,5,2,39.6,Wallet,Two Year,No,No
+CUST1067,Customer_67,57,Female,North,Basic,1511.16,1,1,27.4,UPI,Month-to-Month,Yes,No
+CUST1068,Customer_68,21,Female,East,Premium,769.62,44,2,36.1,Net Banking,Two Year,Yes,No
+CUST1069,Customer_69,19,Female,South,Basic,815.94,22,4,31.2,Net Banking,Month-to-Month,Yes,No
+CUST1070,Customer_70,23,Male,North,Basic,550.03,38,1,22.0,Net Banking,Month-to-Month,Yes,No
+CUST1071,Customer_71,59,Male,East,Standard,1211.51,19,1,6.8,Wallet,Month-to-Month,No,No
+CUST1072,Customer_72,21,Male,East,Premium,766.22,31,4,14.6,Net Banking,Month-to-Month,Yes,No
+CUST1073,Customer_73,46,Female,South,Standard,351.87,67,4,23.8,Debit Card,One Year,Yes,No
+CUST1074,Customer_74,35,Female,North,Standard,1433.01,42,2,35.0,Credit Card,One Year,Yes,No
+CUST1075,Customer_75,43,Female,North,Premium,1473.96,26,3,11.5,Credit Card,Month-to-Month,Yes,Yes
+CUST1076,Customer_76,61,Male,East,Basic,847.99,13,3,5.7,UPI,One Year,Yes,No
+CUST1077,Customer_77,51,Female,East,Premium,338.1,58,3,22.8,Wallet,Month-to-Month,Yes,Yes
+CUST1078,Customer_78,27,Male,East,Basic,967.34,18,1,7.9,Credit Card,Month-to-Month,Yes,No
+CUST1079,Customer_79,53,Male,North,Premium,996.2,67,1,24.8,Wallet,Two Year,Yes,No
+CUST1080,Customer_80,31,Female,South,Standard,1403.61,3,0,11.3,UPI,Two Year,Yes,No
+CUST1081,Customer_81,48,Female,South,Basic,767.75,55,0,10.0,Net Banking,Month-to-Month,Yes,No
+CUST1082,Customer_82,65,Male,North,Premium,1428.68,58,2,16.6,UPI,Month-to-Month,Yes,Yes
+CUST1083,Customer_83,32,Male,West,Basic,1768.68,63,2,24.1,Debit Card,Month-to-Month,Yes,No
+CUST1084,Customer_84,25,Male,South,Basic,627.47,52,3,22.3,Net Banking,One Year,Yes,No
+CUST1085,Customer_85,31,Male,East,Standard,1962.06,24,3,10.5,Net Banking,Two Year,Yes,No
+CUST1086,Customer_86,40,Female,West,Basic,895.46,9,3,35.8,Net Banking,Month-to-Month,No,No
+CUST1087,Customer_87,57,Male,West,Standard,681.07,37,2,5.3,UPI,One Year,No,No
+CUST1088,Customer_88,38,Female,South,Basic,958.72,53,2,2.5,Debit Card,Month-to-Month,Yes,No
+CUST1089,Customer_89,33,Female,West,Basic,369.92,24,1,24.5,Wallet,Month-to-Month,No,No
+CUST1090,Customer_90,62,Male,West,Basic,426.27,21,1,5.8,UPI,Two Year,Yes,No
+CUST1091,Customer_91,35,Male,South,Basic,945.98,40,3,20.7,Credit Card,Month-to-Month,Yes,No
+CUST1092,Customer_92,64,Male,South,Standard,1572.4,62,6,38.1,Credit Card,Month-to-Month,Yes,Yes
+CUST1093,Customer_93,41,Male,West,Premium,1820.56,70,0,28.2,UPI,One Year,Yes,No
+CUST1094,Customer_94,43,Male,East,Premium,1396.67,69,2,25.1,Wallet,Month-to-Month,Yes,No
+CUST1095,Customer_95,42,Female,North,Premium,389.4,14,2,23.4,Credit Card,Month-to-Month,Yes,No
+CUST1096,Customer_96,62,Male,West,Basic,1409.64,42,2,8.0,Wallet,Two Year,No,No
+CUST1097,Customer_97,58,Other,West,Standard,1343.77,50,1,17.9,Net Banking,One Year,Yes,No
+CUST1098,Customer_98,46,Male,East,Basic,1650.38,61,2,14.4,UPI,One Year,Yes,No
+CUST1099,Customer_99,32,Female,West,Basic,1685.45,4,2,38.2,Net Banking,Month-to-Month,Yes,Yes
+CUST1100,Customer_100,62,Female,West,Standard,1762.77,17,2,10.5,Credit Card,Month-to-Month,Yes,No
+CUST1101,Customer_101,18,Female,North,Basic,945.44,57,1,19.4,Wallet,Two Year,No,Yes
+CUST1102,Customer_102,42,Female,North,Basic,1456.16,48,2,37.6,Net Banking,Month-to-Month,No,Yes
+CUST1103,Customer_103,24,Female,North,Premium,682.85,44,0,31.8,Credit Card,Month-to-Month,No,No
+CUST1104,Customer_104,26,Female,South,Standard,1998.81,45,2,38.6,Debit Card,Month-to-Month,Yes,No
+CUST1105,Customer_105,41,Female,South,Standard,515.6,33,2,24.7,Net Banking,Month-to-Month,Yes,No
+CUST1106,Customer_106,18,Female,North,Basic,218.21,31,3,14.0,Debit Card,Month-to-Month,Yes,No
+CUST1107,Customer_107,61,Male,North,Basic,467.86,47,0,33.2,Debit Card,Two Year,Yes,No
+CUST1108,Customer_108,25,Male,South,Premium,1596.57,6,1,12.4,Credit Card,Two Year,Yes,No
+CUST1109,Customer_109,41,Female,East,Basic,1004.21,71,2,7.4,UPI,Month-to-Month,No,Yes
+CUST1110,Customer_110,28,Female,West,Standard,1005.5,34,5,28.5,Wallet,One Year,Yes,No
+CUST1111,Customer_111,68,Female,West,Basic,1919.04,53,2,25.9,Credit Card,Two Year,Yes,No
+CUST1112,Customer_112,34,Female,North,Standard,1855.34,14,3,35.3,Net Banking,One Year,No,No
+CUST1113,Customer_113,25,Other,East,Basic,760.15,16,3,38.5,Wallet,Month-to-Month,No,Yes
+CUST1114,Customer_114,52,Male,South,Premium,576.3,43,0,34.4,UPI,Month-to-Month,Yes,No
+CUST1115,Customer_115,52,Male,North,Premium,1727.27,12,2,3.3,Credit Card,Month-to-Month,Yes,No
+CUST1116,Customer_116,50,Male,East,Premium,1830.83,70,1,26.9,UPI,Month-to-Month,Yes,No
+CUST1117,Customer_117,22,Male,East,Basic,1174.87,19,1,31.6,Net Banking,Month-to-Month,Yes,No
+CUST1118,Customer_118,59,Female,East,Premium,1332.96,41,2,39.3,Credit Card,Month-to-Month,Yes,No
+CUST1119,Customer_119,56,Male,South,Standard,662.45,53,2,15.6,Net Banking,Month-to-Month,Yes,Yes
+CUST1120,Customer_120,58,Female,South,Basic,1641.44,29,2,7.6,Wallet,Month-to-Month,Yes,No
+CUST1121,Customer_121,45,Male,West,Standard,1337.82,70,1,34.3,Wallet,Month-to-Month,Yes,No
+CUST1122,Customer_122,24,Female,West,Basic,1106.32,59,3,13.4,UPI,Month-to-Month,No,Yes
+CUST1123,Customer_123,26,Female,East,Basic,308.2,64,6,24.3,UPI,One Year,No,No
+CUST1124,Customer_124,25,Male,East,Standard,1848.68,24,1,16.2,Wallet,Month-to-Month,Yes,No
+CUST1125,Customer_125,29,Female,South,Basic,1307.81,16,4,16.7,Debit Card,One Year,No,No
+CUST1126,Customer_126,51,Male,West,Standard,546.84,52,1,29.6,Wallet,Two Year,Yes,Yes
+CUST1127,Customer_127,50,Male,East,Basic,1291.5,6,2,15.1,Credit Card,One Year,Yes,Yes
+CUST1128,Customer_128,65,Male,West,Premium,1419.43,37,0,28.0,Net Banking,One Year,Yes,Yes
+CUST1129,Customer_129,40,Male,West,Premium,1146.39,4,3,1.6,Wallet,Two Year,Yes,No
+CUST1130,Customer_130,41,Male,East,Premium,1492.58,38,1,13.7,Wallet,Month-to-Month,Yes,No
+CUST1131,Customer_131,54,Female,South,Basic,1246.62,41,1,13.4,Net Banking,Two Year,No,Yes
+CUST1132,Customer_132,52,Female,East,Basic,1905.99,14,1,30.2,Net Banking,One Year,Yes,No
+CUST1133,Customer_133,61,Female,East,Standard,296.65,71,1,13.3,Credit Card,One Year,No,Yes
+CUST1134,Customer_134,57,Male,West,Basic,391.24,51,0,25.7,Net Banking,Month-to-Month,Yes,Yes
+CUST1135,Customer_135,39,Female,East,Basic,512.61,65,3,27.9,UPI,Month-to-Month,Yes,No
+CUST1136,Customer_136,44,Male,South,Standard,1442.31,52,0,26.7,Wallet,One Year,Yes,Yes
+CUST1137,Customer_137,52,Male,East,Standard,1362.07,30,0,24.5,Net Banking,One Year,Yes,Yes
+CUST1138,Customer_138,18,Female,South,Premium,1805.71,57,4,17.1,Credit Card,One Year,Yes,No
+CUST1139,Customer_139,52,Male,South,Basic,1519.18,30,3,15.6,Net Banking,Month-to-Month,Yes,No
+CUST1140,Customer_140,54,Female,West,Basic,1115.04,42,3,23.0,Wallet,Month-to-Month,Yes,No
+CUST1141,Customer_141,64,Female,North,Basic,1985.3,11,1,3.5,Debit Card,Month-to-Month,Yes,No
+CUST1142,Customer_142,31,Male,North,Premium,678.99,27,1,35.2,Net Banking,Month-to-Month,Yes,No
+CUST1143,Customer_143,20,Male,West,Premium,1699.74,24,3,33.2,UPI,Month-to-Month,Yes,No
+CUST1144,Customer_144,18,Male,East,Premium,968.22,39,0,14.5,Wallet,Month-to-Month,Yes,No
+CUST1145,Customer_145,22,Female,West,Premium,1367.72,18,3,23.1,Credit Card,Month-to-Month,No,No
+CUST1146,Customer_146,43,Male,South,Standard,1509.08,45,3,37.4,Wallet,Month-to-Month,No,No
+CUST1147,Customer_147,31,Male,North,Standard,1340.76,12,2,11.6,Debit Card,Month-to-Month,Yes,No
+CUST1148,Customer_148,56,Male,West,Basic,452.91,49,1,30.0,Credit Card,Two Year,Yes,No
+CUST1149,Customer_149,44,Female,East,Standard,997.31,31,4,4.2,Debit Card,One Year,Yes,No
+CUST1150,Customer_150,26,Male,West,Standard,1210.59,22,2,21.4,Debit Card,One Year,No,No
+CUST1151,Customer_151,32,Male,North,Standard,1728.28,44,3,35.5,UPI,Month-to-Month,Yes,No
+CUST1152,Customer_152,32,Female,West,Premium,998.56,64,2,22.5,Net Banking,One Year,Yes,Yes
+CUST1153,Customer_153,43,Female,West,Premium,1853.75,25,3,25.0,UPI,Month-to-Month,Yes,No
+CUST1154,Customer_154,59,Male,North,Premium,992.67,51,0,36.4,UPI,Two Year,Yes,No
+CUST1155,Customer_155,30,Male,South,Premium,1187.8,7,5,28.9,UPI,One Year,No,Yes
+CUST1156,Customer_156,68,Male,South,Standard,1633.31,6,3,28.1,Credit Card,Month-to-Month,No,No
+CUST1157,Customer_157,49,Female,North,Basic,1249.52,24,2,23.9,Net Banking,Two Year,Yes,No
+CUST1158,Customer_158,56,Male,West,Basic,1928.39,19,4,25.7,Net Banking,Month-to-Month,No,No
+CUST1159,Customer_159,66,Female,North,Standard,1388.6,9,1,32.3,Credit Card,Month-to-Month,Yes,No
+CUST1160,Customer_160,69,Female,South,Standard,1140.88,36,2,39.2,UPI,One Year,No,No
+CUST1161,Customer_161,49,Female,East,Basic,242.47,40,1,32.0,UPI,Month-to-Month,No,No
+CUST1162,Customer_162,21,Male,West,Premium,944.72,24,2,28.6,Debit Card,Month-to-Month,Yes,Yes
+CUST1163,Customer_163,47,Female,South,Basic,738.65,48,0,6.3,Debit Card,One Year,No,No
+CUST1164,Customer_164,54,Female,West,Basic,1546.59,63,1,32.9,Wallet,Month-to-Month,Yes,No
+CUST1165,Customer_165,40,Female,North,Standard,574.9,69,2,29.7,Debit Card,One Year,Yes,No
+CUST1166,Customer_166,56,Male,East,Basic,569.4,53,2,31.0,Net Banking,Two Year,Yes,No
+CUST1167,Customer_167,62,Other,North,Basic,541.13,54,2,10.0,Credit Card,Month-to-Month,Yes,No
+CUST1168,Customer_168,32,Male,East,Basic,426.11,42,3,36.2,UPI,Month-to-Month,Yes,No
+CUST1169,Customer_169,60,Male,West,Premium,759.81,45,1,4.8,Wallet,Month-to-Month,Yes,No
+CUST1170,Customer_170,46,Male,West,Standard,1794.66,14,2,10.9,Debit Card,Month-to-Month,No,Yes
+CUST1171,Customer_171,53,Female,North,Standard,1594.87,29,1,26.9,Wallet,Month-to-Month,Yes,Yes
+CUST1172,Customer_172,30,Male,East,Standard,1523.45,6,3,27.3,Credit Card,Month-to-Month,Yes,No
+CUST1173,Customer_173,49,Male,East,Basic,1635.21,7,1,13.2,Credit Card,Month-to-Month,Yes,Yes
+CUST1174,Customer_174,24,Male,West,Premium,684.95,37,1,28.4,Wallet,Month-to-Month,Yes,No
+CUST1175,Customer_175,68,Male,North,Basic,1797.4,53,2,16.1,Wallet,One Year,Yes,No
+CUST1176,Customer_176,39,Female,East,Premium,447.15,18,1,1.0,Wallet,Two Year,Yes,No
+CUST1177,Customer_177,45,Female,West,Standard,805.42,38,4,7.3,UPI,One Year,No,No
+CUST1178,Customer_178,19,Male,South,Premium,1256.15,59,1,35.4,Net Banking,Month-to-Month,Yes,No
+CUST1179,Customer_179,59,Male,North,Basic,385.23,1,1,9.7,Debit Card,Month-to-Month,Yes,No
+CUST1180,Customer_180,62,Female,South,Standard,1514.23,68,1,5.4,Debit Card,One Year,No,Yes
+CUST1181,Customer_181,23,Male,North,Basic,897.04,44,1,27.6,Debit Card,Month-to-Month,Yes,No
+CUST1182,Customer_182,45,Male,West,Basic,1611.93,47,2,18.2,Wallet,Month-to-Month,Yes,Yes
+CUST1183,Customer_183,45,Other,East,Standard,1087.21,35,3,32.1,Wallet,One Year,Yes,Yes
+CUST1184,Customer_184,61,Female,East,Basic,525.57,60,3,34.6,Wallet,Month-to-Month,No,No
+CUST1185,Customer_185,61,Male,East,Standard,1522.57,52,4,34.0,UPI,Month-to-Month,No,No
+CUST1186,Customer_186,37,Female,North,Basic,653.86,8,3,13.2,UPI,Two Year,No,Yes
+CUST1187,Customer_187,47,Male,West,Basic,1083.46,41,0,20.7,UPI,Two Year,Yes,No
+CUST1188,Customer_188,28,Female,South,Premium,335.96,3,1,26.4,UPI,Month-to-Month,Yes,No
+CUST1189,Customer_189,45,Male,West,Standard,1312.16,69,1,13.6,Credit Card,Month-to-Month,No,Yes
+CUST1190,Customer_190,42,Male,South,Standard,1398.54,14,1,2.6,UPI,Month-to-Month,Yes,No
+CUST1191,Customer_191,56,Male,North,Standard,881.61,26,3,20.3,UPI,One Year,Yes,No
+CUST1192,Customer_192,50,Female,North,Premium,1917.96,70,3,1.5,UPI,Month-to-Month,No,No
+CUST1193,Customer_193,18,Female,South,Basic,1773.5,58,3,38.1,Debit Card,Month-to-Month,Yes,No
+CUST1194,Customer_194,44,Male,South,Standard,1474.29,40,2,32.1,Debit Card,Two Year,Yes,Yes
+CUST1195,Customer_195,69,Male,South,Premium,1484.57,51,2,8.5,Debit Card,Month-to-Month,No,Yes
+CUST1196,Customer_196,30,Female,West,Standard,654.32,5,3,12.2,Net Banking,Two Year,Yes,Yes
+CUST1197,Customer_197,58,Male,South,Standard,1382.27,32,1,39.3,Credit Card,Two Year,Yes,No
+CUST1198,Customer_198,20,Male,North,Standard,556.77,1,3,15.6,Wallet,Month-to-Month,No,Yes
+CUST1199,Customer_199,56,Other,North,Standard,459.21,54,2,31.6,UPI,One Year,No,Yes
+CUST1200,Customer_200,23,Male,East,Standard,1999.04,11,5,18.4,Debit Card,Month-to-Month,Yes,Yes
+CUST1201,Customer_201,25,Female,South,Basic,1320.28,53,2,34.7,Credit Card,One Year,Yes,No
+CUST1202,Customer_202,44,Other,West,Basic,975.78,8,2,28.4,UPI,One Year,No,Yes
+CUST1203,Customer_203,26,Male,West,Premium,718.7,25,1,1.9,Net Banking,Month-to-Month,Yes,No
+CUST1204,Customer_204,54,Male,West,Basic,1287.06,40,2,12.5,Wallet,One Year,Yes,No
+CUST1205,Customer_205,50,Male,East,Standard,289.27,32,4,22.8,UPI,One Year,Yes,No
+CUST1206,Customer_206,68,Female,North,Basic,370.43,28,1,37.1,Wallet,Month-to-Month,No,Yes
+CUST1207,Customer_207,59,Female,West,Standard,259.14,3,1,5.0,UPI,Month-to-Month,No,Yes
+CUST1208,Customer_208,61,Female,North,Basic,1098.51,62,1,24.4,Net Banking,Month-to-Month,Yes,No
+CUST1209,Customer_209,41,Male,East,Basic,1281.09,27,3,12.8,Credit Card,Month-to-Month,No,No
+CUST1210,Customer_210,32,Female,South,Premium,312.46,45,0,35.7,Wallet,Two Year,No,No
+CUST1211,Customer_211,49,Female,South,Premium,1498.2,25,3,30.8,Wallet,One Year,Yes,Yes
+CUST1212,Customer_212,49,Female,South,Standard,614.71,61,0,15.4,Credit Card,Month-to-Month,Yes,Yes
+CUST1213,Customer_213,41,Female,West,Standard,1433.36,44,1,7.5,Wallet,Month-to-Month,Yes,No
+CUST1214,Customer_214,58,Female,South,Standard,1967.41,46,0,1.4,Debit Card,Month-to-Month,No,No
+CUST1215,Customer_215,69,Female,West,Standard,1443.99,14,0,25.2,Credit Card,Month-to-Month,Yes,No
+CUST1216,Customer_216,66,Female,East,Standard,1789.75,8,0,16.8,Net Banking,Month-to-Month,Yes,No
+CUST1217,Customer_217,66,Male,East,Basic,1906.76,48,1,13.3,UPI,Month-to-Month,Yes,No
+CUST1218,Customer_218,69,Male,West,Standard,1076.15,14,2,39.4,UPI,Month-to-Month,Yes,No
+CUST1219,Customer_219,29,Female,North,Premium,1464.18,65,1,19.2,Credit Card,Two Year,No,No
+CUST1220,Customer_220,56,Male,South,Premium,1733.54,7,3,30.2,Debit Card,One Year,Yes,No
+CUST1221,Customer_221,19,Female,South,Basic,841.9,49,2,7.9,Net Banking,One Year,No,No
+CUST1222,Customer_222,20,Other,South,Standard,670.52,55,4,1.5,UPI,Month-to-Month,Yes,No
+CUST1223,Customer_223,66,Female,West,Standard,1903.88,13,0,17.3,UPI,Two Year,Yes,No
+CUST1224,Customer_224,54,Male,East,Standard,1507.35,56,3,27.0,Debit Card,One Year,No,No
+CUST1225,Customer_225,66,Male,South,Basic,595.43,56,4,20.8,Wallet,Two Year,Yes,Yes
+CUST1226,Customer_226,34,Male,East,Standard,1008.35,15,1,35.7,Credit Card,Month-to-Month,Yes,No
+CUST1227,Customer_227,66,Female,South,Basic,1633.61,57,4,17.9,Debit Card,Month-to-Month,No,No
+CUST1228,Customer_228,19,Female,South,Basic,1184.71,58,2,13.1,Debit Card,Month-to-Month,Yes,No
+CUST1229,Customer_229,19,Female,West,Standard,1369.91,35,0,36.7,Debit Card,Month-to-Month,Yes,Yes
+CUST1230,Customer_230,45,Male,North,Standard,1556.78,16,1,16.9,Debit Card,One Year,Yes,No
+CUST1231,Customer_231,40,Female,West,Standard,1319.62,8,1,11.5,Wallet,Two Year,Yes,Yes
+CUST1232,Customer_232,54,Female,South,Premium,1172.14,45,2,4.8,Net Banking,Month-to-Month,No,No
+CUST1233,Customer_233,49,Male,South,Basic,1549.31,40,2,31.9,Debit Card,Month-to-Month,No,No
+CUST1234,Customer_234,50,Female,North,Basic,1509.61,54,3,33.2,Debit Card,One Year,Yes,Yes
+CUST1235,Customer_235,18,Male,East,Standard,1333.77,14,2,2.3,Credit Card,Month-to-Month,No,Yes
+CUST1236,Customer_236,36,Male,East,Basic,847.62,59,3,15.0,UPI,One Year,No,No
+CUST1237,Customer_237,19,Female,South,Basic,930.46,53,1,30.2,Wallet,One Year,Yes,Yes
+CUST1238,Customer_238,61,Male,East,Basic,1946.79,27,1,37.9,Debit Card,Month-to-Month,Yes,No
+CUST1239,Customer_239,43,Female,South,Basic,402.29,47,3,15.7,Net Banking,One Year,Yes,No
+CUST1240,Customer_240,49,Female,North,Premium,683.31,6,1,35.0,Net Banking,Month-to-Month,No,Yes
+CUST1241,Customer_241,23,Female,North,Basic,1086.32,55,3,16.4,Net Banking,Two Year,No,No
+CUST1242,Customer_242,49,Male,South,Standard,1706.11,44,1,8.0,Credit Card,One Year,Yes,Yes
+CUST1243,Customer_243,21,Female,North,Basic,494.62,18,2,1.1,Net Banking,Two Year,No,No
+CUST1244,Customer_244,28,Female,West,Standard,698.52,16,1,13.9,Credit Card,Month-to-Month,Yes,No
+CUST1245,Customer_245,34,Female,West,Basic,318.44,12,2,15.8,Wallet,Month-to-Month,Yes,No
+CUST1246,Customer_246,55,Male,North,Standard,1470.77,20,4,37.9,Net Banking,Month-to-Month,No,No
+CUST1247,Customer_247,41,Male,South,Standard,628.78,45,2,9.0,UPI,Month-to-Month,Yes,No
+CUST1248,Customer_248,22,Female,South,Basic,899.61,64,2,15.9,Debit Card,Two Year,Yes,Yes
+CUST1249,Customer_249,69,Male,North,Standard,998.66,59,3,2.0,Wallet,Month-to-Month,Yes,No
+CUST1250,Customer_250,51,Female,East,Basic,1804.37,22,3,30.8,UPI,One Year,Yes,No
+CUST1251,Customer_251,23,Female,West,Standard,940.39,47,1,36.7,Wallet,Month-to-Month,Yes,No
+CUST1252,Customer_252,39,Female,East,Basic,461.41,29,2,10.3,Net Banking,Month-to-Month,Yes,Yes
+CUST1253,Customer_253,28,Female,South,Premium,1143.77,45,1,17.7,Wallet,Two Year,No,No
+CUST1254,Customer_254,65,Female,South,Basic,1933.32,9,3,5.8,Wallet,Month-to-Month,No,Yes
+CUST1255,Customer_255,33,Female,East,Standard,1293.83,24,3,18.8,Wallet,One Year,Yes,No
+CUST1256,Customer_256,50,Female,North,Basic,1970.1,15,1,6.2,Credit Card,Month-to-Month,Yes,No
+CUST1257,Customer_257,26,Female,East,Basic,1713.99,36,3,21.4,UPI,Two Year,No,No
+CUST1258,Customer_258,23,Male,East,Standard,264.74,13,1,29.7,Net Banking,Month-to-Month,Yes,Yes
+CUST1259,Customer_259,33,Male,West,Premium,1385.12,44,2,22.6,Debit Card,One Year,Yes,No
+CUST1260,Customer_260,46,Female,West,Basic,716.18,71,3,10.6,Net Banking,Month-to-Month,Yes,Yes
+CUST1261,Customer_261,20,Male,East,Basic,1207.31,36,3,14.8,Net Banking,Month-to-Month,Yes,No
+CUST1262,Customer_262,37,Male,East,Basic,702.82,61,3,25.9,Credit Card,Two Year,Yes,Yes
+CUST1263,Customer_263,53,Male,South,Basic,827.97,40,0,24.0,Credit Card,Two Year,Yes,No
+CUST1264,Customer_264,36,Female,West,Basic,1861.7,27,0,6.3,Wallet,Month-to-Month,Yes,No
+CUST1265,Customer_265,43,Female,West,Standard,571.96,1,5,34.0,Net Banking,Month-to-Month,No,No
+CUST1266,Customer_266,20,Female,South,Basic,1773.4,34,0,19.5,UPI,Month-to-Month,No,Yes
+CUST1267,Customer_267,36,Female,North,Basic,254.82,68,1,7.3,Credit Card,Month-to-Month,Yes,No
+CUST1268,Customer_268,37,Female,West,Standard,363.58,21,0,5.8,Credit Card,One Year,No,No
+CUST1269,Customer_269,49,Male,West,Basic,1738.42,33,3,38.7,UPI,Month-to-Month,Yes,No
+CUST1270,Customer_270,24,Female,North,Basic,1335.0,7,1,12.0,Credit Card,Month-to-Month,Yes,Yes
+CUST1271,Customer_271,69,Male,West,Basic,1545.03,65,3,36.4,UPI,One Year,No,No
+CUST1272,Customer_272,58,Female,West,Standard,576.95,3,1,17.0,Debit Card,Month-to-Month,Yes,No
+CUST1273,Customer_273,50,Female,North,Basic,1166.75,51,7,16.1,UPI,One Year,Yes,No
+CUST1274,Customer_274,57,Male,North,Standard,1526.99,54,3,28.3,Debit Card,Two Year,Yes,No
+CUST1275,Customer_275,56,Male,East,Basic,1329.17,59,2,1.4,Wallet,Month-to-Month,No,No
+CUST1276,Customer_276,35,Male,South,Standard,1049.06,6,1,14.2,Wallet,One Year,Yes,No
+CUST1277,Customer_277,57,Male,South,Basic,1927.61,29,2,12.8,Credit Card,Month-to-Month,No,Yes
+CUST1278,Customer_278,18,Male,North,Standard,1417.08,17,2,34.9,UPI,Month-to-Month,No,No
+CUST1279,Customer_279,28,Female,North,Premium,1833.95,60,4,21.6,Credit Card,Month-to-Month,No,No
+CUST1280,Customer_280,45,Female,West,Standard,1513.59,22,1,15.2,UPI,Month-to-Month,Yes,Yes
+CUST1281,Customer_281,42,Female,East,Basic,1523.83,24,5,11.4,Credit Card,Month-to-Month,Yes,No
+CUST1282,Customer_282,67,Female,East,Basic,344.03,51,1,24.0,Wallet,Month-to-Month,Yes,No
+CUST1283,Customer_283,40,Female,North,Basic,847.04,50,2,6.9,Wallet,Two Year,Yes,Yes
+CUST1284,Customer_284,48,Female,West,Basic,1745.06,11,1,10.6,Credit Card,One Year,No,Yes
+CUST1285,Customer_285,47,Male,West,Basic,618.69,56,2,12.5,UPI,Two Year,Yes,No
+CUST1286,Customer_286,59,Female,South,Premium,407.91,71,2,24.7,Net Banking,Month-to-Month,No,Yes
+CUST1287,Customer_287,52,Male,South,Basic,786.99,42,0,15.6,UPI,Month-to-Month,Yes,Yes
+CUST1288,Customer_288,24,Other,West,Standard,596.79,39,4,20.7,Credit Card,Month-to-Month,No,No
+CUST1289,Customer_289,33,Female,South,Standard,1865.52,69,2,26.4,UPI,Month-to-Month,Yes,No
+CUST1290,Customer_290,43,Female,North,Standard,1762.34,48,3,38.3,Debit Card,Month-to-Month,Yes,No
+CUST1291,Customer_291,65,Male,West,Basic,1099.43,57,0,30.8,UPI,One Year,No,No
+CUST1292,Customer_292,69,Female,South,Premium,310.42,21,2,16.8,Wallet,Month-to-Month,Yes,No
+CUST1293,Customer_293,66,Female,East,Basic,1486.21,20,1,30.2,Wallet,Month-to-Month,Yes,No
+CUST1294,Customer_294,19,Male,West,Standard,1322.14,15,3,38.0,Debit Card,Month-to-Month,Yes,No
+CUST1295,Customer_295,18,Male,West,Premium,1947.0,69,1,20.5,UPI,Month-to-Month,Yes,Yes
+CUST1296,Customer_296,65,Female,East,Standard,1206.12,51,7,17.0,Net Banking,Month-to-Month,No,Yes
+CUST1297,Customer_297,29,Male,North,Standard,805.51,62,2,4.0,UPI,Month-to-Month,No,No
+CUST1298,Customer_298,22,Female,East,Basic,1134.24,37,0,35.8,Wallet,One Year,Yes,No
+CUST1299,Customer_299,54,Male,West,Basic,1962.67,6,3,10.6,Wallet,Month-to-Month,Yes,Yes
+CUST1300,Customer_300,49,Male,North,Standard,1453.45,71,5,3.5,Credit Card,One Year,Yes,Yes
+CUST1301,Customer_301,26,Female,South,Basic,1409.56,26,1,22.0,Wallet,Month-to-Month,No,No
+CUST1302,Customer_302,58,Male,South,Premium,633.23,8,1,34.0,Credit Card,Month-to-Month,No,Yes
+CUST1303,Customer_303,52,Female,South,Basic,1538.48,4,1,16.9,Wallet,One Year,No,No
+CUST1304,Customer_304,36,Male,West,Basic,1550.49,21,2,31.5,Wallet,Month-to-Month,Yes,Yes
+CUST1305,Customer_305,65,Male,East,Basic,771.12,31,1,33.6,Net Banking,Month-to-Month,Yes,Yes
+CUST1306,Customer_306,33,Female,North,Basic,1070.68,21,4,18.7,Credit Card,Two Year,Yes,No
+CUST1307,Customer_307,20,Female,South,Standard,730.29,25,2,24.0,Credit Card,Month-to-Month,Yes,No
+CUST1308,Customer_308,37,Female,North,Standard,665.67,15,3,21.8,Wallet,Month-to-Month,No,No
+CUST1309,Customer_309,41,Female,West,Standard,246.61,35,2,37.6,Credit Card,One Year,Yes,No
+CUST1310,Customer_310,50,Female,South,Premium,713.38,49,0,29.3,Wallet,One Year,No,No
+CUST1311,Customer_311,41,Male,West,Premium,1197.15,43,1,37.1,Wallet,Month-to-Month,Yes,No
+CUST1312,Customer_312,69,Male,East,Premium,202.88,41,5,9.6,UPI,Month-to-Month,No,No
+CUST1313,Customer_313,28,Female,West,Basic,709.79,37,4,13.1,Credit Card,Two Year,Yes,No
+CUST1314,Customer_314,66,Female,West,Standard,1786.54,57,1,3.8,Debit Card,Month-to-Month,Yes,Yes
+CUST1315,Customer_315,25,Female,East,Basic,1268.57,42,3,20.5,Credit Card,Month-to-Month,Yes,No
+CUST1316,Customer_316,53,Male,North,Basic,1294.15,47,2,35.1,Credit Card,Month-to-Month,No,No
+CUST1317,Customer_317,55,Male,East,Standard,926.06,61,3,13.7,Net Banking,Two Year,Yes,Yes
+CUST1318,Customer_318,57,Female,East,Basic,1417.65,14,1,6.0,Debit Card,Month-to-Month,No,Yes
+CUST1319,Customer_319,37,Female,West,Basic,541.88,68,1,3.7,Debit Card,One Year,Yes,No
+CUST1320,Customer_320,52,Female,North,Basic,1673.74,53,1,18.5,Net Banking,Month-to-Month,Yes,No
+CUST1321,Customer_321,65,Female,South,Basic,410.04,34,1,7.4,Net Banking,Month-to-Month,No,Yes
+CUST1322,Customer_322,42,Female,East,Premium,1380.8,24,2,14.5,Credit Card,One Year,Yes,Yes
+CUST1323,Customer_323,52,Male,North,Basic,814.07,20,2,33.0,UPI,Two Year,Yes,No
+CUST1324,Customer_324,42,Male,East,Basic,1545.52,69,0,16.0,Net Banking,Month-to-Month,Yes,No
+CUST1325,Customer_325,46,Male,East,Standard,1189.58,30,1,24.8,Debit Card,Month-to-Month,No,Yes
+CUST1326,Customer_326,35,Male,East,Basic,1014.24,7,0,20.6,Debit Card,Two Year,Yes,No
+CUST1327,Customer_327,63,Female,East,Premium,504.96,36,2,29.0,Credit Card,One Year,Yes,Yes
+CUST1328,Customer_328,35,Male,West,Basic,1346.28,38,0,7.1,UPI,Month-to-Month,Yes,No
+CUST1329,Customer_329,19,Female,North,Standard,1954.59,52,3,36.9,Wallet,Month-to-Month,Yes,No
+CUST1330,Customer_330,52,Male,North,Standard,1686.09,15,2,26.1,Net Banking,One Year,Yes,No
+CUST1331,Customer_331,33,Male,North,Premium,308.01,46,2,11.6,Net Banking,One Year,Yes,No
+CUST1332,Customer_332,58,Male,East,Standard,877.21,23,4,5.8,Credit Card,Two Year,No,Yes
+CUST1333,Customer_333,53,Male,West,Premium,1866.05,12,2,6.8,UPI,Month-to-Month,Yes,No
+CUST1334,Customer_334,50,Female,East,Basic,1105.48,44,1,31.5,Debit Card,Month-to-Month,No,Yes
+CUST1335,Customer_335,21,Male,East,Basic,1391.8,15,0,23.9,Debit Card,One Year,No,No
+CUST1336,Customer_336,50,Female,North,Basic,1842.68,49,1,15.8,Wallet,Month-to-Month,No,No
+CUST1337,Customer_337,31,Male,East,Premium,1772.83,21,1,14.0,Debit Card,Month-to-Month,Yes,No
+CUST1338,Customer_338,38,Male,South,Basic,1103.28,15,2,34.4,Net Banking,Month-to-Month,Yes,No
+CUST1339,Customer_339,65,Male,East,Basic,987.76,14,1,35.1,Wallet,Month-to-Month,No,Yes
+CUST1340,Customer_340,37,Female,South,Basic,811.45,42,4,23.7,UPI,Month-to-Month,Yes,No
+CUST1341,Customer_341,25,Female,East,Basic,1494.23,15,1,21.5,Wallet,One Year,Yes,Yes
+CUST1342,Customer_342,24,Male,West,Basic,716.58,63,2,32.8,UPI,One Year,No,No
+CUST1343,Customer_343,20,Male,West,Premium,649.8,68,0,30.2,Debit Card,Month-to-Month,Yes,Yes
+CUST1344,Customer_344,34,Female,North,Standard,841.25,27,1,16.6,Credit Card,Month-to-Month,Yes,Yes
+CUST1345,Customer_345,50,Male,East,Standard,518.99,53,2,4.2,Wallet,Month-to-Month,Yes,Yes
+CUST1346,Customer_346,65,Male,South,Standard,1451.22,52,2,31.0,Wallet,One Year,No,No
+CUST1347,Customer_347,29,Female,South,Basic,1309.23,63,5,7.6,Net Banking,Month-to-Month,Yes,Yes
+CUST1348,Customer_348,68,Female,East,Basic,1069.18,53,3,1.6,Net Banking,One Year,No,No
+CUST1349,Customer_349,39,Male,South,Basic,902.59,57,0,33.9,UPI,Month-to-Month,Yes,Yes
+CUST1350,Customer_350,39,Female,West,Basic,1836.31,52,1,23.6,Credit Card,Month-to-Month,Yes,Yes
+CUST1351,Customer_351,63,Female,South,Standard,252.42,43,0,35.8,Net Banking,One Year,Yes,No
+CUST1352,Customer_352,47,Male,North,Basic,1584.39,7,2,19.9,Net Banking,Month-to-Month,Yes,No
+CUST1353,Customer_353,55,Female,West,Basic,1823.44,42,2,37.1,Debit Card,Month-to-Month,Yes,Yes
+CUST1354,Customer_354,55,Female,West,Standard,1003.44,4,5,14.8,Debit Card,Month-to-Month,Yes,Yes
+CUST1355,Customer_355,62,Male,West,Premium,1191.24,69,2,29.3,Net Banking,Month-to-Month,No,No
+CUST1356,Customer_356,68,Male,East,Premium,1900.03,5,2,12.7,UPI,Month-to-Month,Yes,No
+CUST1357,Customer_357,25,Male,East,Premium,582.1,41,3,1.0,Credit Card,Month-to-Month,Yes,No
+CUST1358,Customer_358,44,Female,West,Premium,1136.24,4,5,15.8,Net Banking,One Year,Yes,Yes
+CUST1359,Customer_359,44,Male,East,Basic,1054.5,2,5,29.8,UPI,One Year,No,No
+CUST1360,Customer_360,51,Female,South,Premium,665.11,67,2,6.9,UPI,One Year,Yes,Yes
+CUST1361,Customer_361,38,Female,East,Basic,1673.47,21,1,20.7,Net Banking,Month-to-Month,Yes,No
+CUST1362,Customer_362,47,Male,East,Standard,1819.28,70,0,9.3,UPI,One Year,No,No
+CUST1363,Customer_363,50,Female,West,Standard,1607.48,43,1,3.9,Wallet,Month-to-Month,Yes,No
+CUST1364,Customer_364,45,Male,North,Basic,551.65,69,1,25.1,UPI,Month-to-Month,Yes,No
+CUST1365,Customer_365,64,Female,North,Premium,356.15,9,1,38.1,Net Banking,Month-to-Month,Yes,No
+CUST1366,Customer_366,50,Female,North,Premium,1289.8,28,2,13.1,UPI,Two Year,No,Yes
+CUST1367,Customer_367,22,Male,South,Basic,302.77,26,2,23.6,Net Banking,Month-to-Month,Yes,Yes
+CUST1368,Customer_368,65,Male,East,Premium,1411.09,3,1,38.2,Debit Card,Two Year,Yes,No
+CUST1369,Customer_369,36,Male,North,Basic,1154.76,49,1,26.4,Net Banking,Month-to-Month,No,No
+CUST1370,Customer_370,21,Male,West,Standard,1393.01,17,1,27.3,UPI,Month-to-Month,Yes,Yes
+CUST1371,Customer_371,52,Male,North,Standard,1262.31,63,2,8.0,Net Banking,Month-to-Month,No,No
+CUST1372,Customer_372,66,Male,North,Standard,960.86,55,2,20.2,Credit Card,One Year,Yes,No
+CUST1373,Customer_373,34,Other,East,Premium,561.58,23,1,15.3,Net Banking,Month-to-Month,Yes,No
+CUST1374,Customer_374,61,Male,East,Premium,750.26,34,3,19.4,Net Banking,Two Year,Yes,No
+CUST1375,Customer_375,45,Male,East,Premium,1144.1,69,2,32.2,Credit Card,One Year,Yes,No
+CUST1376,Customer_376,47,Female,South,Basic,1373.36,15,1,19.0,Credit Card,One Year,Yes,Yes
+CUST1377,Customer_377,46,Male,South,Premium,1603.07,47,1,3.5,Credit Card,Month-to-Month,Yes,No
+CUST1378,Customer_378,63,Other,North,Basic,1580.91,3,1,36.3,Wallet,Two Year,Yes,No
+CUST1379,Customer_379,23,Female,East,Premium,1950.84,28,3,22.2,Net Banking,One Year,No,Yes
+CUST1380,Customer_380,52,Female,North,Basic,714.51,3,1,37.1,Credit Card,Month-to-Month,Yes,No
+CUST1381,Customer_381,58,Male,West,Basic,328.0,4,5,23.3,Credit Card,One Year,No,No
+CUST1382,Customer_382,54,Male,West,Standard,822.18,31,1,3.7,Debit Card,Month-to-Month,No,Yes
+CUST1383,Customer_383,41,Male,East,Basic,1537.93,45,3,22.6,Wallet,Month-to-Month,No,Yes
+CUST1384,Customer_384,46,Female,East,Basic,988.6,59,5,23.5,Net Banking,Month-to-Month,No,Yes
+CUST1385,Customer_385,66,Male,West,Basic,1672.02,45,1,9.4,UPI,Month-to-Month,Yes,No
+CUST1386,Customer_386,63,Male,East,Basic,1188.79,37,0,19.4,Wallet,Month-to-Month,No,No
+CUST1387,Customer_387,48,Other,South,Basic,1873.63,65,3,18.9,Wallet,Month-to-Month,No,No
+CUST1388,Customer_388,52,Male,South,Basic,1906.15,9,2,25.3,Debit Card,One Year,No,No
+CUST1389,Customer_389,50,Male,East,Standard,324.75,17,0,11.1,Net Banking,Two Year,Yes,No
+CUST1390,Customer_390,69,Male,West,Basic,1021.54,65,0,23.7,Net Banking,Two Year,No,No
+CUST1391,Customer_391,38,Other,North,Standard,1297.44,3,2,10.4,Credit Card,Month-to-Month,No,No
+CUST1392,Customer_392,49,Male,East,Basic,660.57,26,1,18.4,Credit Card,One Year,No,Yes
+CUST1393,Customer_393,40,Female,East,Premium,932.74,53,2,5.8,Wallet,Month-to-Month,Yes,No
+CUST1394,Customer_394,50,Female,North,Premium,1419.83,31,2,2.5,Debit Card,One Year,Yes,No
+CUST1395,Customer_395,20,Male,East,Basic,608.12,26,2,13.5,Net Banking,Month-to-Month,No,Yes
+CUST1396,Customer_396,35,Female,North,Premium,1283.57,23,3,11.7,Debit Card,Month-to-Month,Yes,No
+CUST1397,Customer_397,42,Male,West,Premium,1455.41,30,2,16.9,UPI,One Year,Yes,No
+CUST1398,Customer_398,59,Male,South,Premium,362.89,10,1,38.5,Net Banking,Month-to-Month,No,No
+CUST1399,Customer_399,48,Female,West,Standard,1095.55,64,2,21.4,Credit Card,Month-to-Month,Yes,No
+CUST1400,Customer_400,20,Female,South,Basic,673.54,22,2,22.6,Wallet,One Year,Yes,Yes
+CUST1401,Customer_401,57,Female,North,Standard,1503.9,15,2,37.7,Debit Card,Month-to-Month,Yes,No
+CUST1402,Customer_402,63,Female,South,Standard,541.2,56,4,36.9,Credit Card,Month-to-Month,Yes,Yes
+CUST1403,Customer_403,41,Male,West,Standard,1806.03,20,4,35.5,Wallet,Month-to-Month,Yes,Yes
+CUST1404,Customer_404,67,Male,South,Basic,975.69,47,0,4.8,Credit Card,Month-to-Month,Yes,No
+CUST1405,Customer_405,49,Male,North,Premium,556.41,53,3,25.7,Net Banking,Month-to-Month,Yes,No
+CUST1406,Customer_406,64,Male,South,Premium,988.44,53,1,32.5,Debit Card,One Year,Yes,No
+CUST1407,Customer_407,39,Male,East,Basic,935.74,1,3,33.6,UPI,Month-to-Month,No,No
+CUST1408,Customer_408,40,Male,West,Basic,972.05,2,3,23.5,Credit Card,One Year,Yes,No
+CUST1409,Customer_409,19,Male,East,Basic,1254.01,58,2,1.7,Debit Card,Month-to-Month,Yes,No
+CUST1410,Customer_410,44,Male,North,Premium,1138.11,19,2,39.0,Net Banking,Month-to-Month,Yes,No
+CUST1411,Customer_411,59,Female,South,Standard,469.6,62,1,19.4,Credit Card,One Year,No,Yes
+CUST1412,Customer_412,19,Female,East,Standard,318.04,12,2,16.4,Net Banking,One Year,No,Yes
+CUST1413,Customer_413,43,Male,East,Standard,1512.95,26,0,16.4,UPI,One Year,Yes,No
+CUST1414,Customer_414,34,Female,South,Standard,1207.49,27,1,17.5,UPI,Two Year,Yes,No
+CUST1415,Customer_415,57,Female,South,Basic,846.2,29,2,10.4,Wallet,Month-to-Month,Yes,Yes
+CUST1416,Customer_416,50,Male,West,Standard,1655.04,15,1,13.8,Wallet,Month-to-Month,No,Yes
+CUST1417,Customer_417,26,Female,East,Premium,898.51,46,2,39.4,Wallet,Two Year,Yes,Yes
+CUST1418,Customer_418,60,Female,East,Premium,1632.74,1,2,15.4,Net Banking,Month-to-Month,Yes,No
+CUST1419,Customer_419,65,Female,North,Premium,750.36,60,1,21.5,Wallet,Month-to-Month,No,Yes
+CUST1420,Customer_420,56,Male,West,Premium,331.12,57,0,34.1,Debit Card,Month-to-Month,No,Yes
+CUST1421,Customer_421,46,Female,North,Standard,1878.75,3,2,21.6,Net Banking,One Year,Yes,No
+CUST1422,Customer_422,59,Male,East,Standard,910.19,18,3,13.7,Net Banking,Month-to-Month,No,No
+CUST1423,Customer_423,43,Female,North,Standard,1626.85,52,3,21.4,Wallet,Month-to-Month,Yes,No
+CUST1424,Customer_424,52,Female,East,Premium,702.46,60,1,5.4,Wallet,Month-to-Month,No,No
+CUST1425,Customer_425,67,Female,East,Basic,1363.46,34,2,6.1,Net Banking,One Year,Yes,Yes
+CUST1426,Customer_426,42,Female,North,Basic,1771.96,60,3,28.1,UPI,Month-to-Month,Yes,No
+CUST1427,Customer_427,41,Female,North,Basic,274.96,26,1,36.8,UPI,Month-to-Month,Yes,No
+CUST1428,Customer_428,30,Male,South,Standard,1695.14,19,2,29.3,Wallet,One Year,Yes,No
+CUST1429,Customer_429,24,Male,South,Basic,1228.4,22,1,3.9,UPI,Two Year,Yes,No
+CUST1430,Customer_430,53,Female,South,Basic,1293.45,33,4,16.7,Debit Card,One Year,Yes,No
+CUST1431,Customer_431,62,Male,East,Basic,1141.68,38,2,1.1,Debit Card,One Year,Yes,Yes
+CUST1432,Customer_432,37,Male,North,Basic,1774.06,35,5,20.9,Debit Card,Month-to-Month,Yes,No
+CUST1433,Customer_433,18,Male,West,Premium,278.18,67,2,8.5,Net Banking,Month-to-Month,No,Yes
+CUST1434,Customer_434,25,Male,East,Basic,669.85,10,4,34.9,Net Banking,Month-to-Month,Yes,No
+CUST1435,Customer_435,63,Female,West,Standard,1776.37,15,3,5.1,Net Banking,One Year,Yes,No
+CUST1436,Customer_436,33,Female,North,Standard,1554.22,11,0,1.1,Net Banking,Month-to-Month,Yes,No
+CUST1437,Customer_437,31,Female,East,Premium,231.76,24,3,18.6,Net Banking,One Year,Yes,No
+CUST1438,Customer_438,29,Female,West,Basic,1130.61,4,1,7.1,Wallet,Two Year,Yes,No
+CUST1439,Customer_439,68,Male,West,Premium,1153.23,13,3,29.8,UPI,Month-to-Month,Yes,No
+CUST1440,Customer_440,40,Male,South,Standard,921.59,57,2,36.9,Wallet,Month-to-Month,Yes,No
+CUST1441,Customer_441,32,Female,South,Premium,735.31,37,1,2.6,UPI,Month-to-Month,Yes,No
+CUST1442,Customer_442,45,Male,South,Premium,1427.1,48,0,16.4,Wallet,Month-to-Month,No,No
+CUST1443,Customer_443,51,Female,East,Basic,574.02,71,1,39.9,Debit Card,Month-to-Month,Yes,No
+CUST1444,Customer_444,19,Female,North,Basic,1638.11,1,1,29.6,Credit Card,Two Year,Yes,No
+CUST1445,Customer_445,49,Male,North,Basic,1645.47,60,4,38.2,Net Banking,Month-to-Month,Yes,No
+CUST1446,Customer_446,40,Female,South,Standard,947.47,12,1,7.4,Credit Card,Month-to-Month,No,No
+CUST1447,Customer_447,39,Female,South,Basic,710.39,21,2,9.6,Credit Card,Month-to-Month,Yes,No
+CUST1448,Customer_448,68,Female,South,Basic,710.98,11,3,7.0,Debit Card,Two Year,No,No
+CUST1449,Customer_449,42,Male,West,Standard,1068.12,44,3,12.8,Credit Card,One Year,Yes,No
+CUST1450,Customer_450,39,Male,South,Basic,1495.24,58,1,29.3,Credit Card,Two Year,Yes,No
+CUST1451,Customer_451,39,Female,West,Basic,845.96,44,2,7.4,Debit Card,Two Year,No,Yes
+CUST1452,Customer_452,66,Male,North,Standard,1298.08,34,4,21.4,UPI,Month-to-Month,No,No
+CUST1453,Customer_453,69,Male,East,Basic,888.47,25,5,11.5,Wallet,Month-to-Month,Yes,No
+CUST1454,Customer_454,59,Female,East,Basic,748.14,4,1,33.3,Credit Card,Month-to-Month,Yes,Yes
+CUST1455,Customer_455,23,Male,East,Standard,244.75,64,2,1.3,Net Banking,Month-to-Month,Yes,No
+CUST1456,Customer_456,32,Female,East,Standard,207.05,16,3,9.7,Debit Card,One Year,No,No
+CUST1457,Customer_457,60,Female,West,Premium,608.97,10,2,24.6,Credit Card,Month-to-Month,Yes,No
+CUST1458,Customer_458,54,Female,West,Standard,931.53,66,2,4.8,UPI,Month-to-Month,Yes,No
+CUST1459,Customer_459,50,Male,South,Standard,1732.27,35,3,19.2,UPI,One Year,Yes,No
+CUST1460,Customer_460,25,Female,West,Standard,1637.27,6,2,18.0,Net Banking,One Year,Yes,No
+CUST1461,Customer_461,61,Male,South,Premium,680.9,19,0,34.2,Credit Card,One Year,Yes,Yes
+CUST1462,Customer_462,61,Male,South,Premium,640.17,59,4,25.4,Net Banking,Month-to-Month,Yes,No
+CUST1463,Customer_463,22,Female,East,Premium,609.18,53,1,25.9,UPI,One Year,Yes,No
+CUST1464,Customer_464,56,Male,West,Standard,810.63,8,0,38.1,UPI,Month-to-Month,Yes,No
+CUST1465,Customer_465,21,Male,West,Basic,1096.76,10,3,39.3,Wallet,Month-to-Month,Yes,No
+CUST1466,Customer_466,23,Female,South,Basic,989.6,67,3,26.5,UPI,One Year,Yes,Yes
+CUST1467,Customer_467,62,Male,South,Basic,592.89,38,2,21.4,Debit Card,Two Year,Yes,No
+CUST1468,Customer_468,49,Male,North,Premium,434.81,29,3,24.7,Wallet,Month-to-Month,Yes,No
+CUST1469,Customer_469,69,Female,North,Standard,222.64,15,1,15.9,Net Banking,Month-to-Month,Yes,Yes
+CUST1470,Customer_470,47,Female,South,Standard,477.13,23,1,39.5,UPI,Month-to-Month,Yes,No
+CUST1471,Customer_471,64,Female,North,Basic,1469.64,46,2,28.5,Debit Card,Month-to-Month,No,No
+CUST1472,Customer_472,52,Male,North,Premium,638.55,28,3,12.3,Wallet,Two Year,Yes,No
+CUST1473,Customer_473,57,Male,South,Basic,1043.48,26,4,3.3,Debit Card,Month-to-Month,Yes,No
+CUST1474,Customer_474,69,Male,South,Basic,1264.34,10,2,2.7,Wallet,One Year,Yes,Yes
+CUST1475,Customer_475,33,Male,West,Basic,1796.31,47,4,9.0,Wallet,One Year,Yes,No
+CUST1476,Customer_476,30,Female,South,Standard,1799.94,4,1,10.1,Wallet,Month-to-Month,Yes,Yes
+CUST1477,Customer_477,67,Male,South,Standard,1542.32,55,0,17.2,Net Banking,Month-to-Month,Yes,No
+CUST1478,Customer_478,59,Male,East,Premium,263.28,66,3,9.4,Wallet,Month-to-Month,Yes,No
+CUST1479,Customer_479,47,Female,West,Basic,1235.13,67,6,25.6,Wallet,Month-to-Month,Yes,No
+CUST1480,Customer_480,36,Female,West,Standard,1615.85,7,3,9.2,Debit Card,Month-to-Month,Yes,No
+CUST1481,Customer_481,34,Female,West,Standard,231.12,55,3,8.3,Wallet,Month-to-Month,No,Yes
+CUST1482,Customer_482,36,Male,East,Basic,1189.43,31,3,19.4,Net Banking,One Year,No,No
+CUST1483,Customer_483,45,Male,South,Premium,1743.98,19,4,35.7,Debit Card,Month-to-Month,No,No
+CUST1484,Customer_484,43,Male,West,Premium,1053.38,28,2,19.3,Wallet,One Year,Yes,No
+CUST1485,Customer_485,54,Male,West,Standard,207.39,28,1,17.1,Debit Card,Month-to-Month,No,Yes
+CUST1486,Customer_486,43,Female,North,Premium,219.82,19,5,23.5,Net Banking,One Year,No,No
+CUST1487,Customer_487,40,Female,West,Standard,949.94,20,3,11.0,Debit Card,Two Year,No,No
+CUST1488,Customer_488,26,Female,South,Basic,479.02,13,3,14.8,Net Banking,Month-to-Month,Yes,No
+CUST1489,Customer_489,29,Female,South,Standard,1396.01,43,0,9.3,UPI,Two Year,No,No
+CUST1490,Customer_490,18,Male,North,Basic,1475.84,11,0,23.3,Wallet,One Year,Yes,No
+CUST1491,Customer_491,18,Female,West,Basic,520.18,48,2,28.2,Net Banking,One Year,Yes,No
+CUST1492,Customer_492,64,Male,West,Basic,1799.36,15,2,27.3,Wallet,One Year,Yes,No
+CUST1493,Customer_493,51,Female,West,Standard,995.43,17,2,10.9,Net Banking,Month-to-Month,No,Yes
+CUST1494,Customer_494,49,Female,East,Standard,457.12,54,0,31.4,Credit Card,Month-to-Month,No,No
+CUST1495,Customer_495,65,Male,West,Basic,1575.65,50,0,11.0,Credit Card,Month-to-Month,Yes,No
+CUST1496,Customer_496,42,Male,South,Standard,1621.95,28,2,6.9,Credit Card,Month-to-Month,Yes,Yes
+CUST1497,Customer_497,57,Other,South,Premium,1350.73,4,0,14.6,Net Banking,Two Year,Yes,Yes
+CUST1498,Customer_498,62,Male,East,Basic,1736.24,22,0,24.3,Wallet,One Year,Yes,Yes
+CUST1499,Customer_499,18,Male,East,Basic,1527.27,39,5,6.5,Credit Card,Month-to-Month,Yes,No
+CUST1500,Customer_500,33,Male,West,Premium,1787.97,34,1,26.3,Wallet,One Year,Yes,Yes
+CUST1501,Customer_501,56,Female,North,Basic,981.0,44,2,34.7,Net Banking,One Year,No,Yes
+CUST1502,Customer_502,22,Female,East,Standard,1545.67,42,1,12.4,Wallet,Month-to-Month,Yes,No
+CUST1503,Customer_503,39,Female,East,Basic,1999.55,40,0,18.6,Wallet,Month-to-Month,Yes,No
+CUST1504,Customer_504,46,Male,West,Standard,1504.88,12,0,9.9,Credit Card,Month-to-Month,No,No
+CUST1505,Customer_505,20,Female,West,Standard,405.53,2,0,15.1,Debit Card,Two Year,No,No
+CUST1506,Customer_506,29,Male,East,Standard,1132.97,28,0,1.9,UPI,One Year,No,No
+CUST1507,Customer_507,43,Female,North,Premium,1257.23,67,2,38.2,Net Banking,Month-to-Month,Yes,No
+CUST1508,Customer_508,33,Female,East,Premium,513.58,71,4,17.2,Net Banking,Month-to-Month,No,No
+CUST1509,Customer_509,68,Male,West,Premium,1933.2,10,0,31.8,Net Banking,One Year,Yes,No
+CUST1510,Customer_510,54,Male,West,Standard,516.04,57,1,6.6,UPI,Two Year,No,No
+CUST1511,Customer_511,39,Male,East,Basic,519.6,37,3,32.7,Debit Card,One Year,No,Yes
+CUST1512,Customer_512,46,Male,North,Standard,1847.3,64,1,34.5,Wallet,One Year,No,No
+CUST1513,Customer_513,31,Male,East,Basic,1037.37,40,2,28.9,Net Banking,Month-to-Month,Yes,No
+CUST1514,Customer_514,45,Female,East,Premium,313.74,60,1,36.2,Wallet,Month-to-Month,Yes,No
+CUST1515,Customer_515,22,Female,West,Basic,1276.74,48,4,7.5,Credit Card,Month-to-Month,No,No
+CUST1516,Customer_516,64,Male,North,Standard,1283.29,19,3,19.6,Credit Card,One Year,No,No
+CUST1517,Customer_517,66,Male,South,Basic,316.1,33,1,25.2,Credit Card,Month-to-Month,Yes,No
+CUST1518,Customer_518,47,Male,North,Premium,1950.54,44,2,24.3,Net Banking,One Year,No,No
+CUST1519,Customer_519,63,Female,East,Premium,1179.25,37,1,34.6,UPI,Month-to-Month,Yes,No
+CUST1520,Customer_520,69,Male,East,Basic,1207.63,36,4,9.4,Net Banking,One Year,Yes,No
+CUST1521,Customer_521,22,Female,East,Premium,1136.21,21,0,7.9,Credit Card,Month-to-Month,Yes,No
+CUST1522,Customer_522,29,Female,North,Basic,1299.32,2,5,10.9,Credit Card,Month-to-Month,Yes,No
+CUST1523,Customer_523,33,Female,West,Standard,675.74,31,2,35.8,Net Banking,One Year,Yes,No
+CUST1524,Customer_524,43,Female,East,Premium,717.03,30,3,37.7,UPI,Month-to-Month,No,No
+CUST1525,Customer_525,43,Male,East,Basic,1120.41,44,3,23.2,UPI,Two Year,Yes,Yes
+CUST1526,Customer_526,65,Female,North,Premium,1652.03,12,1,20.6,Wallet,Month-to-Month,Yes,No
+CUST1527,Customer_527,38,Male,South,Basic,289.76,51,2,24.6,Debit Card,Month-to-Month,No,Yes
+CUST1528,Customer_528,56,Male,South,Basic,1286.13,49,0,25.0,Credit Card,One Year,No,No
+CUST1529,Customer_529,53,Female,West,Premium,1652.2,24,1,7.6,UPI,Two Year,Yes,No
+CUST1530,Customer_530,50,Female,West,Basic,482.45,24,0,27.8,Credit Card,Month-to-Month,Yes,No
+CUST1531,Customer_531,47,Female,East,Premium,227.04,60,4,18.6,Debit Card,Two Year,Yes,No
+CUST1532,Customer_532,54,Male,North,Premium,762.88,11,4,21.2,Credit Card,Month-to-Month,No,No
+CUST1533,Customer_533,40,Male,East,Basic,1258.66,13,3,2.2,UPI,Month-to-Month,Yes,No
+CUST1534,Customer_534,27,Female,West,Standard,448.91,64,1,30.8,Wallet,Month-to-Month,Yes,No
+CUST1535,Customer_535,22,Male,North,Basic,967.02,20,4,33.6,Net Banking,Month-to-Month,No,No
+CUST1536,Customer_536,53,Female,North,Standard,1194.18,71,1,25.2,Net Banking,Month-to-Month,Yes,Yes
+CUST1537,Customer_537,51,Female,West,Basic,1277.99,28,5,30.2,UPI,Month-to-Month,Yes,Yes
+CUST1538,Customer_538,69,Female,South,Basic,693.94,2,0,21.4,UPI,Month-to-Month,No,No
+CUST1539,Customer_539,48,Male,South,Basic,920.05,43,3,25.1,Debit Card,One Year,Yes,Yes
+CUST1540,Customer_540,27,Male,North,Standard,1601.01,8,0,16.4,Credit Card,Month-to-Month,Yes,No
+CUST1541,Customer_541,36,Male,East,Premium,1894.19,13,4,31.9,Debit Card,Two Year,No,Yes
+CUST1542,Customer_542,49,Female,South,Premium,1751.38,35,1,19.3,Net Banking,One Year,No,No
+CUST1543,Customer_543,18,Male,East,Standard,1215.71,23,2,27.5,Credit Card,Month-to-Month,Yes,No
+CUST1544,Customer_544,22,Female,South,Standard,938.53,46,2,25.2,Debit Card,Month-to-Month,Yes,No
+CUST1545,Customer_545,62,Male,South,Premium,799.32,15,2,28.4,Net Banking,Month-to-Month,No,Yes
+CUST1546,Customer_546,21,Other,East,Basic,424.92,2,1,31.6,Credit Card,One Year,Yes,Yes
+CUST1547,Customer_547,33,Male,West,Standard,391.79,61,2,21.0,Wallet,Month-to-Month,Yes,No
+CUST1548,Customer_548,41,Male,South,Premium,1439.04,64,3,32.7,Wallet,Month-to-Month,Yes,Yes
+CUST1549,Customer_549,33,Male,South,Basic,667.63,52,1,20.4,Debit Card,Two Year,Yes,No
+CUST1550,Customer_550,19,Female,East,Standard,658.39,36,2,38.3,UPI,One Year,No,No
+CUST1551,Customer_551,66,Female,West,Premium,1996.75,67,4,30.4,Credit Card,Month-to-Month,Yes,Yes
+CUST1552,Customer_552,45,Female,South,Premium,538.27,69,2,7.7,Debit Card,Month-to-Month,No,No
+CUST1553,Customer_553,49,Male,South,Standard,466.51,67,1,33.4,UPI,Two Year,No,No
+CUST1554,Customer_554,44,Male,West,Basic,377.63,47,0,22.5,UPI,Two Year,No,No
+CUST1555,Customer_555,37,Female,South,Basic,1243.65,2,2,39.4,Credit Card,Month-to-Month,No,No
+CUST1556,Customer_556,41,Male,West,Basic,1330.15,44,2,29.0,Credit Card,Month-to-Month,No,No
+CUST1557,Customer_557,29,Male,West,Premium,857.41,64,2,4.3,UPI,One Year,Yes,No
+CUST1558,Customer_558,67,Other,East,Basic,1163.74,28,2,16.4,Net Banking,One Year,Yes,No
+CUST1559,Customer_559,52,Other,North,Premium,1619.12,54,0,21.2,Debit Card,One Year,No,Yes
+CUST1560,Customer_560,50,Female,West,Basic,1672.59,67,3,33.7,Credit Card,Month-to-Month,Yes,No
+CUST1561,Customer_561,50,Female,East,Basic,1924.24,36,1,29.4,UPI,Two Year,Yes,No
+CUST1562,Customer_562,68,Male,North,Standard,1683.68,63,3,15.4,Net Banking,Month-to-Month,Yes,No
+CUST1563,Customer_563,60,Male,South,Standard,1216.71,25,5,26.5,Wallet,Month-to-Month,Yes,No
+CUST1564,Customer_564,54,Female,North,Basic,523.38,48,4,23.5,UPI,One Year,No,No
+CUST1565,Customer_565,29,Female,West,Standard,379.57,39,2,5.9,Net Banking,Month-to-Month,No,No
+CUST1566,Customer_566,20,Male,West,Standard,298.12,47,2,10.2,Wallet,Two Year,Yes,No
+CUST1567,Customer_567,18,Male,West,Basic,1399.75,21,5,14.3,Net Banking,Month-to-Month,No,No
+CUST1568,Customer_568,50,Male,West,Basic,1653.57,30,0,8.6,Credit Card,One Year,Yes,No
+CUST1569,Customer_569,57,Female,West,Premium,1115.63,31,2,6.9,UPI,Month-to-Month,No,No
+CUST1570,Customer_570,27,Female,East,Standard,298.49,26,4,3.3,Wallet,One Year,Yes,No
+CUST1571,Customer_571,60,Female,West,Basic,1163.85,22,6,35.1,Net Banking,Month-to-Month,No,Yes
+CUST1572,Customer_572,61,Male,East,Premium,1884.35,21,0,12.3,Wallet,One Year,Yes,No
+CUST1573,Customer_573,46,Other,South,Premium,1275.7,1,2,12.3,Debit Card,One Year,Yes,Yes
+CUST1574,Customer_574,30,Female,West,Standard,1656.97,37,1,9.0,UPI,Month-to-Month,No,Yes
+CUST1575,Customer_575,29,Male,West,Standard,1640.27,46,1,19.5,Credit Card,Month-to-Month,Yes,No
+CUST1576,Customer_576,48,Male,North,Premium,1877.83,9,3,21.1,Wallet,Month-to-Month,No,No
+CUST1577,Customer_577,63,Male,South,Premium,1586.41,17,3,9.1,Net Banking,One Year,Yes,No
+CUST1578,Customer_578,19,Male,West,Premium,1545.86,47,4,24.7,Wallet,Month-to-Month,Yes,No
+CUST1579,Customer_579,68,Female,West,Standard,621.38,59,2,29.2,Net Banking,Month-to-Month,Yes,No
+CUST1580,Customer_580,67,Male,South,Standard,307.87,54,4,15.6,Wallet,Month-to-Month,Yes,No
+CUST1581,Customer_581,52,Female,East,Standard,1131.68,12,4,23.8,Credit Card,Two Year,Yes,Yes
+CUST1582,Customer_582,40,Male,West,Basic,423.98,64,4,20.6,Credit Card,Month-to-Month,No,No
+CUST1583,Customer_583,34,Male,North,Standard,1931.95,6,3,8.6,UPI,Month-to-Month,Yes,No
+CUST1584,Customer_584,43,Male,West,Premium,721.86,53,3,29.5,Credit Card,One Year,No,No
+CUST1585,Customer_585,25,Male,North,Standard,1735.3,16,3,32.3,Wallet,One Year,Yes,Yes
+CUST1586,Customer_586,46,Female,North,Standard,897.72,5,1,26.3,Wallet,Month-to-Month,Yes,Yes
+CUST1587,Customer_587,43,Female,West,Standard,781.75,46,1,13.6,Credit Card,Two Year,Yes,No
+CUST1588,Customer_588,27,Female,West,Basic,1883.29,14,3,37.1,Debit Card,One Year,Yes,No
+CUST1589,Customer_589,43,Female,North,Standard,853.98,44,6,18.8,Wallet,Month-to-Month,No,No
+CUST1590,Customer_590,51,Male,South,Premium,902.52,63,0,11.4,UPI,Month-to-Month,Yes,Yes
+CUST1591,Customer_591,68,Male,South,Basic,390.97,52,2,16.9,Debit Card,Two Year,Yes,No
+CUST1592,Customer_592,58,Male,West,Basic,1406.8,26,2,28.0,Credit Card,Month-to-Month,Yes,No
+CUST1593,Customer_593,24,Female,East,Premium,719.91,53,0,34.0,Net Banking,Month-to-Month,Yes,No
+CUST1594,Customer_594,21,Male,South,Basic,1254.09,29,7,14.9,Wallet,Month-to-Month,Yes,No
+CUST1595,Customer_595,67,Male,West,Basic,1264.43,19,3,10.1,Net Banking,One Year,Yes,Yes
+CUST1596,Customer_596,62,Female,South,Premium,1494.56,47,4,25.4,UPI,Month-to-Month,Yes,No
+CUST1597,Customer_597,28,Male,East,Standard,1541.43,8,6,36.9,Debit Card,One Year,No,Yes
+CUST1598,Customer_598,46,Male,West,Standard,1126.01,23,2,8.1,Net Banking,Month-to-Month,No,No
+CUST1599,Customer_599,53,Male,East,Premium,795.79,35,1,32.3,UPI,One Year,Yes,Yes
+CUST1600,Customer_600,42,Female,West,Basic,1707.41,53,2,19.6,Net Banking,One Year,Yes,No
+CUST1601,Customer_601,38,Female,East,Standard,757.76,58,0,32.2,Net Banking,Month-to-Month,No,No
+CUST1602,Customer_602,53,Female,South,Standard,1113.52,5,1,20.7,UPI,One Year,No,No
+CUST1603,Customer_603,27,Male,South,Premium,922.25,16,1,15.7,Wallet,Month-to-Month,No,No
+CUST1604,Customer_604,54,Other,East,Standard,1739.14,17,5,28.2,Net Banking,One Year,No,Yes
+CUST1605,Customer_605,26,Female,East,Standard,977.45,32,2,36.1,UPI,Month-to-Month,Yes,No
+CUST1606,Customer_606,41,Male,East,Standard,894.98,52,2,13.5,Net Banking,Month-to-Month,No,No
+CUST1607,Customer_607,52,Female,West,Standard,1441.68,20,4,19.0,Wallet,Two Year,No,No
+CUST1608,Customer_608,66,Male,South,Premium,1284.39,66,1,9.9,UPI,Two Year,Yes,No
+CUST1609,Customer_609,52,Female,West,Standard,393.04,1,4,8.2,Net Banking,Month-to-Month,Yes,Yes
+CUST1610,Customer_610,65,Female,South,Standard,1114.7,58,0,31.3,Credit Card,Month-to-Month,Yes,No
+CUST1611,Customer_611,53,Male,North,Standard,1523.86,44,5,8.8,Wallet,Month-to-Month,Yes,No
+CUST1612,Customer_612,35,Other,West,Standard,1985.73,6,0,31.9,Net Banking,Two Year,Yes,No
+CUST1613,Customer_613,66,Female,South,Standard,1332.46,50,0,17.7,Debit Card,Month-to-Month,Yes,No
+CUST1614,Customer_614,56,Female,South,Premium,866.53,20,2,39.8,UPI,Month-to-Month,Yes,No
+CUST1615,Customer_615,49,Male,West,Standard,607.07,14,2,8.7,Net Banking,Month-to-Month,Yes,Yes
+CUST1616,Customer_616,41,Male,West,Premium,1771.09,5,0,4.6,Wallet,Two Year,Yes,No
+CUST1617,Customer_617,40,Male,South,Premium,1666.22,41,2,3.9,Wallet,Month-to-Month,No,No
+CUST1618,Customer_618,49,Female,West,Standard,621.06,40,5,33.6,Debit Card,Month-to-Month,Yes,Yes
+CUST1619,Customer_619,54,Male,East,Standard,561.14,34,2,18.1,Debit Card,Month-to-Month,No,Yes
+CUST1620,Customer_620,29,Female,West,Premium,1487.25,45,4,1.1,Net Banking,Month-to-Month,No,No
+CUST1621,Customer_621,66,Female,West,Standard,766.91,71,1,35.1,Credit Card,One Year,No,Yes
+CUST1622,Customer_622,30,Male,West,Premium,751.52,71,2,35.2,Wallet,Two Year,No,Yes
+CUST1623,Customer_623,40,Female,South,Standard,474.12,27,0,32.5,Credit Card,Two Year,Yes,No
+CUST1624,Customer_624,42,Male,East,Standard,675.16,44,1,10.7,Credit Card,Month-to-Month,Yes,No
+CUST1625,Customer_625,52,Other,North,Basic,969.51,33,1,15.5,Net Banking,One Year,Yes,Yes
+CUST1626,Customer_626,58,Female,North,Standard,1519.11,33,0,30.1,UPI,Month-to-Month,No,No
+CUST1627,Customer_627,47,Male,East,Premium,805.35,44,0,20.1,UPI,Month-to-Month,Yes,No
+CUST1628,Customer_628,34,Male,East,Standard,791.49,20,3,7.0,UPI,Two Year,Yes,No
+CUST1629,Customer_629,66,Male,East,Standard,712.84,36,2,10.5,Debit Card,Month-to-Month,No,No
+CUST1630,Customer_630,37,Female,South,Premium,1060.91,7,1,38.9,Wallet,Month-to-Month,No,No
+CUST1631,Customer_631,65,Female,North,Standard,525.15,32,4,6.9,Debit Card,Two Year,No,Yes
+CUST1632,Customer_632,42,Female,East,Standard,1074.14,67,2,29.3,Wallet,Month-to-Month,Yes,No
+CUST1633,Customer_633,39,Male,South,Premium,1467.52,39,4,19.6,Wallet,One Year,Yes,Yes
+CUST1634,Customer_634,30,Male,North,Standard,253.62,24,1,30.2,Wallet,Two Year,Yes,Yes
+CUST1635,Customer_635,36,Male,West,Basic,217.6,70,3,26.8,Net Banking,Month-to-Month,Yes,No
+CUST1636,Customer_636,66,Female,South,Standard,335.22,54,0,18.1,UPI,Month-to-Month,No,Yes
+CUST1637,Customer_637,53,Female,North,Standard,1164.19,38,2,14.8,Debit Card,Month-to-Month,Yes,No
+CUST1638,Customer_638,29,Male,South,Basic,1738.02,32,3,30.4,Debit Card,Month-to-Month,Yes,No
+CUST1639,Customer_639,58,Male,North,Standard,208.79,45,0,13.6,Net Banking,Month-to-Month,No,No
+CUST1640,Customer_640,36,Female,North,Standard,1885.99,61,4,31.7,Wallet,One Year,Yes,Yes
+CUST1641,Customer_641,29,Female,West,Basic,391.3,70,3,27.5,UPI,Month-to-Month,No,No
+CUST1642,Customer_642,26,Female,South,Standard,1715.57,53,4,23.5,Credit Card,Month-to-Month,No,No
+CUST1643,Customer_643,24,Female,East,Basic,1069.14,51,0,15.4,Credit Card,Month-to-Month,No,No
+CUST1644,Customer_644,45,Male,West,Standard,1386.84,56,0,9.0,Net Banking,Month-to-Month,Yes,No
+CUST1645,Customer_645,31,Male,West,Premium,1119.23,27,3,28.7,UPI,Two Year,Yes,Yes
+CUST1646,Customer_646,48,Female,North,Standard,1058.69,38,4,4.6,Credit Card,Month-to-Month,No,Yes
+CUST1647,Customer_647,69,Female,East,Basic,1702.82,62,1,38.9,Credit Card,One Year,No,No
+CUST1648,Customer_648,36,Male,South,Basic,1560.6,18,4,39.2,Debit Card,Month-to-Month,Yes,Yes
+CUST1649,Customer_649,64,Female,East,Basic,1070.12,64,2,6.1,UPI,Month-to-Month,Yes,No
+CUST1650,Customer_650,33,Female,East,Standard,400.94,30,1,5.1,Credit Card,Month-to-Month,Yes,No
+CUST1651,Customer_651,22,Female,East,Basic,407.73,49,2,17.1,Debit Card,Month-to-Month,No,No
+CUST1652,Customer_652,52,Female,East,Standard,1642.77,41,1,38.6,UPI,One Year,Yes,No
+CUST1653,Customer_653,29,Male,East,Basic,1152.9,13,2,16.6,Wallet,Month-to-Month,Yes,No
+CUST1654,Customer_654,42,Female,North,Premium,1066.86,34,3,15.2,UPI,Two Year,Yes,No
+CUST1655,Customer_655,69,Female,North,Basic,1425.02,25,1,28.4,Net Banking,Month-to-Month,Yes,No
+CUST1656,Customer_656,38,Female,West,Basic,1745.91,66,2,8.0,Debit Card,Two Year,No,No
+CUST1657,Customer_657,53,Female,North,Premium,1331.97,18,4,15.2,Wallet,Month-to-Month,Yes,No
+CUST1658,Customer_658,40,Female,West,Basic,1573.13,5,0,12.4,Debit Card,Month-to-Month,Yes,No
+CUST1659,Customer_659,33,Male,West,Basic,1577.49,19,4,24.5,Debit Card,Month-to-Month,Yes,No
+CUST1660,Customer_660,56,Female,South,Standard,841.27,42,2,7.3,Credit Card,Month-to-Month,Yes,No
+CUST1661,Customer_661,62,Female,East,Standard,693.35,18,0,22.4,UPI,Two Year,Yes,Yes
+CUST1662,Customer_662,59,Female,North,Standard,1642.1,32,1,34.4,Debit Card,Month-to-Month,Yes,Yes
+CUST1663,Customer_663,56,Female,South,Basic,878.92,21,1,21.1,Debit Card,Month-to-Month,Yes,Yes
+CUST1664,Customer_664,31,Female,North,Standard,1826.0,10,1,27.7,Net Banking,Month-to-Month,No,Yes
+CUST1665,Customer_665,48,Male,West,Basic,325.44,37,3,3.9,Net Banking,Month-to-Month,Yes,No
+CUST1666,Customer_666,22,Female,North,Basic,304.79,49,1,18.5,Net Banking,One Year,No,Yes
+CUST1667,Customer_667,52,Male,East,Premium,1868.61,13,1,4.7,Debit Card,One Year,Yes,No
+CUST1668,Customer_668,40,Male,West,Standard,1367.22,55,4,24.4,Wallet,One Year,Yes,No
+CUST1669,Customer_669,46,Female,West,Basic,883.28,17,1,12.0,UPI,Month-to-Month,Yes,Yes
+CUST1670,Customer_670,60,Female,South,Standard,1559.11,9,2,12.2,Debit Card,Two Year,Yes,Yes
+CUST1671,Customer_671,28,Male,East,Basic,1410.19,44,2,4.0,Credit Card,One Year,Yes,No
+CUST1672,Customer_672,35,Male,West,Premium,1156.16,46,0,13.1,Wallet,Month-to-Month,Yes,No
+CUST1673,Customer_673,64,Female,East,Basic,377.97,8,1,20.8,Wallet,Month-to-Month,Yes,No
+CUST1674,Customer_674,29,Male,North,Basic,1661.92,37,3,23.8,UPI,Two Year,Yes,No
+CUST1675,Customer_675,26,Male,East,Standard,1758.84,19,3,3.6,Wallet,Month-to-Month,Yes,No
+CUST1676,Customer_676,27,Male,West,Standard,509.9,63,1,26.4,UPI,One Year,Yes,No
+CUST1677,Customer_677,61,Male,South,Standard,1730.92,46,1,20.1,Wallet,Month-to-Month,Yes,Yes
+CUST1678,Customer_678,34,Male,West,Basic,1780.13,71,0,21.9,UPI,Month-to-Month,No,No
+CUST1679,Customer_679,55,Male,East,Basic,1188.97,26,0,33.5,Net Banking,One Year,Yes,Yes
+CUST1680,Customer_680,24,Male,East,Standard,1381.12,46,2,14.3,Net Banking,One Year,No,No
+CUST1681,Customer_681,63,Female,West,Basic,888.03,46,8,7.8,Wallet,Month-to-Month,Yes,No
+CUST1682,Customer_682,30,Female,East,Premium,707.22,14,2,22.5,Wallet,One Year,No,No
+CUST1683,Customer_683,57,Female,North,Basic,1499.57,63,4,37.9,UPI,Month-to-Month,Yes,Yes
+CUST1684,Customer_684,59,Male,West,Standard,1751.38,3,2,21.2,UPI,One Year,No,No
+CUST1685,Customer_685,26,Male,South,Standard,1377.34,28,2,33.4,Debit Card,Two Year,Yes,No
+CUST1686,Customer_686,67,Female,West,Basic,1120.86,29,3,30.5,Net Banking,Two Year,Yes,No
+CUST1687,Customer_687,44,Male,North,Standard,486.06,18,3,21.2,Debit Card,Month-to-Month,Yes,Yes
+CUST1688,Customer_688,19,Female,North,Premium,296.23,35,2,26.3,Debit Card,Month-to-Month,Yes,No
+CUST1689,Customer_689,22,Female,North,Basic,1002.25,47,3,16.9,Credit Card,One Year,No,No
+CUST1690,Customer_690,46,Female,North,Premium,288.83,5,1,21.7,UPI,Month-to-Month,Yes,No
+CUST1691,Customer_691,54,Male,North,Standard,1224.8,59,6,20.8,Credit Card,Month-to-Month,Yes,No
+CUST1692,Customer_692,55,Male,South,Basic,888.91,59,2,28.7,Credit Card,Two Year,Yes,No
+CUST1693,Customer_693,36,Female,East,Standard,1562.94,47,4,17.0,Debit Card,Month-to-Month,Yes,Yes
+CUST1694,Customer_694,25,Male,North,Basic,750.17,13,3,4.9,Credit Card,Month-to-Month,Yes,Yes
+CUST1695,Customer_695,65,Female,North,Standard,1267.37,33,1,31.8,UPI,Month-to-Month,Yes,No
+CUST1696,Customer_696,62,Female,West,Premium,1167.83,62,1,27.7,Debit Card,Month-to-Month,Yes,No
+CUST1697,Customer_697,18,Other,South,Premium,208.48,16,0,38.1,UPI,Month-to-Month,Yes,Yes
+CUST1698,Customer_698,39,Male,South,Premium,330.3,44,0,17.7,Wallet,Two Year,Yes,No
+CUST1699,Customer_699,69,Female,East,Premium,722.66,58,3,4.1,Credit Card,Month-to-Month,Yes,No
+CUST1700,Customer_700,34,Female,South,Standard,1788.02,6,2,5.7,Debit Card,Month-to-Month,Yes,Yes
+CUST1701,Customer_701,24,Male,West,Basic,464.63,15,4,31.2,Net Banking,One Year,Yes,No
+CUST1702,Customer_702,42,Male,West,Standard,1479.61,4,5,3.6,UPI,One Year,Yes,Yes
+CUST1703,Customer_703,62,Female,East,Basic,1952.06,56,2,36.4,Credit Card,One Year,No,Yes
+CUST1704,Customer_704,21,Male,West,Standard,1623.02,64,0,12.0,UPI,Month-to-Month,No,No
+CUST1705,Customer_705,53,Male,North,Standard,637.3,68,8,36.1,UPI,One Year,No,No
+CUST1706,Customer_706,23,Male,North,Basic,1835.06,34,8,31.2,Wallet,Month-to-Month,Yes,Yes
+CUST1707,Customer_707,48,Female,West,Basic,367.59,56,4,35.0,UPI,Month-to-Month,No,No
+CUST1708,Customer_708,36,Female,East,Basic,1042.66,32,0,9.3,Wallet,Month-to-Month,Yes,Yes
+CUST1709,Customer_709,61,Female,South,Standard,1797.58,9,2,24.2,Wallet,Month-to-Month,Yes,Yes
+CUST1710,Customer_710,56,Male,East,Standard,1354.28,63,1,4.6,Wallet,Month-to-Month,Yes,Yes
+CUST1711,Customer_711,44,Male,South,Standard,944.56,33,0,8.9,Credit Card,One Year,No,Yes
+CUST1712,Customer_712,27,Female,West,Standard,727.06,21,1,13.1,UPI,Month-to-Month,No,Yes
+CUST1713,Customer_713,43,Female,West,Standard,875.18,55,2,29.9,UPI,One Year,Yes,No
+CUST1714,Customer_714,36,Male,North,Basic,1116.1,57,2,2.0,Wallet,Month-to-Month,Yes,No
+CUST1715,Customer_715,56,Female,South,Basic,774.28,2,1,36.2,UPI,Month-to-Month,Yes,Yes
+CUST1716,Customer_716,20,Other,East,Standard,1944.14,13,0,3.8,UPI,Month-to-Month,No,Yes
+CUST1717,Customer_717,62,Female,West,Standard,1879.54,4,0,15.7,Wallet,Two Year,No,Yes
+CUST1718,Customer_718,30,Female,East,Basic,1767.21,50,4,4.2,Net Banking,Two Year,Yes,No
+CUST1719,Customer_719,67,Female,North,Basic,959.29,48,1,31.0,Net Banking,Two Year,Yes,No
+CUST1720,Customer_720,45,Male,South,Basic,1444.34,30,1,6.5,Wallet,One Year,Yes,Yes
+CUST1721,Customer_721,37,Female,South,Standard,1825.09,29,2,35.5,Credit Card,One Year,No,No
+CUST1722,Customer_722,45,Other,West,Basic,1730.77,8,1,21.7,UPI,One Year,No,No
+CUST1723,Customer_723,25,Male,South,Standard,945.79,12,2,38.0,UPI,One Year,Yes,Yes
+CUST1724,Customer_724,58,Female,West,Premium,402.29,41,1,12.3,Net Banking,Month-to-Month,Yes,No
+CUST1725,Customer_725,56,Female,North,Basic,336.13,26,2,18.7,Wallet,Month-to-Month,No,No
+CUST1726,Customer_726,18,Female,South,Premium,1238.72,50,4,28.1,Credit Card,Month-to-Month,Yes,Yes
+CUST1727,Customer_727,20,Female,West,Standard,1356.73,2,3,33.4,Wallet,Month-to-Month,No,No
+CUST1728,Customer_728,30,Female,East,Standard,1729.72,55,1,17.4,Net Banking,Month-to-Month,Yes,No
+CUST1729,Customer_729,45,Female,West,Standard,726.53,56,2,35.8,Net Banking,Month-to-Month,No,No
+CUST1730,Customer_730,66,Male,South,Standard,501.45,14,2,5.6,UPI,Month-to-Month,No,No
+CUST1731,Customer_731,42,Female,North,Standard,882.21,6,0,28.6,Debit Card,Month-to-Month,Yes,No
+CUST1732,Customer_732,50,Male,South,Standard,836.44,61,5,14.6,Credit Card,Two Year,No,No
+CUST1733,Customer_733,55,Male,South,Basic,438.44,12,3,5.0,Credit Card,Month-to-Month,Yes,No
+CUST1734,Customer_734,23,Male,West,Basic,1410.11,13,3,16.1,Debit Card,Month-to-Month,No,No
+CUST1735,Customer_735,61,Female,East,Basic,1115.65,19,4,35.3,Net Banking,Two Year,No,Yes
+CUST1736,Customer_736,62,Male,South,Basic,1498.02,44,5,39.2,Wallet,Month-to-Month,Yes,No
+CUST1737,Customer_737,49,Female,East,Basic,834.84,59,1,16.3,Credit Card,Month-to-Month,Yes,No
+CUST1738,Customer_738,62,Female,West,Basic,786.26,37,2,35.6,Debit Card,Month-to-Month,Yes,No
+CUST1739,Customer_739,64,Female,East,Standard,1050.64,25,2,20.9,UPI,Month-to-Month,No,No
+CUST1740,Customer_740,38,Male,West,Premium,1779.33,16,1,29.0,UPI,Month-to-Month,No,No
+CUST1741,Customer_741,33,Female,North,Premium,272.51,38,4,2.8,Net Banking,Month-to-Month,Yes,Yes
+CUST1742,Customer_742,38,Female,East,Standard,1648.7,43,0,22.7,Credit Card,Month-to-Month,No,No
+CUST1743,Customer_743,28,Female,East,Standard,864.18,14,5,3.7,Wallet,One Year,Yes,No
+CUST1744,Customer_744,54,Male,North,Premium,1738.31,6,0,11.5,Credit Card,Month-to-Month,Yes,No
+CUST1745,Customer_745,53,Male,East,Standard,1643.97,23,1,23.1,UPI,One Year,Yes,No
+CUST1746,Customer_746,52,Male,North,Basic,827.77,60,2,32.5,Credit Card,Month-to-Month,Yes,No
+CUST1747,Customer_747,36,Male,South,Premium,1448.98,12,1,22.9,UPI,Month-to-Month,Yes,No
+CUST1748,Customer_748,37,Male,West,Standard,487.34,13,0,37.5,Debit Card,One Year,Yes,No
+CUST1749,Customer_749,35,Female,North,Standard,1813.31,6,0,32.6,Debit Card,Month-to-Month,Yes,Yes
+CUST1750,Customer_750,64,Male,East,Basic,928.08,63,0,7.1,UPI,Two Year,No,Yes
+CUST1751,Customer_751,58,Male,North,Basic,1020.13,38,1,16.2,Wallet,Month-to-Month,Yes,No
+CUST1752,Customer_752,66,Male,East,Premium,1470.37,50,3,27.1,Wallet,One Year,Yes,No
+CUST1753,Customer_753,31,Male,South,Standard,1677.51,52,5,37.6,Credit Card,Month-to-Month,Yes,No
+CUST1754,Customer_754,32,Male,North,Basic,625.42,40,1,39.5,UPI,Month-to-Month,No,Yes
+CUST1755,Customer_755,48,Male,South,Basic,1390.43,8,0,30.8,Net Banking,One Year,No,No
+CUST1756,Customer_756,18,Male,West,Standard,905.6,61,0,23.4,Wallet,One Year,No,Yes
+CUST1757,Customer_757,20,Female,East,Standard,863.67,8,3,30.5,Wallet,Month-to-Month,No,No
+CUST1758,Customer_758,33,Other,East,Basic,1442.05,34,3,11.7,Debit Card,Two Year,Yes,No
+CUST1759,Customer_759,40,Male,South,Premium,896.93,60,3,12.1,Wallet,Month-to-Month,Yes,Yes
+CUST1760,Customer_760,28,Male,West,Basic,823.0,57,1,26.5,Wallet,Month-to-Month,No,Yes
+CUST1761,Customer_761,29,Female,North,Basic,1704.6,46,0,35.0,Wallet,Month-to-Month,No,Yes
+CUST1762,Customer_762,27,Male,North,Standard,382.3,22,1,38.8,UPI,One Year,Yes,Yes
+CUST1763,Customer_763,49,Male,East,Basic,1416.61,40,6,14.3,UPI,Two Year,No,No
+CUST1764,Customer_764,33,Female,South,Premium,647.71,45,2,32.1,Debit Card,Month-to-Month,No,Yes
+CUST1765,Customer_765,25,Male,South,Standard,227.9,55,3,34.2,Credit Card,Month-to-Month,No,No
+CUST1766,Customer_766,55,Female,North,Premium,500.18,51,1,25.3,Wallet,One Year,No,No
+CUST1767,Customer_767,29,Female,West,Basic,1291.99,5,2,14.6,Credit Card,Month-to-Month,Yes,No
+CUST1768,Customer_768,41,Male,West,Basic,1476.43,13,0,25.1,UPI,Month-to-Month,Yes,Yes
+CUST1769,Customer_769,45,Male,North,Basic,237.9,28,5,23.8,Wallet,Month-to-Month,Yes,No
+CUST1770,Customer_770,25,Female,North,Standard,265.57,62,1,24.7,Credit Card,Month-to-Month,Yes,No
+CUST1771,Customer_771,45,Male,South,Standard,1824.58,24,3,25.2,Credit Card,Month-to-Month,No,No
+CUST1772,Customer_772,53,Male,West,Premium,331.95,7,2,34.0,Net Banking,Month-to-Month,Yes,No
+CUST1773,Customer_773,43,Female,North,Standard,1809.53,38,2,7.6,UPI,One Year,Yes,Yes
+CUST1774,Customer_774,25,Female,North,Premium,610.7,37,1,15.3,Debit Card,One Year,Yes,Yes
+CUST1775,Customer_775,67,Male,East,Standard,1532.03,68,2,23.9,Debit Card,Month-to-Month,No,No
+CUST1776,Customer_776,45,Female,North,Basic,757.52,42,0,12.0,Net Banking,Month-to-Month,Yes,No
+CUST1777,Customer_777,45,Male,North,Basic,1745.75,5,2,39.1,Credit Card,Month-to-Month,Yes,No
+CUST1778,Customer_778,54,Female,West,Standard,1460.82,64,1,11.3,Net Banking,Month-to-Month,Yes,No
+CUST1779,Customer_779,58,Female,South,Basic,923.26,50,0,19.3,Net Banking,One Year,Yes,No
+CUST1780,Customer_780,53,Female,West,Basic,337.34,15,6,35.2,UPI,Two Year,No,No
+CUST1781,Customer_781,44,Female,South,Standard,1518.86,53,2,4.1,Wallet,One Year,No,Yes
+CUST1782,Customer_782,34,Other,East,Premium,1310.39,25,4,33.0,Credit Card,One Year,Yes,No
+CUST1783,Customer_783,26,Male,North,Basic,205.24,9,0,23.3,Debit Card,Month-to-Month,No,Yes
+CUST1784,Customer_784,50,Female,East,Premium,216.96,38,1,2.2,Debit Card,Month-to-Month,Yes,No
+CUST1785,Customer_785,37,Male,South,Premium,1655.83,22,1,36.2,Net Banking,Two Year,No,No
+CUST1786,Customer_786,30,Male,West,Standard,666.92,49,2,2.5,Net Banking,Two Year,Yes,No
+CUST1787,Customer_787,45,Male,West,Basic,1345.04,68,1,21.1,Net Banking,Month-to-Month,No,No
+CUST1788,Customer_788,65,Female,East,Basic,1017.59,15,1,2.9,Credit Card,Month-to-Month,Yes,No
+CUST1789,Customer_789,46,Other,South,Standard,1754.17,65,1,3.8,Net Banking,One Year,Yes,No
+CUST1790,Customer_790,30,Male,East,Standard,1850.53,54,2,35.6,Net Banking,Month-to-Month,Yes,No
+CUST1791,Customer_791,63,Male,East,Premium,1994.25,30,3,30.9,Wallet,One Year,Yes,No
+CUST1792,Customer_792,52,Female,North,Standard,476.63,20,3,8.7,Credit Card,One Year,No,No
+CUST1793,Customer_793,23,Male,East,Basic,1753.34,33,0,25.2,UPI,Month-to-Month,Yes,No
+CUST1794,Customer_794,35,Male,North,Basic,678.84,7,7,32.0,UPI,Two Year,Yes,Yes
+CUST1795,Customer_795,68,Female,North,Standard,1263.47,8,2,35.7,Wallet,Two Year,No,Yes
+CUST1796,Customer_796,22,Female,West,Basic,1110.39,28,2,19.3,Debit Card,Two Year,Yes,Yes
+CUST1797,Customer_797,64,Other,North,Basic,232.38,45,2,36.0,UPI,Month-to-Month,No,No
+CUST1798,Customer_798,42,Male,North,Standard,1878.99,11,2,20.8,Credit Card,Month-to-Month,Yes,No
+CUST1799,Customer_799,19,Male,West,Basic,340.99,31,0,27.8,Debit Card,Month-to-Month,Yes,No
+CUST1800,Customer_800,27,Female,East,Basic,1438.79,12,3,39.2,Net Banking,Month-to-Month,No,No
+CUST1801,Customer_801,47,Female,South,Standard,1613.01,51,0,10.2,Credit Card,Month-to-Month,Yes,No
+CUST1802,Customer_802,67,Female,South,Basic,1631.52,44,1,7.6,Debit Card,Month-to-Month,Yes,Yes
+CUST1803,Customer_803,62,Female,South,Basic,443.89,50,4,14.3,UPI,One Year,No,Yes
+CUST1804,Customer_804,22,Male,East,Standard,1005.63,17,2,7.4,Net Banking,Month-to-Month,Yes,No
+CUST1805,Customer_805,50,Female,North,Premium,1692.97,35,3,12.1,Net Banking,Month-to-Month,No,No
+CUST1806,Customer_806,18,Male,South,Basic,744.82,1,3,30.0,Credit Card,Month-to-Month,No,Yes
+CUST1807,Customer_807,35,Male,East,Premium,1041.95,29,3,19.6,Net Banking,One Year,Yes,No
+CUST1808,Customer_808,49,Female,North,Basic,691.03,51,1,15.6,Debit Card,One Year,No,No
+CUST1809,Customer_809,64,Male,West,Standard,1034.39,64,1,15.4,Wallet,Month-to-Month,Yes,No
+CUST1810,Customer_810,66,Male,South,Premium,1798.11,4,2,8.6,UPI,Two Year,Yes,Yes
+CUST1811,Customer_811,28,Female,North,Standard,1019.22,28,1,18.4,Credit Card,Month-to-Month,No,No
+CUST1812,Customer_812,38,Male,South,Premium,1200.64,16,2,25.4,Wallet,Month-to-Month,No,Yes
+CUST1813,Customer_813,43,Female,South,Basic,927.16,63,4,6.4,Wallet,One Year,No,No
+CUST1814,Customer_814,42,Male,South,Basic,1028.21,53,5,38.9,Credit Card,One Year,No,No
+CUST1815,Customer_815,39,Female,North,Premium,227.31,17,1,18.3,Debit Card,Month-to-Month,Yes,No
+CUST1816,Customer_816,44,Male,East,Basic,710.74,40,3,38.0,UPI,Two Year,Yes,No
+CUST1817,Customer_817,66,Male,North,Basic,985.85,13,1,6.3,Credit Card,Two Year,Yes,Yes
+CUST1818,Customer_818,30,Other,South,Standard,1340.83,52,2,30.9,Wallet,Month-to-Month,Yes,Yes
+CUST1819,Customer_819,50,Female,North,Premium,1010.09,58,4,25.1,Wallet,Month-to-Month,Yes,No
+CUST1820,Customer_820,51,Female,West,Premium,808.07,37,2,33.0,Credit Card,Month-to-Month,No,No
+CUST1821,Customer_821,58,Male,East,Basic,898.58,61,1,24.4,Wallet,Month-to-Month,Yes,Yes
+CUST1822,Customer_822,52,Female,North,Premium,636.13,34,3,38.6,Credit Card,Month-to-Month,No,No
+CUST1823,Customer_823,18,Female,West,Basic,1864.09,70,3,25.5,Credit Card,One Year,No,Yes
+CUST1824,Customer_824,38,Female,East,Basic,1139.14,17,3,31.6,UPI,Month-to-Month,Yes,Yes
+CUST1825,Customer_825,65,Female,West,Standard,224.14,20,4,35.2,Credit Card,One Year,Yes,No
+CUST1826,Customer_826,23,Male,East,Basic,235.0,59,2,28.9,Wallet,Month-to-Month,Yes,No
+CUST1827,Customer_827,45,Male,North,Basic,1951.33,69,3,21.4,Net Banking,Month-to-Month,Yes,No
+CUST1828,Customer_828,34,Female,West,Standard,598.61,33,1,11.6,UPI,Month-to-Month,No,No
+CUST1829,Customer_829,22,Male,South,Basic,1650.09,17,1,34.3,Wallet,Month-to-Month,Yes,No
+CUST1830,Customer_830,48,Male,West,Basic,304.9,57,1,19.7,Wallet,Month-to-Month,No,No
+CUST1831,Customer_831,22,Female,East,Basic,1858.09,1,1,25.2,UPI,One Year,No,No
+CUST1832,Customer_832,55,Female,North,Standard,1773.95,13,3,4.1,UPI,One Year,Yes,No
+CUST1833,Customer_833,20,Female,East,Standard,1227.97,27,4,20.4,Wallet,Month-to-Month,No,Yes
+CUST1834,Customer_834,40,Female,West,Premium,216.2,70,2,28.2,Net Banking,One Year,Yes,No
+CUST1835,Customer_835,54,Female,West,Premium,664.06,59,2,23.8,Debit Card,Month-to-Month,Yes,No
+CUST1836,Customer_836,54,Male,South,Standard,932.28,6,4,18.5,Wallet,Month-to-Month,Yes,No
+CUST1837,Customer_837,27,Male,North,Premium,1028.12,23,2,9.7,UPI,Month-to-Month,Yes,Yes
+CUST1838,Customer_838,27,Male,North,Basic,735.82,10,2,13.1,Credit Card,One Year,Yes,Yes
+CUST1839,Customer_839,36,Male,West,Basic,259.31,51,2,28.3,Credit Card,Month-to-Month,No,Yes
+CUST1840,Customer_840,34,Female,North,Premium,1262.23,19,1,9.7,UPI,Month-to-Month,Yes,No
+CUST1841,Customer_841,38,Male,South,Basic,1143.48,51,5,25.2,UPI,Month-to-Month,Yes,No
+CUST1842,Customer_842,31,Male,East,Premium,709.4,68,5,24.0,Debit Card,Two Year,Yes,No
+CUST1843,Customer_843,26,Male,North,Standard,268.36,42,0,38.8,UPI,One Year,Yes,No
+CUST1844,Customer_844,63,Male,West,Premium,1990.27,57,0,3.4,Credit Card,One Year,Yes,No
+CUST1845,Customer_845,18,Male,East,Standard,1067.58,68,2,5.2,Net Banking,One Year,Yes,No
+CUST1846,Customer_846,68,Male,East,Standard,1560.81,38,1,20.7,UPI,Month-to-Month,Yes,Yes
+CUST1847,Customer_847,62,Male,South,Basic,1014.17,62,2,21.6,Debit Card,One Year,Yes,Yes
+CUST1848,Customer_848,30,Male,West,Standard,277.71,7,1,2.6,Net Banking,One Year,Yes,No
+CUST1849,Customer_849,21,Male,North,Standard,757.28,71,3,33.2,Debit Card,Month-to-Month,No,Yes
+CUST1850,Customer_850,18,Female,West,Premium,776.2,50,2,20.3,Net Banking,Month-to-Month,Yes,No
+CUST1851,Customer_851,66,Male,East,Basic,1709.04,52,0,14.5,UPI,Month-to-Month,No,No
+CUST1852,Customer_852,57,Male,West,Basic,1377.61,26,2,13.4,Credit Card,Month-to-Month,Yes,Yes
+CUST1853,Customer_853,49,Female,North,Basic,695.77,26,2,34.6,Net Banking,Two Year,Yes,No
+CUST1854,Customer_854,51,Male,North,Standard,1941.93,19,0,8.7,Wallet,Month-to-Month,Yes,No
+CUST1855,Customer_855,45,Female,South,Premium,778.78,9,0,7.3,Debit Card,Month-to-Month,Yes,Yes
+CUST1856,Customer_856,48,Female,North,Basic,1996.82,61,0,9.3,Net Banking,Two Year,Yes,No
+CUST1857,Customer_857,25,Male,North,Standard,1993.09,20,5,25.4,Debit Card,Month-to-Month,No,No
+CUST1858,Customer_858,56,Female,West,Basic,544.18,50,3,32.6,Credit Card,Month-to-Month,Yes,No
+CUST1859,Customer_859,43,Male,West,Standard,762.93,22,2,13.9,Debit Card,Two Year,No,No
+CUST1860,Customer_860,51,Female,East,Premium,1074.88,13,2,7.8,Debit Card,Month-to-Month,Yes,No
+CUST1861,Customer_861,20,Male,South,Basic,1395.38,12,1,9.2,Wallet,One Year,Yes,No
+CUST1862,Customer_862,67,Female,West,Standard,1150.49,10,3,25.1,Debit Card,Month-to-Month,Yes,Yes
+CUST1863,Customer_863,29,Male,North,Premium,1944.99,65,1,10.6,Net Banking,Month-to-Month,Yes,No
+CUST1864,Customer_864,18,Female,East,Premium,1503.18,30,2,35.2,Debit Card,Month-to-Month,No,No
+CUST1865,Customer_865,61,Female,West,Standard,581.68,8,0,5.1,UPI,Month-to-Month,No,No
+CUST1866,Customer_866,22,Male,South,Standard,389.18,21,2,2.3,Debit Card,Two Year,No,No
+CUST1867,Customer_867,47,Male,South,Basic,1439.12,22,4,4.4,UPI,Two Year,Yes,Yes
+CUST1868,Customer_868,47,Female,East,Standard,485.21,18,3,34.0,Debit Card,Two Year,Yes,No
+CUST1869,Customer_869,34,Female,East,Premium,1617.82,66,1,26.4,Debit Card,Month-to-Month,No,No
+CUST1870,Customer_870,65,Male,East,Standard,759.87,48,1,38.4,Net Banking,Two Year,Yes,No
+CUST1871,Customer_871,64,Female,East,Basic,788.41,44,1,14.1,UPI,One Year,No,No
+CUST1872,Customer_872,40,Other,East,Basic,219.44,9,1,9.3,UPI,Month-to-Month,Yes,No
+CUST1873,Customer_873,32,Female,North,Basic,1461.82,67,1,22.9,Wallet,One Year,No,No
+CUST1874,Customer_874,54,Male,North,Basic,403.89,54,2,22.0,Debit Card,Month-to-Month,No,No
+CUST1875,Customer_875,38,Female,West,Basic,1591.19,26,1,24.0,Debit Card,Month-to-Month,No,No
+CUST1876,Customer_876,31,Male,South,Standard,1085.36,26,2,14.6,Net Banking,One Year,Yes,No
+CUST1877,Customer_877,19,Other,North,Basic,1611.7,34,2,1.2,Wallet,One Year,Yes,No
+CUST1878,Customer_878,28,Female,North,Basic,1251.07,8,2,2.4,Wallet,Month-to-Month,Yes,No
+CUST1879,Customer_879,68,Male,North,Standard,348.38,10,1,26.9,Net Banking,Month-to-Month,No,Yes
+CUST1880,Customer_880,56,Female,West,Basic,1578.17,48,2,21.4,UPI,Two Year,No,No
+CUST1881,Customer_881,55,Male,East,Basic,325.64,55,0,33.0,Credit Card,One Year,Yes,No
+CUST1882,Customer_882,51,Other,West,Basic,1061.66,54,0,12.7,Net Banking,Month-to-Month,Yes,No
+CUST1883,Customer_883,55,Other,South,Basic,510.23,40,2,32.8,UPI,Month-to-Month,Yes,No
+CUST1884,Customer_884,67,Female,South,Standard,1554.2,15,1,17.6,Wallet,Month-to-Month,No,Yes
+CUST1885,Customer_885,51,Male,South,Basic,1840.86,18,1,4.8,Net Banking,Two Year,Yes,Yes
+CUST1886,Customer_886,35,Female,South,Premium,1197.43,23,7,39.1,Credit Card,Month-to-Month,Yes,No
+CUST1887,Customer_887,47,Male,North,Premium,1148.87,62,0,21.0,Debit Card,Month-to-Month,Yes,No
+CUST1888,Customer_888,32,Male,North,Standard,1575.13,46,0,25.5,Net Banking,Month-to-Month,Yes,Yes
+CUST1889,Customer_889,44,Female,West,Standard,209.14,39,3,27.2,Credit Card,Two Year,No,No
+CUST1890,Customer_890,68,Male,East,Premium,1851.97,15,1,15.1,Credit Card,One Year,Yes,No
+CUST1891,Customer_891,51,Male,South,Standard,555.41,53,1,30.2,Net Banking,One Year,Yes,No
+CUST1892,Customer_892,69,Other,West,Basic,1971.41,64,0,34.9,UPI,Month-to-Month,Yes,Yes
+CUST1893,Customer_893,55,Male,North,Basic,1525.26,63,7,16.1,Net Banking,Month-to-Month,Yes,Yes
+CUST1894,Customer_894,50,Male,North,Premium,1593.65,16,3,26.6,Wallet,Two Year,Yes,No
+CUST1895,Customer_895,41,Female,East,Basic,1381.17,70,2,30.5,Credit Card,Two Year,Yes,Yes
+CUST1896,Customer_896,32,Male,East,Basic,1048.99,66,2,8.4,Credit Card,Two Year,Yes,No
+CUST1897,Customer_897,47,Female,East,Standard,1228.93,13,1,14.0,Debit Card,Two Year,Yes,Yes
+CUST1898,Customer_898,59,Other,West,Premium,283.53,47,3,5.2,Credit Card,One Year,No,No
+CUST1899,Customer_899,68,Female,North,Basic,1323.13,9,1,24.5,Debit Card,One Year,No,No
+CUST1900,Customer_900,34,Female,North,Standard,1326.98,63,2,32.2,Credit Card,One Year,No,No
+CUST1901,Customer_901,22,Male,East,Basic,1804.16,34,1,24.8,Credit Card,One Year,No,Yes
+CUST1902,Customer_902,46,Male,South,Standard,1110.18,29,1,8.0,Net Banking,Month-to-Month,Yes,No
+CUST1903,Customer_903,21,Female,East,Basic,338.86,37,0,22.3,Net Banking,Month-to-Month,Yes,No
+CUST1904,Customer_904,27,Female,West,Basic,751.15,43,3,33.6,Wallet,Two Year,No,Yes
+CUST1905,Customer_905,34,Female,East,Premium,1380.13,64,3,12.8,UPI,Month-to-Month,Yes,No
+CUST1906,Customer_906,27,Male,East,Standard,630.67,24,2,33.5,Wallet,Two Year,Yes,No
+CUST1907,Customer_907,34,Male,West,Standard,704.95,71,2,31.6,Credit Card,Month-to-Month,Yes,No
+CUST1908,Customer_908,37,Male,East,Standard,1676.84,34,1,1.8,Wallet,Month-to-Month,Yes,Yes
+CUST1909,Customer_909,41,Female,North,Basic,1251.78,48,3,10.3,Net Banking,Month-to-Month,Yes,Yes
+CUST1910,Customer_910,22,Male,South,Standard,1115.35,12,1,22.2,Credit Card,Month-to-Month,Yes,Yes
+CUST1911,Customer_911,51,Female,East,Basic,773.21,23,1,29.0,Credit Card,Month-to-Month,Yes,No
+CUST1912,Customer_912,23,Female,West,Basic,1515.67,13,3,35.3,Wallet,Month-to-Month,No,No
+CUST1913,Customer_913,19,Male,South,Basic,717.89,45,3,26.0,Debit Card,One Year,Yes,No
+CUST1914,Customer_914,30,Female,West,Standard,1526.71,65,2,15.8,UPI,Month-to-Month,No,No
+CUST1915,Customer_915,60,Male,South,Premium,326.18,47,2,8.2,Wallet,Month-to-Month,Yes,Yes
+CUST1916,Customer_916,60,Female,South,Premium,1756.17,58,3,30.6,Wallet,Month-to-Month,Yes,No
+CUST1917,Customer_917,65,Female,East,Standard,1099.22,5,1,9.1,UPI,One Year,Yes,Yes
+CUST1918,Customer_918,28,Female,North,Basic,989.31,5,1,28.1,Credit Card,One Year,Yes,Yes
+CUST1919,Customer_919,68,Female,East,Standard,1299.84,60,1,8.1,Credit Card,One Year,Yes,Yes
+CUST1920,Customer_920,64,Male,West,Premium,1323.55,21,3,4.6,Debit Card,Month-to-Month,Yes,Yes
+CUST1921,Customer_921,40,Male,West,Basic,437.66,24,4,10.8,Wallet,Month-to-Month,No,No
+CUST1922,Customer_922,33,Female,South,Premium,1561.22,18,5,12.1,UPI,One Year,No,No
+CUST1923,Customer_923,48,Male,South,Basic,696.67,21,2,26.2,Wallet,One Year,Yes,Yes
+CUST1924,Customer_924,28,Male,North,Premium,1828.93,54,2,7.3,Net Banking,Month-to-Month,Yes,No
+CUST1925,Customer_925,33,Male,East,Premium,1672.13,10,1,37.3,Wallet,Month-to-Month,Yes,No
+CUST1926,Customer_926,25,Female,West,Premium,823.28,24,2,22.6,Wallet,Month-to-Month,Yes,Yes
+CUST1927,Customer_927,21,Male,South,Basic,1653.93,60,5,20.1,Net Banking,Month-to-Month,Yes,Yes
+CUST1928,Customer_928,57,Female,North,Basic,841.5,57,3,18.0,Net Banking,One Year,No,No
+CUST1929,Customer_929,21,Other,West,Basic,381.71,23,2,23.1,UPI,Month-to-Month,Yes,No
+CUST1930,Customer_930,42,Male,South,Basic,1931.4,22,1,1.9,Credit Card,Month-to-Month,No,No
+CUST1931,Customer_931,20,Male,West,Basic,1374.68,68,5,39.6,Debit Card,Month-to-Month,Yes,No
+CUST1932,Customer_932,49,Male,North,Standard,1020.98,34,2,22.7,Net Banking,Two Year,No,No
+CUST1933,Customer_933,20,Female,North,Standard,915.99,70,2,2.4,Credit Card,One Year,Yes,No
+CUST1934,Customer_934,44,Male,West,Standard,784.47,28,1,24.0,UPI,Two Year,No,No
+CUST1935,Customer_935,46,Male,East,Standard,1966.61,39,1,18.0,Wallet,Month-to-Month,No,No
+CUST1936,Customer_936,49,Male,West,Basic,442.55,42,0,1.9,UPI,One Year,Yes,No
+CUST1937,Customer_937,67,Female,South,Premium,766.65,23,3,37.1,UPI,Month-to-Month,Yes,No
+CUST1938,Customer_938,68,Male,East,Basic,1073.9,70,3,1.4,Net Banking,Month-to-Month,No,Yes
+CUST1939,Customer_939,36,Female,South,Standard,1060.4,2,1,23.5,Debit Card,Month-to-Month,No,No
+CUST1940,Customer_940,38,Female,West,Standard,1048.46,24,2,38.5,Net Banking,Month-to-Month,Yes,No
+CUST1941,Customer_941,22,Male,East,Premium,516.41,17,4,10.3,Wallet,Month-to-Month,Yes,No
+CUST1942,Customer_942,35,Female,South,Basic,460.88,65,2,10.9,Net Banking,One Year,Yes,Yes
+CUST1943,Customer_943,45,Male,West,Standard,658.58,70,1,1.0,Wallet,Month-to-Month,Yes,No
+CUST1944,Customer_944,59,Female,West,Standard,1846.15,69,3,3.6,Net Banking,Month-to-Month,Yes,No
+CUST1945,Customer_945,39,Female,East,Basic,403.5,60,6,2.8,Debit Card,Month-to-Month,Yes,No
+CUST1946,Customer_946,38,Female,West,Standard,1563.37,50,2,33.1,Credit Card,Month-to-Month,Yes,No
+CUST1947,Customer_947,23,Male,North,Premium,1563.59,12,0,33.6,Debit Card,Month-to-Month,No,No
+CUST1948,Customer_948,18,Male,South,Premium,1657.59,47,3,29.3,Net Banking,Month-to-Month,No,No
+CUST1949,Customer_949,22,Male,South,Basic,1795.91,67,1,14.8,UPI,Month-to-Month,Yes,No
+CUST1950,Customer_950,58,Male,West,Basic,673.47,65,1,33.0,Credit Card,Month-to-Month,No,No
+CUST1951,Customer_951,29,Male,West,Basic,604.21,27,1,22.1,UPI,Month-to-Month,Yes,Yes
+CUST1952,Customer_952,43,Male,North,Basic,1037.91,48,5,12.9,Debit Card,Month-to-Month,Yes,Yes
+CUST1953,Customer_953,63,Male,East,Basic,677.16,62,0,18.1,Credit Card,Month-to-Month,No,No
+CUST1954,Customer_954,51,Male,West,Basic,1521.76,44,3,3.6,Net Banking,Month-to-Month,Yes,No
+CUST1955,Customer_955,66,Female,West,Premium,1344.69,19,1,37.9,UPI,Month-to-Month,Yes,No
+CUST1956,Customer_956,31,Male,West,Premium,1774.98,59,0,25.1,Net Banking,One Year,Yes,No
+CUST1957,Customer_957,43,Male,West,Basic,348.93,8,2,29.5,Wallet,Month-to-Month,Yes,No
+CUST1958,Customer_958,62,Male,South,Basic,1847.15,55,0,27.4,Credit Card,Month-to-Month,No,Yes
+CUST1959,Customer_959,44,Male,West,Standard,728.03,47,3,27.0,UPI,Two Year,No,No
+CUST1960,Customer_960,26,Other,South,Basic,1083.25,2,1,1.7,Debit Card,One Year,No,Yes
+CUST1961,Customer_961,43,Male,West,Standard,989.5,39,1,21.5,Debit Card,Two Year,No,Yes
+CUST1962,Customer_962,64,Female,East,Standard,1568.56,45,1,33.0,Debit Card,One Year,No,No
+CUST1963,Customer_963,39,Other,North,Premium,956.6,32,4,2.7,Debit Card,Month-to-Month,No,Yes
+CUST1964,Customer_964,64,Female,East,Standard,1898.4,65,1,38.3,UPI,Month-to-Month,Yes,No
+CUST1965,Customer_965,47,Female,West,Standard,1824.56,38,2,17.5,Wallet,One Year,No,No
+CUST1966,Customer_966,60,Female,West,Standard,1769.89,11,1,12.3,Debit Card,Two Year,Yes,No
+CUST1967,Customer_967,65,Other,West,Basic,328.26,10,2,21.7,Debit Card,One Year,No,Yes
+CUST1968,Customer_968,34,Female,East,Standard,1737.66,59,0,32.2,Debit Card,Two Year,Yes,No
+CUST1969,Customer_969,43,Female,West,Standard,1606.94,55,2,19.5,Wallet,Month-to-Month,No,No
+CUST1970,Customer_970,53,Female,East,Basic,386.32,20,2,26.2,Credit Card,Month-to-Month,No,No
+CUST1971,Customer_971,18,Female,South,Basic,393.35,17,2,20.5,Debit Card,Two Year,No,No
+CUST1972,Customer_972,25,Female,North,Basic,382.09,68,1,25.6,Debit Card,One Year,No,No
+CUST1973,Customer_973,66,Male,North,Premium,220.4,5,2,6.4,Debit Card,Two Year,Yes,No
+CUST1974,Customer_974,52,Male,East,Basic,1187.54,60,0,2.5,Credit Card,One Year,Yes,No
+CUST1975,Customer_975,69,Male,South,Basic,1952.11,23,4,6.3,Debit Card,Month-to-Month,Yes,No
+CUST1976,Customer_976,32,Male,East,Basic,989.63,46,2,12.1,Credit Card,Month-to-Month,Yes,No
+CUST1977,Customer_977,64,Male,South,Standard,1173.36,52,5,10.9,Credit Card,Two Year,Yes,No
+CUST1978,Customer_978,39,Male,West,Basic,1942.35,10,2,25.0,Net Banking,Month-to-Month,Yes,No
+CUST1979,Customer_979,31,Female,South,Premium,659.33,46,3,18.8,Net Banking,Month-to-Month,Yes,Yes
+CUST1980,Customer_980,43,Male,South,Premium,1745.25,28,2,2.5,Debit Card,Month-to-Month,No,No
+CUST1981,Customer_981,45,Female,South,Standard,1183.5,43,3,2.4,UPI,Month-to-Month,No,Yes
+CUST1982,Customer_982,40,Male,North,Standard,1225.06,26,1,4.5,Net Banking,Month-to-Month,Yes,No
+CUST1983,Customer_983,31,Male,South,Basic,817.71,55,1,14.8,Net Banking,One Year,Yes,Yes
+CUST1984,Customer_984,41,Female,West,Basic,1210.85,48,2,1.2,UPI,Month-to-Month,Yes,No
+CUST1985,Customer_985,19,Female,West,Premium,331.66,29,1,20.3,Wallet,Month-to-Month,Yes,No
+CUST1986,Customer_986,62,Male,West,Basic,1576.36,27,2,15.1,Debit Card,One Year,Yes,No
+CUST1987,Customer_987,43,Female,South,Basic,712.44,18,3,22.7,Wallet,Month-to-Month,Yes,Yes
+CUST1988,Customer_988,31,Female,East,Standard,1797.69,60,2,29.1,Wallet,One Year,Yes,No
+CUST1989,Customer_989,68,Male,East,Basic,862.13,69,2,10.8,Credit Card,Month-to-Month,Yes,Yes
+CUST1990,Customer_990,24,Male,West,Premium,457.08,21,1,7.1,Credit Card,Two Year,Yes,No
+CUST1991,Customer_991,20,Other,North,Basic,1452.59,24,2,11.8,Debit Card,Month-to-Month,Yes,No
+CUST1992,Customer_992,64,Female,East,Premium,496.24,3,1,1.1,UPI,Month-to-Month,No,No
+CUST1993,Customer_993,40,Female,South,Standard,1556.62,62,2,5.7,Credit Card,Two Year,No,Yes
+CUST1994,Customer_994,63,Female,East,Premium,1942.6,2,2,30.3,Net Banking,One Year,Yes,No
+CUST1995,Customer_995,60,Male,West,Basic,1603.2,66,1,9.7,Debit Card,Month-to-Month,Yes,No
+CUST1996,Customer_996,64,Male,North,Standard,240.41,42,3,39.8,Wallet,Two Year,Yes,No
+CUST1997,Customer_997,62,Male,East,Premium,1279.79,34,0,7.5,Debit Card,Month-to-Month,Yes,Yes
+CUST1998,Customer_998,35,Female,East,Standard,1451.74,42,2,31.8,Credit Card,Two Year,Yes,No
+CUST1999,Customer_999,55,Female,West,Basic,1685.82,20,3,28.5,UPI,Month-to-Month,Yes,Yes
+CUST2000,Customer_1000,52,Female,North,Standard,300.8,68,2,13.6,Wallet,Month-to-Month,Yes,No
+CUST2001,Customer_1001,68,Male,North,Standard,1064.19,45,2,13.9,UPI,Month-to-Month,Yes,Yes
+CUST2002,Customer_1002,32,Male,West,Standard,1163.67,42,3,23.0,Debit Card,Month-to-Month,No,No
+CUST2003,Customer_1003,42,Female,South,Premium,504.42,47,2,34.2,UPI,Month-to-Month,Yes,Yes
+CUST2004,Customer_1004,54,Female,East,Basic,780.41,5,2,16.1,UPI,Month-to-Month,Yes,No
+CUST2005,Customer_1005,45,Female,South,Standard,992.4,49,4,3.4,Debit Card,Month-to-Month,Yes,No
+CUST2006,Customer_1006,27,Male,East,Premium,1699.78,37,3,15.6,Wallet,Month-to-Month,Yes,No
+CUST2007,Customer_1007,56,Female,East,Standard,1872.93,34,2,9.1,UPI,Month-to-Month,No,No
+CUST2008,Customer_1008,34,Male,South,Premium,1331.16,70,4,37.6,UPI,Two Year,Yes,Yes
+CUST2009,Customer_1009,56,Female,West,Premium,910.9,18,2,28.2,Debit Card,Month-to-Month,Yes,Yes
+CUST2010,Customer_1010,39,Male,West,Standard,657.26,19,0,3.0,Net Banking,One Year,Yes,Yes
+CUST2011,Customer_1011,43,Female,East,Basic,1967.84,40,1,12.4,UPI,Two Year,Yes,No
+CUST2012,Customer_1012,61,Male,West,Basic,1969.44,17,3,3.0,Credit Card,One Year,Yes,No
+CUST2013,Customer_1013,42,Female,East,Standard,1864.96,60,3,33.4,Wallet,Two Year,Yes,No
+CUST2014,Customer_1014,34,Male,West,Premium,1614.2,42,3,36.3,UPI,Month-to-Month,No,Yes
+CUST2015,Customer_1015,30,Male,East,Basic,786.4,65,2,5.4,Debit Card,Month-to-Month,Yes,No
+CUST2016,Customer_1016,37,Male,West,Basic,1670.6,53,4,18.2,Credit Card,Month-to-Month,Yes,No
+CUST2017,Customer_1017,42,Male,North,Basic,935.83,7,2,37.3,Debit Card,Month-to-Month,Yes,No
+CUST2018,Customer_1018,21,Male,South,Premium,788.19,5,2,6.7,UPI,Two Year,No,No
+CUST2019,Customer_1019,27,Female,North,Basic,1540.76,24,2,12.4,Credit Card,Month-to-Month,No,No
+CUST2020,Customer_1020,20,Male,South,Standard,343.38,28,4,12.9,Wallet,Month-to-Month,No,No
+CUST2021,Customer_1021,58,Female,South,Standard,287.41,62,4,2.2,Wallet,One Year,No,Yes
+CUST2022,Customer_1022,62,Female,East,Premium,1006.32,17,1,2.4,Wallet,Month-to-Month,No,No
+CUST2023,Customer_1023,35,Female,South,Standard,1002.15,20,0,38.2,Net Banking,Month-to-Month,Yes,No
+CUST2024,Customer_1024,64,Male,North,Standard,1812.16,3,2,23.3,Debit Card,Month-to-Month,No,Yes
+CUST2025,Customer_1025,53,Male,North,Basic,427.08,37,2,13.0,UPI,Two Year,No,Yes
+CUST2026,Customer_1026,64,Female,West,Standard,421.91,15,2,15.8,Credit Card,One Year,Yes,Yes
+CUST2027,Customer_1027,39,Other,North,Standard,465.41,51,3,28.9,Debit Card,Month-to-Month,Yes,No
+CUST2028,Customer_1028,51,Male,West,Premium,253.53,48,4,15.3,UPI,Month-to-Month,No,Yes
+CUST2029,Customer_1029,64,Male,South,Basic,329.12,8,2,9.9,Net Banking,Month-to-Month,No,No
+CUST2030,Customer_1030,25,Male,North,Basic,1387.77,13,3,5.0,UPI,Month-to-Month,No,Yes
+CUST2031,Customer_1031,57,Other,South,Basic,976.85,48,4,29.4,Debit Card,One Year,No,No
+CUST2032,Customer_1032,66,Male,North,Basic,1574.49,3,0,8.0,UPI,Month-to-Month,No,No
+CUST2033,Customer_1033,61,Male,North,Premium,1986.68,65,3,3.7,Credit Card,Month-to-Month,Yes,No
+CUST2034,Customer_1034,36,Female,West,Basic,1386.26,31,1,17.7,Net Banking,Two Year,Yes,Yes
+CUST2035,Customer_1035,59,Male,South,Standard,290.82,26,2,2.5,Credit Card,One Year,Yes,No
+CUST2036,Customer_1036,58,Male,North,Basic,388.21,56,2,38.6,Net Banking,One Year,Yes,No
+CUST2037,Customer_1037,54,Female,East,Basic,1785.81,34,3,25.5,Net Banking,Month-to-Month,Yes,No
+CUST2038,Customer_1038,23,Female,South,Standard,1149.49,9,2,7.0,UPI,Month-to-Month,Yes,Yes
+CUST2039,Customer_1039,69,Male,South,Basic,1684.71,62,1,7.7,Credit Card,Month-to-Month,Yes,Yes
+CUST2040,Customer_1040,43,Male,South,Basic,1741.9,13,2,23.2,Net Banking,One Year,No,No
+CUST2041,Customer_1041,51,Male,West,Standard,1869.81,69,2,14.9,Net Banking,Month-to-Month,Yes,Yes
+CUST2042,Customer_1042,62,Male,East,Standard,1909.69,41,0,31.2,UPI,One Year,No,Yes
+CUST2043,Customer_1043,23,Female,South,Basic,1198.69,1,1,22.3,Debit Card,Two Year,No,No
+CUST2044,Customer_1044,54,Male,North,Premium,813.84,47,3,17.9,Debit Card,Month-to-Month,Yes,No
+CUST2045,Customer_1045,50,Male,North,Standard,1931.36,4,1,38.6,Wallet,Month-to-Month,Yes,No
+CUST2046,Customer_1046,39,Male,West,Premium,1185.33,63,1,16.2,Wallet,One Year,No,No
+CUST2047,Customer_1047,38,Female,North,Basic,315.65,52,1,16.6,Net Banking,Two Year,No,No
+CUST2048,Customer_1048,23,Female,South,Basic,1357.0,10,2,27.0,Debit Card,Two Year,Yes,No
+CUST2049,Customer_1049,23,Female,North,Basic,1257.83,28,2,32.6,Net Banking,Month-to-Month,Yes,No
+CUST2050,Customer_1050,65,Male,South,Basic,1812.43,6,2,25.4,Credit Card,Month-to-Month,Yes,No
+CUST2051,Customer_1051,21,Female,North,Standard,1375.74,27,2,28.2,Debit Card,One Year,Yes,Yes
+CUST2052,Customer_1052,47,Female,East,Premium,828.29,12,3,15.5,Debit Card,One Year,Yes,Yes
+CUST2053,Customer_1053,28,Male,West,Standard,1939.21,62,1,19.7,Debit Card,Month-to-Month,Yes,No
+CUST2054,Customer_1054,47,Male,West,Basic,1642.92,52,2,8.7,Wallet,Month-to-Month,Yes,No
+CUST2055,Customer_1055,48,Male,East,Standard,1334.75,48,0,27.5,UPI,One Year,No,No
+CUST2056,Customer_1056,41,Male,East,Basic,727.27,67,2,9.6,UPI,Month-to-Month,Yes,No
+CUST2057,Customer_1057,26,Male,West,Standard,872.37,46,5,1.0,Wallet,Two Year,No,Yes
+CUST2058,Customer_1058,20,Male,East,Standard,1405.95,15,1,37.4,Wallet,Month-to-Month,No,Yes
+CUST2059,Customer_1059,68,Male,South,Premium,329.57,71,0,12.9,Wallet,One Year,No,Yes
+CUST2060,Customer_1060,48,Female,North,Premium,662.03,36,1,8.7,UPI,One Year,Yes,No
+CUST2061,Customer_1061,57,Male,West,Basic,1485.02,14,1,11.5,Net Banking,Month-to-Month,Yes,No
+CUST2062,Customer_1062,54,Female,East,Standard,1064.03,3,2,13.9,Wallet,One Year,No,No
+CUST2063,Customer_1063,53,Female,South,Premium,924.31,67,5,19.5,Net Banking,One Year,No,No
+CUST2064,Customer_1064,41,Female,West,Premium,472.62,19,4,3.7,Net Banking,Two Year,Yes,No
+CUST2065,Customer_1065,48,Female,East,Standard,995.33,54,2,3.1,Credit Card,Month-to-Month,Yes,No
+CUST2066,Customer_1066,23,Male,West,Premium,1587.25,69,2,12.4,UPI,One Year,No,No
+CUST2067,Customer_1067,19,Female,East,Basic,675.22,10,2,12.5,Net Banking,One Year,Yes,No
+CUST2068,Customer_1068,37,Male,West,Premium,209.72,33,5,5.6,UPI,Month-to-Month,Yes,No
+CUST2069,Customer_1069,45,Male,South,Basic,1403.31,13,0,16.8,UPI,Two Year,No,No
+CUST2070,Customer_1070,28,Female,South,Standard,1950.73,51,4,12.1,Credit Card,Month-to-Month,Yes,No
+CUST2071,Customer_1071,21,Male,North,Premium,1292.29,32,4,2.0,UPI,Month-to-Month,Yes,No
+CUST2072,Customer_1072,32,Male,West,Basic,415.86,24,2,35.5,Net Banking,Month-to-Month,No,No
+CUST2073,Customer_1073,23,Female,North,Standard,777.32,35,1,35.6,Debit Card,Month-to-Month,Yes,No
+CUST2074,Customer_1074,66,Female,West,Basic,1761.75,70,1,9.2,Net Banking,Two Year,Yes,No
+CUST2075,Customer_1075,47,Female,East,Premium,618.62,40,1,7.4,Net Banking,One Year,Yes,Yes
+CUST2076,Customer_1076,55,Male,East,Premium,1293.85,54,1,22.3,UPI,Month-to-Month,Yes,No
+CUST2077,Customer_1077,68,Female,North,Standard,924.81,44,1,25.6,Net Banking,One Year,No,No
+CUST2078,Customer_1078,19,Male,West,Standard,574.12,62,3,38.3,Debit Card,Month-to-Month,Yes,Yes
+CUST2079,Customer_1079,32,Female,North,Premium,1664.13,68,3,15.7,UPI,Month-to-Month,Yes,No
+CUST2080,Customer_1080,28,Female,South,Basic,1537.1,33,2,25.1,Wallet,Month-to-Month,Yes,No
+CUST2081,Customer_1081,25,Female,North,Standard,1390.86,56,4,35.2,Net Banking,Month-to-Month,Yes,No
+CUST2082,Customer_1082,43,Female,North,Standard,625.41,36,3,18.5,Net Banking,Month-to-Month,Yes,No
+CUST2083,Customer_1083,68,Male,East,Basic,376.14,54,2,5.8,Credit Card,One Year,Yes,No
+CUST2084,Customer_1084,62,Female,North,Basic,1237.09,19,1,15.7,Wallet,Month-to-Month,Yes,No
+CUST2085,Customer_1085,61,Female,West,Basic,1196.62,43,4,6.3,Wallet,Month-to-Month,Yes,Yes
+CUST2086,Customer_1086,22,Male,East,Basic,539.09,12,1,1.6,Debit Card,Month-to-Month,Yes,No
+CUST2087,Customer_1087,23,Female,North,Premium,301.24,11,4,30.3,Wallet,Month-to-Month,No,No
+CUST2088,Customer_1088,43,Male,South,Standard,345.28,70,0,10.3,Credit Card,Two Year,Yes,No
+CUST2089,Customer_1089,21,Female,North,Standard,1986.99,12,2,1.1,Debit Card,Month-to-Month,Yes,Yes
+CUST2090,Customer_1090,36,Female,North,Basic,1610.45,41,2,35.0,Wallet,Two Year,Yes,No
+CUST2091,Customer_1091,37,Female,North,Basic,1859.58,25,2,18.3,Debit Card,Month-to-Month,No,No
+CUST2092,Customer_1092,50,Male,East,Basic,551.1,3,3,10.3,Wallet,One Year,Yes,No
+CUST2093,Customer_1093,37,Female,West,Premium,1929.02,3,4,11.2,Wallet,Month-to-Month,No,No
+CUST2094,Customer_1094,66,Female,South,Standard,456.78,28,3,10.4,Wallet,Two Year,Yes,No
+CUST2095,Customer_1095,29,Female,North,Premium,1116.35,23,4,8.6,Net Banking,Month-to-Month,No,Yes
+CUST2096,Customer_1096,64,Male,West,Standard,1693.45,48,0,33.8,Wallet,Month-to-Month,Yes,No
+CUST2097,Customer_1097,18,Male,West,Standard,829.65,67,4,7.6,Net Banking,Two Year,No,No
+CUST2098,Customer_1098,43,Female,East,Standard,964.69,42,3,22.9,UPI,Two Year,No,Yes
+CUST2099,Customer_1099,31,Male,South,Premium,430.73,40,5,4.0,Credit Card,Month-to-Month,Yes,No
+CUST2100,Customer_1100,55,Female,East,Premium,421.26,6,2,38.0,Debit Card,Two Year,Yes,No
+CUST2101,Customer_1101,54,Female,West,Basic,1315.22,20,3,24.5,Debit Card,One Year,Yes,No
+CUST2102,Customer_1102,28,Female,West,Standard,1415.96,11,5,36.2,UPI,Month-to-Month,Yes,No
+CUST2103,Customer_1103,53,Female,West,Standard,1599.2,27,2,16.5,Wallet,Month-to-Month,No,Yes
+CUST2104,Customer_1104,30,Female,East,Standard,1202.03,21,0,32.6,Credit Card,Month-to-Month,Yes,No
+CUST2105,Customer_1105,60,Male,South,Basic,1362.37,13,3,34.3,UPI,Month-to-Month,Yes,No
+CUST2106,Customer_1106,20,Male,North,Premium,224.33,35,1,28.4,UPI,One Year,Yes,No
+CUST2107,Customer_1107,50,Male,East,Premium,491.91,47,3,4.6,Debit Card,Month-to-Month,Yes,No
+CUST2108,Customer_1108,23,Male,West,Basic,1972.85,28,1,1.6,Net Banking,Month-to-Month,No,Yes
+CUST2109,Customer_1109,67,Female,East,Premium,336.79,21,2,7.6,Net Banking,Two Year,No,Yes
+CUST2110,Customer_1110,27,Female,West,Basic,1421.82,18,2,5.6,Wallet,Month-to-Month,Yes,No
+CUST2111,Customer_1111,22,Female,North,Basic,516.95,31,1,29.3,Wallet,Two Year,No,No
+CUST2112,Customer_1112,40,Female,North,Basic,1490.09,60,2,22.7,UPI,Two Year,No,Yes
+CUST2113,Customer_1113,27,Other,South,Basic,1470.78,37,3,21.5,Wallet,Two Year,Yes,No
+CUST2114,Customer_1114,61,Female,West,Premium,621.56,21,1,10.9,Net Banking,One Year,No,No
+CUST2115,Customer_1115,19,Female,South,Basic,685.34,14,5,7.0,Credit Card,Month-to-Month,Yes,Yes
+CUST2116,Customer_1116,30,Female,South,Basic,1378.59,60,0,9.1,Debit Card,Month-to-Month,Yes,Yes
+CUST2117,Customer_1117,57,Male,North,Basic,902.15,23,1,16.6,Net Banking,Month-to-Month,Yes,Yes
+CUST2118,Customer_1118,19,Male,East,Basic,550.19,29,1,29.9,Wallet,Month-to-Month,No,No
+CUST2119,Customer_1119,37,Male,East,Basic,1517.02,47,3,10.9,Debit Card,One Year,Yes,No
+CUST2120,Customer_1120,18,Female,South,Standard,477.47,30,1,28.2,Debit Card,Month-to-Month,Yes,No
+CUST2121,Customer_1121,54,Female,North,Basic,1740.16,38,0,20.2,UPI,Two Year,Yes,No
+CUST2122,Customer_1122,26,Male,West,Premium,1126.41,27,2,35.5,Wallet,Two Year,Yes,No
+CUST2123,Customer_1123,34,Male,East,Premium,390.26,15,1,10.1,UPI,Month-to-Month,No,Yes
+CUST2124,Customer_1124,26,Female,South,Basic,1449.33,59,0,18.6,Debit Card,Month-to-Month,Yes,No
+CUST2125,Customer_1125,28,Male,East,Premium,1134.49,3,2,4.8,UPI,Month-to-Month,Yes,Yes
+CUST2126,Customer_1126,32,Male,East,Basic,736.5,10,3,14.1,Wallet,Two Year,Yes,No
+CUST2127,Customer_1127,41,Female,West,Basic,960.57,17,2,20.8,Net Banking,One Year,Yes,No
+CUST2128,Customer_1128,55,Male,North,Basic,737.01,11,2,29.6,Credit Card,Month-to-Month,Yes,Yes
+CUST2129,Customer_1129,52,Male,West,Basic,673.45,48,3,8.7,Net Banking,Month-to-Month,Yes,No
+CUST2130,Customer_1130,47,Female,North,Standard,494.5,5,1,9.5,Debit Card,Month-to-Month,Yes,No
+CUST2131,Customer_1131,48,Female,East,Premium,852.98,69,1,25.6,Net Banking,Two Year,Yes,No
+CUST2132,Customer_1132,66,Female,South,Basic,651.78,64,5,15.9,UPI,Month-to-Month,Yes,Yes
+CUST2133,Customer_1133,22,Male,West,Standard,1430.18,14,5,19.8,Wallet,Month-to-Month,Yes,Yes
+CUST2134,Customer_1134,61,Male,North,Basic,1430.98,50,1,33.6,Net Banking,Two Year,No,No
+CUST2135,Customer_1135,67,Male,East,Premium,1103.31,26,5,20.5,Net Banking,Two Year,Yes,No
+CUST2136,Customer_1136,31,Female,North,Basic,1600.3,69,2,26.4,Wallet,Two Year,No,Yes
+CUST2137,Customer_1137,28,Female,North,Basic,1714.41,7,1,26.6,UPI,Month-to-Month,Yes,No
+CUST2138,Customer_1138,26,Male,North,Basic,1243.58,16,1,32.3,Credit Card,One Year,Yes,No
+CUST2139,Customer_1139,51,Female,East,Basic,1314.08,55,3,25.9,Net Banking,Month-to-Month,Yes,No
+CUST2140,Customer_1140,29,Male,South,Standard,709.19,56,5,3.5,Debit Card,Month-to-Month,Yes,Yes
+CUST2141,Customer_1141,52,Male,South,Premium,1810.76,4,1,14.3,UPI,Month-to-Month,Yes,No
+CUST2142,Customer_1142,52,Male,South,Basic,243.57,48,2,39.6,UPI,Month-to-Month,No,Yes
+CUST2143,Customer_1143,18,Male,North,Standard,827.48,17,0,8.7,Net Banking,Month-to-Month,Yes,No
+CUST2144,Customer_1144,57,Female,East,Standard,1499.24,36,4,23.9,Wallet,Two Year,Yes,No
+CUST2145,Customer_1145,39,Female,North,Premium,344.16,70,1,33.9,Net Banking,Month-to-Month,Yes,Yes
+CUST2146,Customer_1146,46,Male,South,Basic,529.71,38,0,23.9,Net Banking,Two Year,No,No
+CUST2147,Customer_1147,25,Female,South,Standard,1260.71,62,1,15.5,Wallet,Month-to-Month,No,Yes
+CUST2148,Customer_1148,28,Male,East,Premium,1207.99,48,4,4.1,Debit Card,Month-to-Month,Yes,No
+CUST2149,Customer_1149,58,Female,North,Standard,1530.07,10,3,15.1,Wallet,One Year,Yes,Yes
+CUST2150,Customer_1150,54,Female,West,Basic,1662.7,36,3,8.1,Net Banking,One Year,Yes,Yes
+CUST2151,Customer_1151,31,Male,West,Basic,431.44,29,1,38.5,Credit Card,Month-to-Month,No,No
+CUST2152,Customer_1152,47,Female,South,Basic,233.09,4,1,28.9,Wallet,Two Year,No,No
+CUST2153,Customer_1153,52,Male,East,Standard,1441.35,44,3,30.2,Debit Card,Month-to-Month,No,Yes
+CUST2154,Customer_1154,38,Male,North,Standard,742.51,56,3,18.0,Wallet,Two Year,Yes,Yes
+CUST2155,Customer_1155,54,Male,North,Basic,1326.77,42,2,5.3,Wallet,Month-to-Month,Yes,Yes
+CUST2156,Customer_1156,22,Female,South,Standard,470.98,13,2,11.4,UPI,Two Year,No,No
+CUST2157,Customer_1157,36,Female,South,Standard,1044.27,46,3,11.1,UPI,Month-to-Month,No,No
+CUST2158,Customer_1158,31,Male,North,Standard,1107.96,33,4,20.0,Net Banking,One Year,No,No
+CUST2159,Customer_1159,43,Female,North,Standard,1253.14,21,3,19.0,Net Banking,One Year,Yes,No
+CUST2160,Customer_1160,21,Female,South,Premium,1123.71,57,2,17.9,Wallet,Month-to-Month,Yes,Yes
+CUST2161,Customer_1161,42,Female,North,Basic,1092.24,69,3,20.3,Credit Card,Two Year,Yes,No
+CUST2162,Customer_1162,62,Female,West,Premium,798.92,70,1,39.5,Net Banking,Month-to-Month,No,Yes
+CUST2163,Customer_1163,59,Female,South,Basic,328.12,67,3,12.6,Wallet,Month-to-Month,Yes,No
+CUST2164,Customer_1164,42,Male,North,Basic,361.14,48,2,25.0,Wallet,One Year,Yes,No
+CUST2165,Customer_1165,35,Male,South,Basic,980.8,33,2,10.3,Wallet,Month-to-Month,Yes,No
+CUST2166,Customer_1166,57,Other,East,Basic,840.43,36,2,19.2,Wallet,Month-to-Month,Yes,Yes
+CUST2167,Customer_1167,25,Male,South,Basic,1129.04,33,2,8.8,Wallet,Month-to-Month,Yes,Yes
+CUST2168,Customer_1168,56,Other,South,Basic,748.71,31,6,22.8,UPI,One Year,Yes,No
+CUST2169,Customer_1169,57,Female,East,Premium,1438.24,21,1,11.3,Debit Card,Month-to-Month,Yes,No
+CUST2170,Customer_1170,31,Male,West,Basic,1755.12,27,1,2.4,Debit Card,Month-to-Month,No,Yes
+CUST2171,Customer_1171,49,Male,North,Standard,737.95,62,5,32.8,Wallet,One Year,No,Yes
+CUST2172,Customer_1172,68,Male,East,Basic,547.37,26,3,6.0,Net Banking,Two Year,Yes,No
+CUST2173,Customer_1173,55,Female,South,Premium,409.13,66,5,15.4,Credit Card,Two Year,No,No
+CUST2174,Customer_1174,50,Male,North,Standard,1309.26,12,2,19.6,Wallet,One Year,Yes,No
+CUST2175,Customer_1175,40,Male,East,Basic,998.94,22,2,17.9,Credit Card,One Year,No,Yes
+CUST2176,Customer_1176,32,Male,North,Premium,538.43,17,1,29.3,UPI,Month-to-Month,No,No
+CUST2177,Customer_1177,50,Male,North,Standard,1375.65,7,2,24.3,Debit Card,Month-to-Month,Yes,Yes
+CUST2178,Customer_1178,42,Female,East,Premium,467.27,68,2,12.5,UPI,One Year,Yes,No
+CUST2179,Customer_1179,34,Male,North,Standard,1197.74,37,2,3.0,Net Banking,Two Year,Yes,Yes
+CUST2180,Customer_1180,50,Female,West,Standard,1148.87,38,3,30.9,Net Banking,One Year,No,Yes
+CUST2181,Customer_1181,64,Male,East,Premium,1521.61,11,2,14.7,Wallet,Month-to-Month,Yes,Yes
+CUST2182,Customer_1182,19,Male,West,Standard,299.2,1,0,35.7,Net Banking,Month-to-Month,Yes,No
+CUST2183,Customer_1183,31,Male,South,Basic,1798.17,25,1,16.4,Net Banking,One Year,Yes,No
+CUST2184,Customer_1184,57,Male,North,Premium,1465.39,42,2,29.0,UPI,One Year,No,No
+CUST2185,Customer_1185,57,Other,South,Basic,589.03,52,7,37.6,Credit Card,One Year,No,No
+CUST2186,Customer_1186,68,Female,South,Standard,530.13,24,1,26.4,Debit Card,Month-to-Month,Yes,No
+CUST2187,Customer_1187,56,Male,North,Basic,976.99,53,3,17.1,Net Banking,Month-to-Month,No,No
+CUST2188,Customer_1188,68,Female,East,Standard,1671.62,56,2,23.1,Net Banking,Two Year,No,No
+CUST2189,Customer_1189,23,Male,North,Premium,1717.31,63,1,22.2,UPI,One Year,No,No
+CUST2190,Customer_1190,23,Male,South,Basic,1136.82,8,3,23.8,Debit Card,Month-to-Month,Yes,Yes
+CUST2191,Customer_1191,20,Other,South,Basic,1749.46,59,3,6.7,UPI,Month-to-Month,Yes,No
+CUST2192,Customer_1192,24,Female,East,Standard,209.8,45,3,28.2,Credit Card,Two Year,Yes,Yes
+CUST2193,Customer_1193,68,Other,North,Premium,263.31,27,1,6.7,UPI,Two Year,Yes,No
+CUST2194,Customer_1194,25,Male,South,Standard,1841.28,52,4,1.6,Debit Card,Month-to-Month,Yes,No
+CUST2195,Customer_1195,59,Female,West,Basic,1595.6,18,4,25.4,Debit Card,Month-to-Month,Yes,No
+CUST2196,Customer_1196,69,Male,South,Premium,1011.27,16,2,5.6,Net Banking,Month-to-Month,Yes,No
+CUST2197,Customer_1197,32,Male,South,Standard,1556.5,66,1,31.0,Credit Card,Month-to-Month,Yes,Yes
+CUST2198,Customer_1198,64,Female,East,Basic,1920.15,5,3,34.8,Wallet,One Year,Yes,No
+CUST2199,Customer_1199,46,Male,West,Basic,1589.76,3,1,37.8,Net Banking,Month-to-Month,Yes,No
+CUST2200,Customer_1200,50,Female,South,Standard,1716.27,70,1,26.9,UPI,One Year,No,Yes
+CUST2201,Customer_1201,69,Female,South,Basic,1569.09,7,2,19.8,UPI,One Year,No,No
+CUST2202,Customer_1202,47,Male,West,Basic,502.78,50,2,14.7,Debit Card,Month-to-Month,Yes,Yes
+CUST2203,Customer_1203,56,Female,North,Premium,1700.43,14,2,20.1,Debit Card,Month-to-Month,No,No
+CUST2204,Customer_1204,44,Female,North,Basic,551.2,38,1,8.4,Debit Card,Month-to-Month,Yes,No
+CUST2205,Customer_1205,53,Male,South,Standard,1806.7,47,1,14.6,Wallet,Month-to-Month,No,No
+CUST2206,Customer_1206,46,Female,South,Basic,1025.57,33,1,29.0,Wallet,Month-to-Month,Yes,Yes
+CUST2207,Customer_1207,55,Female,North,Premium,1418.56,43,5,9.5,Net Banking,One Year,Yes,Yes
+CUST2208,Customer_1208,50,Male,East,Standard,1095.03,29,3,11.3,Wallet,One Year,Yes,Yes
+CUST2209,Customer_1209,54,Female,West,Basic,369.18,57,2,30.2,Debit Card,One Year,Yes,Yes
+CUST2210,Customer_1210,44,Other,West,Standard,723.3,5,2,7.9,Net Banking,One Year,Yes,No
+CUST2211,Customer_1211,50,Male,East,Basic,1970.72,60,1,10.6,Net Banking,One Year,Yes,No
+CUST2212,Customer_1212,21,Female,East,Premium,1929.29,70,0,1.7,Credit Card,One Year,Yes,No
+CUST2213,Customer_1213,39,Male,East,Premium,776.88,2,4,29.1,Wallet,Month-to-Month,No,No
+CUST2214,Customer_1214,19,Female,East,Standard,1993.33,70,1,25.1,UPI,Two Year,Yes,Yes
+CUST2215,Customer_1215,27,Female,East,Standard,1721.99,43,2,28.1,UPI,Month-to-Month,Yes,No
+CUST2216,Customer_1216,22,Male,East,Basic,1299.73,4,3,9.4,Credit Card,Month-to-Month,Yes,Yes
+CUST2217,Customer_1217,27,Male,West,Standard,272.22,56,1,27.8,Debit Card,Month-to-Month,No,No
+CUST2218,Customer_1218,50,Female,East,Basic,1822.6,59,1,24.3,Credit Card,Two Year,Yes,Yes
+CUST2219,Customer_1219,55,Male,North,Basic,1203.37,9,0,15.3,Debit Card,Two Year,Yes,No
+CUST2220,Customer_1220,30,Female,East,Standard,1763.26,3,2,18.1,Wallet,One Year,Yes,Yes
+CUST2221,Customer_1221,48,Male,East,Basic,1701.97,48,1,23.1,Wallet,One Year,Yes,No
+CUST2222,Customer_1222,64,Female,West,Standard,1699.41,43,2,20.2,Net Banking,Month-to-Month,Yes,No
+CUST2223,Customer_1223,53,Female,West,Basic,1456.71,1,4,26.0,Net Banking,Two Year,Yes,No
+CUST2224,Customer_1224,62,Female,East,Standard,724.55,57,3,8.1,Net Banking,One Year,Yes,No
+CUST2225,Customer_1225,41,Male,West,Basic,805.09,53,1,22.1,Net Banking,Two Year,Yes,No
+CUST2226,Customer_1226,69,Female,South,Basic,755.24,16,3,18.6,UPI,Month-to-Month,Yes,No
+CUST2227,Customer_1227,32,Female,West,Standard,236.08,51,1,19.0,Net Banking,Month-to-Month,Yes,No
+CUST2228,Customer_1228,46,Male,West,Premium,1248.62,55,0,19.3,Net Banking,Two Year,Yes,Yes
+CUST2229,Customer_1229,25,Male,West,Premium,1457.9,1,3,35.4,Net Banking,Month-to-Month,No,No
+CUST2230,Customer_1230,22,Male,West,Basic,1736.96,28,2,32.9,Debit Card,Two Year,Yes,No
+CUST2231,Customer_1231,46,Female,North,Basic,452.3,53,4,25.6,Net Banking,Month-to-Month,No,No
+CUST2232,Customer_1232,64,Female,North,Premium,1179.53,58,1,28.9,Credit Card,Two Year,Yes,No
+CUST2233,Customer_1233,21,Male,North,Standard,214.41,60,3,2.7,Net Banking,Month-to-Month,Yes,No
+CUST2234,Customer_1234,29,Female,East,Basic,371.17,59,2,30.0,Net Banking,One Year,No,Yes
+CUST2235,Customer_1235,62,Male,East,Premium,297.58,22,0,20.0,UPI,Month-to-Month,Yes,Yes
+CUST2236,Customer_1236,19,Male,South,Premium,1505.86,8,1,13.4,Net Banking,One Year,Yes,No
+CUST2237,Customer_1237,44,Other,North,Premium,345.91,49,2,6.5,Debit Card,Month-to-Month,Yes,No
+CUST2238,Customer_1238,48,Female,East,Premium,1489.62,42,4,3.9,Wallet,Two Year,Yes,Yes
+CUST2239,Customer_1239,68,Female,West,Premium,649.32,27,0,2.8,Net Banking,One Year,No,Yes
+CUST2240,Customer_1240,68,Male,West,Basic,1779.88,39,0,7.3,Net Banking,Month-to-Month,Yes,No
+CUST2241,Customer_1241,53,Female,North,Basic,1663.67,25,2,2.2,Net Banking,Two Year,Yes,Yes
+CUST2242,Customer_1242,53,Female,South,Standard,1924.09,38,3,29.6,UPI,Month-to-Month,No,No
+CUST2243,Customer_1243,43,Male,South,Standard,1790.77,24,2,10.7,Wallet,Month-to-Month,No,Yes
+CUST2244,Customer_1244,60,Female,West,Standard,1879.99,24,1,15.4,UPI,Month-to-Month,No,Yes
+CUST2245,Customer_1245,44,Female,South,Basic,1745.74,60,3,33.1,UPI,Two Year,Yes,No
+CUST2246,Customer_1246,22,Female,North,Standard,1448.09,50,1,5.5,UPI,Month-to-Month,No,No
+CUST2247,Customer_1247,37,Male,West,Standard,506.47,66,1,33.6,Debit Card,Month-to-Month,No,No
+CUST2248,Customer_1248,28,Female,East,Basic,689.07,14,5,25.9,Wallet,Two Year,No,No
+CUST2249,Customer_1249,27,Female,East,Basic,582.91,53,1,14.3,Debit Card,One Year,No,Yes
+CUST2250,Customer_1250,57,Male,South,Standard,1286.45,32,1,5.6,Debit Card,Month-to-Month,No,No
+CUST2251,Customer_1251,55,Female,West,Standard,1106.52,48,1,4.6,Wallet,One Year,Yes,No
+CUST2252,Customer_1252,23,Female,West,Basic,1760.74,39,2,14.1,Debit Card,Two Year,Yes,No
+CUST2253,Customer_1253,25,Male,East,Standard,1914.81,40,2,6.5,Wallet,Month-to-Month,No,No
+CUST2254,Customer_1254,40,Male,West,Standard,928.75,42,2,11.4,Net Banking,One Year,Yes,No
+CUST2255,Customer_1255,64,Female,West,Standard,1111.43,8,1,3.1,UPI,Month-to-Month,Yes,No
+CUST2256,Customer_1256,43,Female,West,Basic,1948.73,26,1,24.2,Debit Card,One Year,Yes,No
+CUST2257,Customer_1257,63,Female,South,Standard,697.23,12,3,6.7,Wallet,Month-to-Month,No,No
+CUST2258,Customer_1258,60,Male,West,Basic,1626.3,43,1,30.5,Credit Card,One Year,Yes,No
+CUST2259,Customer_1259,29,Other,North,Premium,605.43,51,0,9.5,Debit Card,Month-to-Month,Yes,Yes
+CUST2260,Customer_1260,43,Male,South,Basic,1426.63,63,1,32.1,Debit Card,One Year,Yes,No
+CUST2261,Customer_1261,30,Male,West,Standard,656.51,49,4,8.4,Wallet,Month-to-Month,Yes,Yes
+CUST2262,Customer_1262,57,Female,West,Basic,1790.72,27,1,29.1,Credit Card,Month-to-Month,Yes,Yes
+CUST2263,Customer_1263,35,Male,North,Standard,1210.66,9,1,14.0,Credit Card,Month-to-Month,Yes,No
+CUST2264,Customer_1264,42,Male,South,Standard,534.68,39,0,23.7,Net Banking,One Year,No,No
+CUST2265,Customer_1265,50,Male,East,Basic,603.86,65,3,2.5,Debit Card,Month-to-Month,No,No
+CUST2266,Customer_1266,64,Male,East,Standard,1088.93,71,3,20.3,UPI,Month-to-Month,No,No
+CUST2267,Customer_1267,57,Male,South,Basic,1930.88,71,2,6.8,Debit Card,Month-to-Month,Yes,No
+CUST2268,Customer_1268,60,Other,West,Basic,1585.36,7,0,20.0,UPI,One Year,Yes,Yes
+CUST2269,Customer_1269,29,Male,West,Standard,1078.96,67,0,6.5,UPI,Month-to-Month,Yes,Yes
+CUST2270,Customer_1270,61,Female,East,Basic,807.89,10,2,18.0,Wallet,One Year,Yes,No
+CUST2271,Customer_1271,53,Female,East,Premium,1188.68,71,2,5.3,Debit Card,Month-to-Month,Yes,No
+CUST2272,Customer_1272,65,Female,East,Standard,1547.05,53,0,9.6,Wallet,Month-to-Month,No,No
+CUST2273,Customer_1273,21,Male,North,Standard,1611.07,57,3,24.2,Net Banking,Month-to-Month,Yes,Yes
+CUST2274,Customer_1274,22,Female,East,Basic,784.3,27,2,39.1,UPI,Two Year,Yes,Yes
+CUST2275,Customer_1275,54,Female,North,Standard,1498.09,54,1,18.5,Credit Card,Month-to-Month,No,Yes
+CUST2276,Customer_1276,25,Female,South,Premium,1384.02,4,2,27.8,UPI,Month-to-Month,Yes,No
+CUST2277,Customer_1277,59,Female,West,Basic,1926.4,23,2,22.0,Net Banking,Month-to-Month,No,Yes
+CUST2278,Customer_1278,66,Female,East,Premium,1875.96,48,3,20.4,UPI,One Year,No,No
+CUST2279,Customer_1279,45,Male,West,Basic,1620.88,42,2,3.5,Wallet,Month-to-Month,Yes,No
+CUST2280,Customer_1280,48,Female,West,Premium,1502.11,3,2,6.6,Debit Card,One Year,Yes,No
+CUST2281,Customer_1281,26,Female,East,Basic,693.27,3,2,35.4,Credit Card,Month-to-Month,No,Yes
+CUST2282,Customer_1282,68,Female,East,Premium,1722.74,28,2,17.0,Wallet,Month-to-Month,Yes,Yes
+CUST2283,Customer_1283,46,Other,South,Standard,969.51,63,0,25.0,Debit Card,Month-to-Month,Yes,No
+CUST2284,Customer_1284,31,Male,North,Basic,690.03,31,1,21.6,Credit Card,One Year,No,No
+CUST2285,Customer_1285,57,Other,North,Basic,891.49,10,3,15.8,Net Banking,One Year,Yes,No
+CUST2286,Customer_1286,58,Male,West,Standard,1704.68,49,4,16.1,UPI,Month-to-Month,Yes,No
+CUST2287,Customer_1287,39,Male,East,Premium,467.54,21,1,22.7,Credit Card,Two Year,Yes,No
+CUST2288,Customer_1288,28,Male,South,Basic,1021.09,53,3,6.5,Net Banking,Month-to-Month,No,Yes
+CUST2289,Customer_1289,40,Male,South,Basic,1086.24,54,4,16.1,Debit Card,One Year,Yes,Yes
+CUST2290,Customer_1290,18,Female,South,Standard,265.93,57,2,18.4,Credit Card,Month-to-Month,Yes,No
+CUST2291,Customer_1291,63,Male,South,Standard,552.34,20,1,39.4,Net Banking,Month-to-Month,Yes,No
+CUST2292,Customer_1292,54,Male,South,Standard,1688.14,49,1,14.7,Debit Card,One Year,Yes,Yes
+CUST2293,Customer_1293,38,Female,North,Standard,1695.38,7,5,26.1,Wallet,One Year,No,No
+CUST2294,Customer_1294,43,Female,North,Basic,726.35,29,2,6.4,UPI,Month-to-Month,No,No
+CUST2295,Customer_1295,63,Female,North,Premium,1774.82,48,1,3.6,Net Banking,Month-to-Month,Yes,No
+CUST2296,Customer_1296,53,Female,East,Standard,1589.21,13,0,35.0,Wallet,Month-to-Month,Yes,Yes
+CUST2297,Customer_1297,40,Female,West,Basic,952.23,3,1,29.5,Debit Card,One Year,Yes,Yes
+CUST2298,Customer_1298,18,Male,South,Standard,1547.13,2,1,13.4,Credit Card,Month-to-Month,Yes,No
+CUST2299,Customer_1299,68,Male,East,Standard,1930.4,16,2,20.7,UPI,One Year,Yes,No
+CUST2300,Customer_1300,57,Female,South,Basic,1026.15,6,2,6.3,Debit Card,Month-to-Month,Yes,No
+CUST2301,Customer_1301,32,Male,North,Standard,629.17,45,0,28.6,Net Banking,Month-to-Month,Yes,No
+CUST2302,Customer_1302,38,Female,East,Basic,1895.27,71,0,3.7,UPI,Month-to-Month,Yes,No
+CUST2303,Customer_1303,64,Male,North,Standard,1286.74,5,7,30.5,Wallet,Month-to-Month,No,No
+CUST2304,Customer_1304,26,Male,South,Premium,389.48,56,0,22.3,UPI,Month-to-Month,No,Yes
+CUST2305,Customer_1305,26,Female,South,Basic,1230.83,71,4,11.9,Wallet,Month-to-Month,Yes,No
+CUST2306,Customer_1306,27,Female,West,Basic,1101.05,32,1,34.6,Debit Card,One Year,Yes,No
+CUST2307,Customer_1307,69,Female,South,Premium,1740.06,49,3,39.5,Credit Card,Month-to-Month,No,No
+CUST2308,Customer_1308,43,Female,North,Premium,1155.25,13,1,10.9,UPI,One Year,No,No
+CUST2309,Customer_1309,58,Male,South,Standard,659.42,30,3,32.4,Credit Card,Month-to-Month,Yes,No
+CUST2310,Customer_1310,52,Male,West,Standard,1416.16,25,1,30.3,Credit Card,Two Year,No,No
+CUST2311,Customer_1311,69,Female,West,Standard,1176.64,60,3,30.1,UPI,Two Year,No,Yes
+CUST2312,Customer_1312,42,Female,North,Premium,619.48,59,0,38.3,UPI,Two Year,Yes,Yes
+CUST2313,Customer_1313,43,Male,East,Premium,1232.53,28,2,20.0,Credit Card,One Year,Yes,Yes
+CUST2314,Customer_1314,28,Female,South,Basic,1678.76,58,2,27.3,Net Banking,Month-to-Month,Yes,Yes
+CUST2315,Customer_1315,55,Male,West,Standard,251.43,20,1,33.1,Net Banking,One Year,Yes,No
+CUST2316,Customer_1316,19,Male,South,Standard,1335.53,34,3,19.7,UPI,Two Year,Yes,No
+CUST2317,Customer_1317,24,Male,South,Premium,829.25,5,2,19.8,Credit Card,Month-to-Month,No,No
+CUST2318,Customer_1318,35,Female,East,Standard,726.81,60,0,13.4,Credit Card,Month-to-Month,No,No
+CUST2319,Customer_1319,44,Female,West,Standard,906.66,43,3,31.5,Debit Card,Month-to-Month,Yes,No
+CUST2320,Customer_1320,51,Male,South,Premium,815.64,57,1,27.8,Credit Card,Month-to-Month,Yes,No
+CUST2321,Customer_1321,44,Female,West,Basic,1698.03,57,4,18.6,Net Banking,Month-to-Month,Yes,Yes
+CUST2322,Customer_1322,34,Male,North,Basic,694.64,54,1,17.4,Debit Card,Month-to-Month,Yes,No
+CUST2323,Customer_1323,60,Male,North,Standard,1519.68,45,1,3.8,Net Banking,Month-to-Month,Yes,Yes
+CUST2324,Customer_1324,61,Male,South,Basic,369.31,37,3,1.3,Wallet,Two Year,No,No
+CUST2325,Customer_1325,68,Male,West,Basic,1912.51,48,2,21.6,UPI,Month-to-Month,Yes,No
+CUST2326,Customer_1326,41,Male,South,Basic,1320.17,54,2,17.3,Wallet,One Year,Yes,No
+CUST2327,Customer_1327,42,Female,West,Standard,1472.09,48,1,32.0,UPI,Month-to-Month,Yes,Yes
+CUST2328,Customer_1328,24,Female,West,Premium,736.47,6,3,22.2,Net Banking,Month-to-Month,Yes,Yes
+CUST2329,Customer_1329,69,Female,East,Standard,941.77,34,1,37.5,Net Banking,Month-to-Month,Yes,No
+CUST2330,Customer_1330,23,Male,East,Standard,602.8,63,1,8.6,Wallet,Month-to-Month,Yes,No
+CUST2331,Customer_1331,41,Male,East,Basic,1878.56,48,3,39.6,UPI,Month-to-Month,Yes,Yes
+CUST2332,Customer_1332,50,Male,South,Premium,1078.59,23,4,12.6,UPI,Month-to-Month,Yes,No
+CUST2333,Customer_1333,66,Male,East,Premium,1334.81,13,2,26.1,Debit Card,Month-to-Month,Yes,Yes
+CUST2334,Customer_1334,46,Female,East,Standard,1521.69,47,1,20.6,Credit Card,One Year,Yes,No
+CUST2335,Customer_1335,60,Male,North,Basic,867.99,44,1,15.0,Debit Card,Month-to-Month,Yes,No
+CUST2336,Customer_1336,39,Female,West,Basic,1496.18,32,2,6.4,Net Banking,Month-to-Month,No,No
+CUST2337,Customer_1337,43,Female,West,Basic,1416.79,26,2,6.3,Wallet,One Year,Yes,No
+CUST2338,Customer_1338,45,Male,East,Standard,1470.19,53,0,28.7,UPI,Month-to-Month,Yes,Yes
+CUST2339,Customer_1339,67,Female,West,Premium,1080.61,14,1,15.7,Debit Card,Month-to-Month,Yes,Yes
+CUST2340,Customer_1340,38,Female,North,Premium,889.29,52,1,38.5,Wallet,Month-to-Month,Yes,No
+CUST2341,Customer_1341,66,Female,North,Standard,599.75,36,1,13.7,Wallet,Month-to-Month,No,Yes
+CUST2342,Customer_1342,24,Female,East,Premium,1684.33,8,1,39.4,Credit Card,Month-to-Month,Yes,No
+CUST2343,Customer_1343,34,Male,North,Premium,1295.03,40,2,9.0,UPI,Month-to-Month,No,No
+CUST2344,Customer_1344,37,Male,West,Basic,999.83,22,2,5.0,Wallet,Month-to-Month,Yes,No
+CUST2345,Customer_1345,58,Male,South,Basic,1899.19,16,1,13.2,UPI,One Year,Yes,No
+CUST2346,Customer_1346,66,Male,West,Premium,286.11,60,2,35.5,Debit Card,Month-to-Month,No,No
+CUST2347,Customer_1347,37,Female,South,Basic,1730.31,60,2,21.4,Wallet,Month-to-Month,Yes,No
+CUST2348,Customer_1348,39,Male,East,Premium,1995.65,10,1,6.3,Wallet,Two Year,Yes,No
+CUST2349,Customer_1349,45,Female,South,Premium,1796.5,25,1,8.9,Debit Card,One Year,No,No
+CUST2350,Customer_1350,57,Female,North,Standard,1658.79,31,3,13.1,UPI,Month-to-Month,No,No
+CUST2351,Customer_1351,66,Male,West,Premium,873.75,21,3,24.0,UPI,Two Year,Yes,No
+CUST2352,Customer_1352,24,Male,South,Standard,616.37,33,3,14.0,Wallet,Month-to-Month,Yes,No
+CUST2353,Customer_1353,18,Female,West,Standard,1522.73,31,1,30.1,Debit Card,Month-to-Month,Yes,No
+CUST2354,Customer_1354,49,Female,East,Basic,748.24,21,4,25.0,Net Banking,Two Year,Yes,No
+CUST2355,Customer_1355,30,Female,East,Basic,516.87,36,3,35.1,UPI,Two Year,Yes,No
+CUST2356,Customer_1356,47,Male,North,Basic,1615.75,65,4,20.5,Net Banking,Month-to-Month,No,No
+CUST2357,Customer_1357,40,Male,East,Standard,762.58,4,1,13.9,Wallet,One Year,Yes,No
+CUST2358,Customer_1358,68,Male,South,Basic,1846.0,68,0,39.9,Net Banking,One Year,No,No
+CUST2359,Customer_1359,36,Male,East,Basic,1713.14,4,4,14.9,Net Banking,Month-to-Month,Yes,No
+CUST2360,Customer_1360,49,Female,North,Basic,1725.75,9,1,17.7,UPI,Month-to-Month,Yes,No
+CUST2361,Customer_1361,47,Female,West,Standard,1588.83,30,1,32.6,Wallet,Month-to-Month,No,Yes
+CUST2362,Customer_1362,46,Female,West,Premium,1785.59,45,4,4.5,Net Banking,Two Year,Yes,No
+CUST2363,Customer_1363,66,Female,East,Premium,1650.34,4,3,16.1,UPI,Month-to-Month,Yes,Yes
+CUST2364,Customer_1364,62,Female,South,Standard,1284.52,69,1,4.3,Net Banking,One Year,Yes,No
+CUST2365,Customer_1365,46,Male,North,Premium,732.48,23,0,6.4,UPI,Month-to-Month,No,No
+CUST2366,Customer_1366,47,Male,South,Standard,1798.78,16,3,1.2,Wallet,Month-to-Month,Yes,No
+CUST2367,Customer_1367,33,Female,North,Standard,1713.09,22,2,1.4,Debit Card,One Year,Yes,No
+CUST2368,Customer_1368,57,Male,East,Standard,1051.18,48,1,15.8,UPI,One Year,Yes,Yes
+CUST2369,Customer_1369,36,Female,North,Basic,270.34,62,1,32.6,UPI,Month-to-Month,Yes,No
+CUST2370,Customer_1370,35,Female,North,Premium,1349.38,60,2,23.9,Net Banking,Month-to-Month,No,No
+CUST2371,Customer_1371,18,Male,East,Basic,291.07,5,1,25.8,Wallet,Month-to-Month,Yes,Yes
+CUST2372,Customer_1372,31,Female,South,Standard,1867.3,7,2,21.3,Credit Card,Month-to-Month,Yes,No
+CUST2373,Customer_1373,68,Female,East,Standard,1930.94,51,1,33.0,Credit Card,Month-to-Month,Yes,No
+CUST2374,Customer_1374,64,Female,North,Basic,541.08,65,3,35.3,Debit Card,One Year,No,Yes
+CUST2375,Customer_1375,67,Female,East,Basic,1417.5,9,4,34.1,Wallet,Month-to-Month,No,No
+CUST2376,Customer_1376,19,Female,North,Standard,366.08,45,6,32.7,UPI,Month-to-Month,No,No
+CUST2377,Customer_1377,45,Male,East,Basic,1513.13,47,2,8.1,Credit Card,Month-to-Month,Yes,Yes
+CUST2378,Customer_1378,66,Male,West,Standard,825.12,67,2,24.2,Debit Card,Two Year,Yes,No
+CUST2379,Customer_1379,67,Female,West,Standard,1425.89,24,2,23.7,Wallet,Month-to-Month,Yes,No
+CUST2380,Customer_1380,47,Female,East,Standard,871.18,10,3,21.6,Debit Card,One Year,No,No
+CUST2381,Customer_1381,55,Male,South,Standard,462.02,48,3,19.8,Credit Card,Month-to-Month,No,No
+CUST2382,Customer_1382,68,Male,North,Standard,931.0,35,2,4.5,Net Banking,Month-to-Month,No,Yes
+CUST2383,Customer_1383,21,Female,West,Standard,402.81,54,3,5.0,Net Banking,Month-to-Month,Yes,No
+CUST2384,Customer_1384,18,Female,South,Standard,1238.39,71,3,36.2,Wallet,Month-to-Month,Yes,Yes
+CUST2385,Customer_1385,25,Female,North,Premium,273.71,16,3,25.6,Debit Card,One Year,Yes,No
+CUST2386,Customer_1386,46,Female,West,Standard,1149.18,53,0,11.2,UPI,Month-to-Month,No,No
+CUST2387,Customer_1387,56,Male,West,Premium,1795.46,40,3,11.9,Credit Card,One Year,Yes,No
+CUST2388,Customer_1388,20,Male,East,Basic,1708.17,20,2,24.8,Net Banking,Month-to-Month,No,No
+CUST2389,Customer_1389,49,Female,North,Standard,1789.01,69,1,16.9,Net Banking,Month-to-Month,Yes,No
+CUST2390,Customer_1390,27,Male,South,Premium,1859.69,45,4,18.2,Debit Card,Month-to-Month,Yes,No
+CUST2391,Customer_1391,27,Male,South,Basic,388.15,6,3,3.4,Net Banking,One Year,Yes,No
+CUST2392,Customer_1392,36,Male,South,Basic,431.74,69,2,6.4,Debit Card,One Year,Yes,No
+CUST2393,Customer_1393,63,Female,North,Standard,1202.61,49,1,16.3,Credit Card,One Year,Yes,No
+CUST2394,Customer_1394,51,Female,South,Basic,1809.15,39,4,28.3,Debit Card,Month-to-Month,Yes,No
+CUST2395,Customer_1395,50,Male,South,Basic,1953.83,2,1,2.9,Net Banking,One Year,Yes,No
+CUST2396,Customer_1396,40,Male,South,Premium,283.27,39,1,14.0,Debit Card,Month-to-Month,Yes,Yes
+CUST2397,Customer_1397,45,Female,East,Standard,840.39,21,1,28.1,Net Banking,One Year,No,Yes
+CUST2398,Customer_1398,49,Other,East,Basic,583.21,40,1,31.9,Wallet,Two Year,No,No
+CUST2399,Customer_1399,67,Male,North,Premium,1560.74,54,2,8.4,Net Banking,Month-to-Month,Yes,No
+CUST2400,Customer_1400,24,Female,North,Premium,1352.35,12,1,29.5,Net Banking,Month-to-Month,Yes,No
+CUST2401,Customer_1401,46,Male,South,Standard,415.8,37,2,38.3,Net Banking,One Year,Yes,No
+CUST2402,Customer_1402,25,Female,East,Basic,1070.34,38,6,36.4,Wallet,One Year,No,Yes
+CUST2403,Customer_1403,18,Male,West,Premium,1433.79,15,2,31.8,UPI,Month-to-Month,Yes,Yes
+CUST2404,Customer_1404,20,Male,West,Standard,1602.21,7,3,28.8,Net Banking,Two Year,Yes,No
+CUST2405,Customer_1405,41,Female,South,Standard,236.09,50,3,10.2,UPI,One Year,No,No
+CUST2406,Customer_1406,40,Female,South,Premium,1802.85,65,2,25.7,Credit Card,Month-to-Month,Yes,No
+CUST2407,Customer_1407,25,Male,East,Standard,1224.71,67,3,26.1,Debit Card,Month-to-Month,No,No
+CUST2408,Customer_1408,64,Female,East,Basic,1661.44,44,5,16.9,UPI,One Year,Yes,Yes
+CUST2409,Customer_1409,54,Male,East,Standard,1654.29,31,1,20.2,Credit Card,Month-to-Month,Yes,No
+CUST2410,Customer_1410,20,Female,North,Basic,541.73,43,2,28.1,Debit Card,Month-to-Month,Yes,No
+CUST2411,Customer_1411,68,Male,North,Premium,398.31,48,6,38.1,Net Banking,Month-to-Month,No,No
+CUST2412,Customer_1412,50,Female,South,Standard,1498.32,61,4,12.5,Net Banking,One Year,No,Yes
+CUST2413,Customer_1413,45,Male,North,Basic,481.57,10,0,10.6,Net Banking,One Year,Yes,Yes
+CUST2414,Customer_1414,64,Female,East,Standard,1729.89,29,2,24.5,Wallet,Month-to-Month,Yes,Yes
+CUST2415,Customer_1415,25,Female,East,Basic,1507.14,48,1,6.1,Wallet,One Year,Yes,No
+CUST2416,Customer_1416,51,Female,North,Basic,1715.29,62,0,23.7,Wallet,Two Year,No,Yes
+CUST2417,Customer_1417,52,Female,West,Standard,738.22,13,4,4.5,Wallet,Month-to-Month,Yes,Yes
+CUST2418,Customer_1418,49,Female,South,Basic,769.88,44,3,20.1,Credit Card,One Year,No,No
+CUST2419,Customer_1419,41,Male,West,Premium,1408.2,47,2,25.2,Credit Card,Two Year,Yes,No
+CUST2420,Customer_1420,31,Male,South,Basic,256.6,64,2,3.7,Net Banking,One Year,Yes,No
+CUST2421,Customer_1421,49,Female,West,Standard,1507.69,53,0,9.1,Debit Card,One Year,Yes,No
+CUST2422,Customer_1422,63,Male,North,Premium,1704.41,44,3,14.1,Wallet,Month-to-Month,No,No
+CUST2423,Customer_1423,60,Female,South,Standard,947.29,28,2,15.4,Debit Card,Month-to-Month,No,No
+CUST2424,Customer_1424,33,Other,South,Standard,1576.78,2,4,27.4,Credit Card,Month-to-Month,Yes,No
+CUST2425,Customer_1425,21,Male,South,Premium,514.3,57,4,21.6,Wallet,One Year,Yes,Yes
+CUST2426,Customer_1426,69,Female,East,Basic,780.07,57,1,15.9,Credit Card,Two Year,Yes,No
+CUST2427,Customer_1427,54,Male,East,Basic,1953.75,34,0,18.6,Credit Card,Month-to-Month,Yes,No
+CUST2428,Customer_1428,38,Female,West,Standard,1975.39,58,3,1.5,UPI,Month-to-Month,No,No
+CUST2429,Customer_1429,31,Male,North,Basic,1122.69,52,3,31.1,Credit Card,Month-to-Month,Yes,No
+CUST2430,Customer_1430,48,Male,East,Premium,1881.69,29,1,2.6,Net Banking,One Year,No,No
+CUST2431,Customer_1431,65,Female,South,Basic,1140.92,35,0,33.3,Credit Card,Month-to-Month,No,Yes
+CUST2432,Customer_1432,35,Female,East,Premium,724.86,48,0,22.1,Wallet,One Year,No,No
+CUST2433,Customer_1433,24,Female,North,Premium,680.42,33,3,21.6,Net Banking,Month-to-Month,No,No
+CUST2434,Customer_1434,27,Female,East,Basic,1873.11,9,2,28.5,Credit Card,Month-to-Month,Yes,No
+CUST2435,Customer_1435,24,Male,South,Standard,510.4,48,1,34.5,Net Banking,Month-to-Month,No,Yes
+CUST2436,Customer_1436,50,Female,West,Basic,1243.34,67,3,37.8,Credit Card,Two Year,Yes,No
+CUST2437,Customer_1437,40,Male,South,Standard,1199.95,36,2,22.2,Net Banking,Month-to-Month,Yes,Yes
+CUST2438,Customer_1438,38,Female,North,Basic,1531.32,71,1,6.9,Debit Card,Two Year,No,No
+CUST2439,Customer_1439,36,Female,West,Premium,1098.64,44,2,35.3,UPI,Month-to-Month,Yes,Yes
+CUST2440,Customer_1440,65,Female,East,Premium,690.11,60,2,2.6,Net Banking,Month-to-Month,No,Yes
+CUST2441,Customer_1441,36,Female,East,Basic,504.91,63,2,32.5,Wallet,Month-to-Month,No,No
+CUST2442,Customer_1442,53,Male,East,Basic,1317.47,5,1,27.5,UPI,Two Year,No,No
+CUST2443,Customer_1443,46,Female,West,Premium,1494.18,40,2,36.3,UPI,One Year,Yes,No
+CUST2444,Customer_1444,35,Male,South,Basic,1225.14,19,3,36.0,Credit Card,Month-to-Month,Yes,No
+CUST2445,Customer_1445,19,Female,West,Premium,1529.03,47,4,3.1,Net Banking,One Year,Yes,No
+CUST2446,Customer_1446,18,Male,West,Standard,454.74,65,1,24.8,UPI,Month-to-Month,No,No
+CUST2447,Customer_1447,64,Female,North,Basic,1788.45,67,1,5.9,Wallet,Month-to-Month,Yes,No
+CUST2448,Customer_1448,22,Female,West,Premium,1248.31,18,3,4.1,Wallet,Month-to-Month,Yes,No
+CUST2449,Customer_1449,37,Male,East,Standard,428.32,50,1,18.5,Wallet,One Year,Yes,No
+CUST2450,Customer_1450,28,Male,South,Premium,1031.47,30,2,4.8,Credit Card,Month-to-Month,Yes,No
+CUST2451,Customer_1451,59,Female,South,Premium,1720.63,66,6,29.4,Debit Card,Month-to-Month,Yes,No
+CUST2452,Customer_1452,19,Male,South,Basic,1815.61,5,2,38.8,Net Banking,Month-to-Month,Yes,No
+CUST2453,Customer_1453,20,Male,East,Basic,676.37,42,3,23.2,UPI,Month-to-Month,Yes,No
+CUST2454,Customer_1454,40,Male,East,Premium,1480.28,5,1,10.2,Net Banking,Month-to-Month,No,No
+CUST2455,Customer_1455,29,Male,East,Premium,379.97,50,3,33.9,UPI,Month-to-Month,Yes,No
+CUST2456,Customer_1456,37,Female,East,Basic,260.38,58,0,34.3,Credit Card,Month-to-Month,Yes,No
+CUST2457,Customer_1457,22,Female,East,Premium,1208.72,8,4,29.6,Net Banking,Two Year,Yes,No
+CUST2458,Customer_1458,54,Male,West,Standard,1450.69,31,1,25.0,Credit Card,Month-to-Month,No,No
+CUST2459,Customer_1459,55,Male,East,Basic,1632.42,12,1,34.8,Credit Card,Month-to-Month,Yes,No
+CUST2460,Customer_1460,47,Male,East,Premium,812.39,21,2,7.4,Net Banking,Month-to-Month,Yes,Yes
+CUST2461,Customer_1461,26,Male,East,Basic,211.75,62,5,37.3,Net Banking,Month-to-Month,Yes,Yes
+CUST2462,Customer_1462,51,Male,East,Premium,1063.13,33,0,37.9,UPI,One Year,Yes,No
+CUST2463,Customer_1463,61,Male,South,Basic,228.54,26,0,35.0,Wallet,Month-to-Month,Yes,No
+CUST2464,Customer_1464,52,Male,East,Standard,365.57,40,4,10.8,Credit Card,Two Year,Yes,Yes
+CUST2465,Customer_1465,69,Female,West,Basic,788.04,65,3,34.5,Debit Card,One Year,No,No
+CUST2466,Customer_1466,39,Male,West,Standard,986.91,59,0,20.4,UPI,One Year,Yes,No
+CUST2467,Customer_1467,61,Female,West,Standard,703.04,15,2,24.2,UPI,Month-to-Month,Yes,No
+CUST2468,Customer_1468,41,Female,North,Basic,1247.36,1,2,33.8,Wallet,Month-to-Month,Yes,No
+CUST2469,Customer_1469,34,Female,South,Standard,299.63,11,0,2.2,Wallet,Month-to-Month,Yes,No
+CUST2470,Customer_1470,27,Female,East,Standard,460.24,55,2,15.2,Credit Card,Two Year,No,No
+CUST2471,Customer_1471,47,Female,North,Basic,1451.47,2,2,32.8,UPI,Month-to-Month,Yes,Yes
+CUST2472,Customer_1472,63,Female,East,Premium,455.85,65,4,32.7,UPI,Month-to-Month,No,No
+CUST2473,Customer_1473,40,Female,North,Basic,1351.6,44,1,34.1,Debit Card,Month-to-Month,No,Yes
+CUST2474,Customer_1474,49,Female,North,Standard,298.43,16,3,7.6,Credit Card,One Year,Yes,No
+CUST2475,Customer_1475,34,Female,West,Standard,933.29,22,3,28.5,Credit Card,One Year,No,No
+CUST2476,Customer_1476,67,Female,West,Standard,519.34,18,1,6.7,Wallet,Month-to-Month,Yes,No
+CUST2477,Customer_1477,68,Male,North,Basic,397.35,47,3,31.6,Credit Card,Month-to-Month,Yes,No
+CUST2478,Customer_1478,34,Male,West,Standard,1220.66,30,1,10.6,Debit Card,Month-to-Month,Yes,No
+CUST2479,Customer_1479,31,Male,North,Standard,1871.0,10,6,29.8,Credit Card,Month-to-Month,Yes,Yes
+CUST2480,Customer_1480,26,Female,South,Standard,298.62,58,1,18.7,Net Banking,One Year,Yes,Yes
+CUST2481,Customer_1481,57,Female,West,Premium,958.8,62,3,39.5,Net Banking,One Year,Yes,No
+CUST2482,Customer_1482,19,Female,West,Standard,1473.56,6,2,23.6,Debit Card,One Year,Yes,Yes
+CUST2483,Customer_1483,62,Female,West,Basic,1032.84,67,2,25.7,Wallet,Month-to-Month,Yes,Yes
+CUST2484,Customer_1484,42,Male,South,Basic,1651.69,41,2,15.4,UPI,One Year,Yes,No
+CUST2485,Customer_1485,56,Male,North,Basic,523.36,43,3,29.6,Credit Card,Two Year,Yes,No
+CUST2486,Customer_1486,26,Female,East,Basic,1927.27,18,1,20.3,Wallet,Two Year,Yes,No
+CUST2487,Customer_1487,39,Female,West,Basic,893.29,58,1,1.7,Wallet,Two Year,Yes,No
+CUST2488,Customer_1488,60,Other,North,Basic,814.83,60,1,24.7,Credit Card,Month-to-Month,Yes,No
+CUST2489,Customer_1489,63,Male,South,Basic,1774.29,27,0,33.4,UPI,One Year,Yes,No
+CUST2490,Customer_1490,21,Female,East,Basic,1214.96,68,3,10.2,Credit Card,Two Year,Yes,No
+CUST2491,Customer_1491,43,Female,West,Basic,1129.6,22,2,9.6,UPI,One Year,Yes,No
+CUST2492,Customer_1492,46,Female,South,Basic,1508.56,24,6,24.7,Debit Card,Month-to-Month,Yes,No
+CUST2493,Customer_1493,62,Female,South,Basic,1243.7,40,0,32.9,UPI,Two Year,No,No
+CUST2494,Customer_1494,51,Female,East,Standard,492.53,66,1,10.7,Wallet,Month-to-Month,Yes,No
+CUST2495,Customer_1495,40,Male,North,Standard,1413.56,40,0,37.4,Debit Card,Month-to-Month,Yes,No
+CUST2496,Customer_1496,54,Female,West,Basic,440.24,6,2,37.2,Net Banking,Month-to-Month,Yes,No
+CUST2497,Customer_1497,28,Female,West,Standard,1650.54,18,1,8.8,Debit Card,One Year,Yes,No
+CUST2498,Customer_1498,23,Female,North,Basic,1981.53,30,1,11.3,UPI,Month-to-Month,Yes,No
+CUST2499,Customer_1499,35,Female,North,Basic,879.3,21,3,28.3,Debit Card,Month-to-Month,Yes,Yes
+CUST2500,Customer_1500,38,Male,North,Basic,1000.56,62,2,38.1,Debit Card,One Year,Yes,Yes
+CUST2501,Customer_1501,59,Male,East,Standard,283.58,10,1,28.7,Net Banking,One Year,Yes,No
+CUST2502,Customer_1502,53,Other,East,Standard,224.72,13,1,18.4,UPI,One Year,No,No
+CUST2503,Customer_1503,58,Female,West,Basic,1858.55,9,3,7.6,Wallet,Month-to-Month,Yes,No
+CUST2504,Customer_1504,55,Female,East,Basic,431.52,68,1,19.0,Debit Card,One Year,Yes,No
+CUST2505,Customer_1505,51,Male,South,Premium,1002.4,39,1,24.7,Credit Card,Month-to-Month,No,No
+CUST2506,Customer_1506,34,Female,West,Basic,1667.64,24,1,13.9,Wallet,Month-to-Month,Yes,Yes
+CUST2507,Customer_1507,54,Female,East,Basic,1800.77,34,2,20.9,Debit Card,Month-to-Month,No,No
+CUST2508,Customer_1508,42,Female,North,Premium,1134.92,61,2,6.1,Wallet,One Year,Yes,No
+CUST2509,Customer_1509,55,Male,South,Premium,1217.06,41,1,18.6,Credit Card,Month-to-Month,Yes,No
+CUST2510,Customer_1510,29,Female,North,Standard,1405.43,5,2,4.5,Wallet,Month-to-Month,Yes,Yes
+CUST2511,Customer_1511,40,Female,West,Standard,1930.49,50,1,2.9,Wallet,Month-to-Month,No,No
+CUST2512,Customer_1512,59,Male,North,Basic,1284.81,4,1,34.4,Credit Card,Month-to-Month,Yes,Yes
+CUST2513,Customer_1513,39,Female,East,Basic,1207.06,51,5,9.0,Credit Card,Two Year,No,Yes
+CUST2514,Customer_1514,38,Female,East,Standard,226.16,52,2,23.4,Credit Card,Two Year,Yes,No
+CUST2515,Customer_1515,44,Female,West,Basic,345.71,39,3,6.8,Net Banking,Month-to-Month,Yes,No
+CUST2516,Customer_1516,48,Female,North,Standard,1238.91,8,0,11.2,Credit Card,Month-to-Month,No,Yes
+CUST2517,Customer_1517,23,Male,West,Premium,1885.23,45,2,15.1,Wallet,Month-to-Month,Yes,Yes
+CUST2518,Customer_1518,44,Male,North,Premium,1760.04,28,2,6.6,Credit Card,One Year,No,No
+CUST2519,Customer_1519,57,Male,South,Basic,1968.64,27,2,2.8,Debit Card,Month-to-Month,Yes,No
+CUST2520,Customer_1520,51,Male,East,Standard,1150.1,65,3,35.2,Credit Card,Month-to-Month,No,No
+CUST2521,Customer_1521,29,Female,West,Standard,1618.28,34,2,1.5,Credit Card,Month-to-Month,Yes,No
+CUST2522,Customer_1522,62,Male,South,Premium,1712.72,62,0,3.4,UPI,Month-to-Month,Yes,Yes
+CUST2523,Customer_1523,24,Female,South,Basic,1366.46,62,1,32.4,Wallet,Month-to-Month,No,No
+CUST2524,Customer_1524,27,Other,West,Basic,809.75,38,2,12.0,Wallet,Month-to-Month,Yes,No
+CUST2525,Customer_1525,62,Female,West,Basic,1045.96,26,1,29.2,Debit Card,Month-to-Month,Yes,No
+CUST2526,Customer_1526,34,Female,South,Basic,1744.25,24,2,6.7,Net Banking,Month-to-Month,Yes,Yes
+CUST2527,Customer_1527,43,Female,North,Basic,737.39,39,2,10.3,UPI,Two Year,Yes,No
+CUST2528,Customer_1528,38,Female,South,Premium,1862.74,21,3,23.3,Debit Card,Month-to-Month,No,No
+CUST2529,Customer_1529,45,Male,West,Standard,613.65,47,4,39.6,Debit Card,Month-to-Month,Yes,Yes
+CUST2530,Customer_1530,63,Male,South,Basic,1549.13,48,1,3.9,Wallet,Two Year,Yes,Yes
+CUST2531,Customer_1531,19,Female,North,Standard,1335.01,13,2,16.6,UPI,Two Year,Yes,No
+CUST2532,Customer_1532,60,Female,East,Basic,1549.28,3,2,2.7,Wallet,Month-to-Month,No,No
+CUST2533,Customer_1533,18,Female,East,Premium,987.23,32,2,8.8,Net Banking,One Year,Yes,Yes
+CUST2534,Customer_1534,68,Female,South,Premium,1878.75,35,5,36.4,Wallet,Month-to-Month,Yes,No
+CUST2535,Customer_1535,53,Female,North,Premium,1338.45,19,3,4.8,Credit Card,One Year,Yes,Yes
+CUST2536,Customer_1536,68,Male,East,Premium,718.93,14,4,34.4,Wallet,Two Year,Yes,Yes
+CUST2537,Customer_1537,43,Other,South,Basic,1349.22,48,2,7.9,Credit Card,Month-to-Month,No,No
+CUST2538,Customer_1538,46,Female,South,Basic,716.27,68,1,34.6,Debit Card,Month-to-Month,Yes,No
+CUST2539,Customer_1539,38,Male,North,Standard,728.54,45,0,22.0,Net Banking,Month-to-Month,Yes,No
+CUST2540,Customer_1540,28,Female,West,Premium,919.28,19,2,35.3,Credit Card,One Year,Yes,No
+CUST2541,Customer_1541,57,Male,South,Basic,1734.37,64,2,6.9,Net Banking,Month-to-Month,No,No
+CUST2542,Customer_1542,28,Female,West,Basic,1100.54,66,2,30.7,Wallet,One Year,Yes,No
+CUST2543,Customer_1543,53,Female,West,Premium,1422.02,66,1,27.5,Wallet,Month-to-Month,Yes,No
+CUST2544,Customer_1544,66,Male,East,Basic,905.54,45,2,22.2,Debit Card,Month-to-Month,Yes,No
+CUST2545,Customer_1545,56,Female,West,Standard,674.49,67,6,32.6,Wallet,Month-to-Month,No,No
+CUST2546,Customer_1546,57,Female,North,Standard,1918.35,69,2,26.3,Credit Card,Month-to-Month,Yes,Yes
+CUST2547,Customer_1547,52,Male,East,Basic,1286.45,3,2,35.2,Debit Card,Month-to-Month,Yes,No
+CUST2548,Customer_1548,51,Male,East,Basic,1881.11,38,1,15.9,Net Banking,Month-to-Month,Yes,No
+CUST2549,Customer_1549,64,Female,East,Premium,566.14,42,2,24.0,Debit Card,One Year,Yes,No
+CUST2550,Customer_1550,41,Male,South,Standard,464.41,40,1,35.0,Net Banking,One Year,No,No
+CUST2551,Customer_1551,39,Male,South,Premium,1740.48,50,3,9.4,UPI,One Year,Yes,Yes
+CUST2552,Customer_1552,22,Male,West,Basic,1425.65,35,3,19.9,Credit Card,Month-to-Month,No,Yes
+CUST2553,Customer_1553,50,Male,East,Basic,535.84,24,5,38.5,Credit Card,Two Year,Yes,Yes
+CUST2554,Customer_1554,53,Female,East,Standard,684.85,17,6,19.5,Net Banking,One Year,Yes,No
+CUST2555,Customer_1555,64,Female,North,Standard,1641.2,40,0,10.9,Wallet,Month-to-Month,Yes,No
+CUST2556,Customer_1556,37,Male,West,Basic,1016.96,66,4,14.7,Wallet,Month-to-Month,No,Yes
+CUST2557,Customer_1557,36,Female,North,Premium,1406.97,44,2,35.5,UPI,Month-to-Month,Yes,No
+CUST2558,Customer_1558,52,Male,West,Basic,773.03,23,1,38.2,Net Banking,Two Year,No,Yes
+CUST2559,Customer_1559,69,Female,West,Basic,886.21,6,1,38.1,UPI,Month-to-Month,Yes,Yes
+CUST2560,Customer_1560,60,Other,South,Basic,1983.28,66,3,28.3,Net Banking,Month-to-Month,Yes,No
+CUST2561,Customer_1561,34,Male,South,Basic,645.71,21,1,20.9,UPI,Month-to-Month,No,No
+CUST2562,Customer_1562,62,Female,North,Standard,1111.62,35,2,8.1,Net Banking,One Year,No,Yes
+CUST2563,Customer_1563,60,Female,West,Standard,1719.92,29,0,5.8,Credit Card,Month-to-Month,Yes,Yes
+CUST2564,Customer_1564,51,Male,East,Standard,630.6,7,1,3.3,UPI,Month-to-Month,Yes,No
+CUST2565,Customer_1565,26,Male,South,Premium,947.38,53,2,1.7,UPI,Month-to-Month,Yes,Yes
+CUST2566,Customer_1566,43,Male,East,Basic,1307.16,37,0,35.2,Net Banking,Month-to-Month,Yes,No
+CUST2567,Customer_1567,19,Female,North,Basic,1066.14,23,0,32.6,Debit Card,Month-to-Month,Yes,No
+CUST2568,Customer_1568,26,Other,South,Basic,1027.1,8,3,23.1,Debit Card,Month-to-Month,Yes,No
+CUST2569,Customer_1569,26,Female,South,Basic,852.52,48,2,40.0,Credit Card,One Year,Yes,No
+CUST2570,Customer_1570,57,Female,West,Standard,1255.96,10,4,38.2,Wallet,One Year,Yes,No
+CUST2571,Customer_1571,34,Female,North,Standard,1323.87,24,3,26.5,Wallet,One Year,No,Yes
+CUST2572,Customer_1572,18,Female,West,Premium,1375.92,47,3,19.1,Credit Card,Month-to-Month,Yes,No
+CUST2573,Customer_1573,42,Female,South,Basic,326.66,53,4,6.9,Wallet,One Year,Yes,Yes
+CUST2574,Customer_1574,60,Male,North,Basic,1335.86,39,4,21.1,Net Banking,Month-to-Month,No,No
+CUST2575,Customer_1575,57,Female,South,Standard,1915.83,67,3,7.2,Debit Card,Month-to-Month,Yes,No
+CUST2576,Customer_1576,59,Female,North,Basic,1173.78,66,1,16.5,Credit Card,Two Year,Yes,No
+CUST2577,Customer_1577,42,Male,South,Standard,1487.48,6,0,37.8,Net Banking,One Year,Yes,No
+CUST2578,Customer_1578,56,Female,East,Premium,1202.12,21,4,14.3,Credit Card,Month-to-Month,Yes,No
+CUST2579,Customer_1579,52,Male,East,Basic,1738.53,36,2,7.0,Debit Card,Two Year,No,Yes
+CUST2580,Customer_1580,20,Female,West,Premium,1873.25,3,2,23.7,Wallet,Two Year,Yes,No
+CUST2581,Customer_1581,67,Female,East,Standard,531.6,42,1,24.5,Net Banking,One Year,Yes,No
+CUST2582,Customer_1582,54,Male,South,Basic,986.35,45,1,8.6,Debit Card,One Year,Yes,No
+CUST2583,Customer_1583,61,Male,South,Standard,906.29,44,4,8.7,Credit Card,One Year,No,Yes
+CUST2584,Customer_1584,61,Male,East,Basic,929.39,33,1,39.6,UPI,Month-to-Month,Yes,Yes
+CUST2585,Customer_1585,68,Female,West,Basic,425.94,60,0,10.5,Net Banking,Month-to-Month,Yes,Yes
+CUST2586,Customer_1586,47,Male,East,Standard,1664.51,70,3,33.7,Credit Card,One Year,Yes,Yes
+CUST2587,Customer_1587,55,Female,North,Premium,264.38,26,0,19.3,Credit Card,Month-to-Month,Yes,No
+CUST2588,Customer_1588,51,Male,North,Basic,1150.81,21,3,18.0,Debit Card,Month-to-Month,Yes,Yes
+CUST2589,Customer_1589,29,Other,North,Basic,1391.38,2,0,12.5,Credit Card,Month-to-Month,Yes,Yes
+CUST2590,Customer_1590,36,Female,East,Premium,573.44,47,2,31.2,Net Banking,Month-to-Month,Yes,No
+CUST2591,Customer_1591,54,Female,East,Premium,1830.53,30,2,35.3,Net Banking,Two Year,Yes,No
+CUST2592,Customer_1592,61,Female,East,Standard,1709.39,27,2,11.2,Credit Card,One Year,Yes,No
+CUST2593,Customer_1593,66,Female,North,Basic,1047.95,71,2,4.7,Debit Card,Month-to-Month,Yes,No
+CUST2594,Customer_1594,34,Female,West,Premium,940.07,20,1,6.3,Net Banking,Two Year,No,Yes
+CUST2595,Customer_1595,27,Male,South,Basic,625.82,50,3,31.9,UPI,Two Year,Yes,Yes
+CUST2596,Customer_1596,66,Male,East,Standard,1513.99,23,1,18.0,Wallet,Month-to-Month,Yes,Yes
+CUST2597,Customer_1597,64,Male,West,Basic,437.14,13,1,6.1,Debit Card,Two Year,Yes,No
+CUST2598,Customer_1598,29,Male,South,Standard,1424.43,4,2,14.3,Debit Card,Month-to-Month,Yes,Yes
+CUST2599,Customer_1599,33,Male,South,Basic,1716.42,14,1,21.1,Wallet,Month-to-Month,Yes,No
+CUST2600,Customer_1600,41,Female,South,Standard,611.25,20,3,34.2,Wallet,Month-to-Month,No,Yes
+CUST2601,Customer_1601,36,Other,West,Basic,1759.57,13,2,26.0,Net Banking,One Year,Yes,No
+CUST2602,Customer_1602,25,Male,West,Basic,259.98,3,2,7.9,Credit Card,Month-to-Month,No,No
+CUST2603,Customer_1603,48,Female,North,Standard,1843.02,47,2,7.2,Credit Card,One Year,No,No
+CUST2604,Customer_1604,38,Male,West,Premium,413.05,3,2,17.1,UPI,One Year,Yes,No
+CUST2605,Customer_1605,34,Female,West,Premium,1362.37,1,1,3.9,Credit Card,Month-to-Month,No,No
+CUST2606,Customer_1606,40,Female,West,Basic,650.15,24,1,30.5,UPI,Month-to-Month,Yes,No
+CUST2607,Customer_1607,54,Female,South,Standard,1705.79,35,4,16.7,UPI,Month-to-Month,Yes,No
+CUST2608,Customer_1608,33,Other,East,Standard,1122.14,14,4,14.4,Debit Card,Month-to-Month,Yes,No
+CUST2609,Customer_1609,23,Male,North,Basic,443.43,67,4,20.9,Debit Card,One Year,Yes,No
+CUST2610,Customer_1610,25,Female,East,Basic,1227.78,13,3,28.6,Net Banking,Month-to-Month,No,No
+CUST2611,Customer_1611,42,Female,East,Standard,934.19,47,1,23.2,Wallet,Month-to-Month,No,No
+CUST2612,Customer_1612,35,Male,West,Premium,1390.61,50,2,32.3,Wallet,Month-to-Month,No,Yes
+CUST2613,Customer_1613,42,Female,North,Standard,1787.43,26,2,25.5,UPI,One Year,Yes,Yes
+CUST2614,Customer_1614,29,Male,East,Standard,936.9,3,2,31.7,Wallet,One Year,Yes,No
+CUST2615,Customer_1615,32,Female,East,Standard,721.79,51,3,28.2,UPI,Two Year,Yes,Yes
+CUST2616,Customer_1616,43,Male,North,Basic,226.13,40,1,8.5,Wallet,One Year,Yes,Yes
+CUST2617,Customer_1617,58,Male,West,Premium,1234.71,68,3,3.0,Net Banking,Month-to-Month,Yes,No
+CUST2618,Customer_1618,62,Female,East,Standard,924.09,36,5,36.2,Debit Card,Month-to-Month,Yes,No
+CUST2619,Customer_1619,43,Female,South,Basic,874.37,51,2,37.9,Debit Card,One Year,Yes,No
+CUST2620,Customer_1620,64,Male,East,Premium,529.28,1,2,29.4,UPI,Two Year,Yes,No
+CUST2621,Customer_1621,49,Male,South,Basic,974.1,33,3,29.2,Wallet,Month-to-Month,Yes,No
+CUST2622,Customer_1622,27,Female,West,Premium,1972.0,7,3,11.5,Credit Card,Month-to-Month,Yes,No
+CUST2623,Customer_1623,33,Male,East,Basic,735.96,52,2,22.2,Net Banking,Month-to-Month,No,Yes
+CUST2624,Customer_1624,24,Male,North,Basic,1279.47,11,3,39.7,Wallet,One Year,Yes,Yes
+CUST2625,Customer_1625,34,Female,North,Basic,1597.68,27,2,34.4,Credit Card,Month-to-Month,Yes,No
+CUST2626,Customer_1626,40,Female,East,Standard,1548.48,14,3,12.9,Net Banking,Month-to-Month,No,No
+CUST2627,Customer_1627,43,Male,West,Basic,791.79,46,2,12.7,Net Banking,Two Year,No,Yes
+CUST2628,Customer_1628,38,Female,West,Standard,1299.55,10,5,19.9,Debit Card,Month-to-Month,No,No
+CUST2629,Customer_1629,39,Female,North,Standard,1768.28,24,0,16.8,UPI,Month-to-Month,Yes,No
+CUST2630,Customer_1630,24,Female,East,Standard,227.81,61,0,15.5,Wallet,Month-to-Month,Yes,No
+CUST2631,Customer_1631,31,Female,West,Basic,984.32,18,5,25.5,Net Banking,Month-to-Month,No,No
+CUST2632,Customer_1632,32,Male,North,Standard,603.69,9,2,1.4,Wallet,Month-to-Month,No,No
+CUST2633,Customer_1633,24,Male,South,Basic,899.54,17,2,30.8,Net Banking,Month-to-Month,Yes,No
+CUST2634,Customer_1634,26,Male,East,Standard,948.78,58,3,29.9,Debit Card,Month-to-Month,Yes,No
+CUST2635,Customer_1635,68,Female,South,Basic,1544.01,13,4,33.4,UPI,One Year,Yes,Yes
+CUST2636,Customer_1636,65,Male,South,Premium,368.88,50,0,33.8,Credit Card,One Year,Yes,No
+CUST2637,Customer_1637,25,Female,West,Standard,1122.65,6,0,23.1,Credit Card,Month-to-Month,Yes,No
+CUST2638,Customer_1638,67,Male,West,Standard,1215.55,51,4,31.4,Debit Card,Month-to-Month,Yes,No
+CUST2639,Customer_1639,40,Male,West,Standard,1089.48,36,1,20.2,Net Banking,One Year,No,No
+CUST2640,Customer_1640,46,Female,East,Basic,1517.37,71,0,38.1,Debit Card,Month-to-Month,Yes,No
+CUST2641,Customer_1641,35,Male,South,Basic,890.82,25,3,8.4,UPI,Month-to-Month,No,No
+CUST2642,Customer_1642,48,Male,East,Premium,1900.94,11,2,36.7,Credit Card,Month-to-Month,Yes,Yes
+CUST2643,Customer_1643,47,Female,West,Premium,1067.25,44,1,11.1,Wallet,One Year,Yes,No
+CUST2644,Customer_1644,69,Male,South,Basic,1228.19,14,0,5.0,Credit Card,Month-to-Month,Yes,No
+CUST2645,Customer_1645,56,Female,East,Standard,1685.96,29,2,18.1,UPI,One Year,No,No
+CUST2646,Customer_1646,52,Female,East,Standard,695.42,50,0,25.0,Net Banking,One Year,Yes,No
+CUST2647,Customer_1647,35,Male,North,Standard,335.36,5,0,10.0,Debit Card,Two Year,Yes,Yes
+CUST2648,Customer_1648,59,Female,East,Basic,1474.01,69,2,22.7,Credit Card,Month-to-Month,No,Yes
+CUST2649,Customer_1649,56,Female,West,Basic,1069.42,57,4,32.5,Credit Card,One Year,Yes,No
+CUST2650,Customer_1650,34,Male,East,Basic,1813.71,26,2,11.0,Wallet,Month-to-Month,No,No
+CUST2651,Customer_1651,31,Male,South,Premium,1968.82,6,2,23.6,Debit Card,Month-to-Month,No,Yes
+CUST2652,Customer_1652,48,Male,East,Standard,918.4,16,1,14.2,Wallet,Month-to-Month,No,No
+CUST2653,Customer_1653,41,Female,North,Standard,947.79,60,2,21.7,Wallet,Month-to-Month,Yes,No
+CUST2654,Customer_1654,52,Male,South,Premium,934.33,12,4,27.0,Net Banking,One Year,Yes,No
+CUST2655,Customer_1655,61,Female,South,Standard,784.2,3,1,14.7,Credit Card,Month-to-Month,No,No
+CUST2656,Customer_1656,62,Female,North,Premium,1607.04,63,3,39.8,Debit Card,Month-to-Month,Yes,No
+CUST2657,Customer_1657,51,Female,West,Standard,1566.19,64,0,23.0,Net Banking,Month-to-Month,Yes,No
+CUST2658,Customer_1658,20,Male,South,Basic,1061.56,62,2,33.2,Net Banking,One Year,No,Yes
+CUST2659,Customer_1659,54,Male,West,Premium,280.39,6,4,29.3,Net Banking,Month-to-Month,Yes,No
+CUST2660,Customer_1660,60,Female,South,Standard,757.21,19,2,34.3,UPI,One Year,No,No
+CUST2661,Customer_1661,57,Male,South,Basic,726.15,18,2,7.8,UPI,One Year,No,No
+CUST2662,Customer_1662,43,Male,West,Basic,1659.96,43,0,9.7,Net Banking,One Year,No,No
+CUST2663,Customer_1663,40,Male,South,Basic,357.64,3,2,20.0,UPI,Month-to-Month,Yes,No
+CUST2664,Customer_1664,61,Male,West,Standard,1650.22,38,0,34.2,Debit Card,One Year,Yes,No
+CUST2665,Customer_1665,56,Female,North,Premium,1404.53,68,2,8.7,Credit Card,Month-to-Month,Yes,No
+CUST2666,Customer_1666,32,Male,West,Premium,1518.39,44,3,38.9,Debit Card,One Year,Yes,No
+CUST2667,Customer_1667,66,Male,North,Premium,977.98,63,1,6.0,Credit Card,One Year,Yes,No
+CUST2668,Customer_1668,21,Male,South,Basic,1423.51,42,1,7.8,UPI,Month-to-Month,Yes,No
+CUST2669,Customer_1669,46,Female,West,Basic,1296.25,64,2,7.5,Debit Card,One Year,Yes,No
+CUST2670,Customer_1670,39,Female,South,Basic,1584.16,54,2,23.9,Wallet,Month-to-Month,Yes,Yes
+CUST2671,Customer_1671,42,Male,West,Premium,1004.19,71,5,36.8,Net Banking,Month-to-Month,No,No
+CUST2672,Customer_1672,30,Female,North,Basic,1051.09,37,3,10.9,Credit Card,Month-to-Month,Yes,No
+CUST2673,Customer_1673,35,Female,North,Standard,1358.44,4,2,22.6,Credit Card,Two Year,Yes,No
+CUST2674,Customer_1674,50,Female,West,Standard,394.54,2,0,7.9,Wallet,Two Year,Yes,Yes
+CUST2675,Customer_1675,33,Female,North,Standard,985.24,44,1,25.6,Wallet,One Year,No,No
+CUST2676,Customer_1676,62,Male,South,Basic,1949.51,67,2,5.8,Net Banking,Two Year,Yes,No
+CUST2677,Customer_1677,59,Male,South,Premium,267.59,68,0,20.2,UPI,Month-to-Month,Yes,No
+CUST2678,Customer_1678,61,Male,East,Premium,768.81,62,1,26.6,Debit Card,Two Year,Yes,Yes
+CUST2679,Customer_1679,19,Male,North,Basic,765.4,1,3,23.6,Debit Card,Month-to-Month,Yes,No
+CUST2680,Customer_1680,52,Other,South,Standard,1340.24,17,2,6.5,Debit Card,One Year,No,No
+CUST2681,Customer_1681,59,Male,West,Premium,390.44,16,3,7.3,UPI,One Year,No,No
+CUST2682,Customer_1682,51,Male,North,Basic,1331.38,9,2,27.2,Net Banking,Month-to-Month,Yes,No
+CUST2683,Customer_1683,47,Female,South,Standard,371.07,53,2,32.5,Debit Card,Month-to-Month,No,Yes
+CUST2684,Customer_1684,30,Female,North,Basic,370.92,59,2,36.4,Credit Card,Month-to-Month,No,No
+CUST2685,Customer_1685,30,Male,West,Standard,1510.73,9,5,32.7,Credit Card,Two Year,No,No
+CUST2686,Customer_1686,35,Male,South,Basic,783.44,12,2,39.0,Credit Card,Month-to-Month,Yes,No
+CUST2687,Customer_1687,49,Male,East,Standard,1959.36,41,1,16.9,Wallet,Month-to-Month,Yes,No
+CUST2688,Customer_1688,49,Female,East,Basic,267.24,15,2,13.9,Wallet,One Year,Yes,No
+CUST2689,Customer_1689,52,Male,North,Standard,1001.19,66,1,2.1,UPI,Month-to-Month,Yes,No
+CUST2690,Customer_1690,56,Male,West,Premium,403.64,11,1,18.5,Debit Card,Month-to-Month,Yes,No
+CUST2691,Customer_1691,63,Female,South,Premium,832.48,8,1,26.4,Wallet,One Year,No,Yes
+CUST2692,Customer_1692,69,Male,West,Premium,1996.8,55,1,32.8,Credit Card,Month-to-Month,No,No
+CUST2693,Customer_1693,46,Female,South,Standard,1799.92,6,4,11.4,Wallet,One Year,No,Yes
+CUST2694,Customer_1694,66,Female,North,Basic,286.98,53,2,21.0,Credit Card,Month-to-Month,Yes,Yes
+CUST2695,Customer_1695,46,Male,South,Basic,1213.86,20,0,26.8,Debit Card,Month-to-Month,Yes,Yes
+CUST2696,Customer_1696,61,Female,West,Premium,1366.08,39,0,22.5,UPI,Month-to-Month,Yes,No
+CUST2697,Customer_1697,33,Female,West,Basic,577.16,34,1,11.7,Net Banking,Month-to-Month,Yes,No
+CUST2698,Customer_1698,61,Male,North,Basic,461.19,57,1,32.1,Net Banking,Two Year,No,No
+CUST2699,Customer_1699,64,Female,West,Standard,1827.89,19,2,7.8,Credit Card,Two Year,Yes,Yes
+CUST2700,Customer_1700,27,Female,South,Basic,1943.87,71,0,36.3,Wallet,Month-to-Month,No,No
+CUST2701,Customer_1701,47,Female,North,Basic,1985.41,31,3,38.2,Wallet,Month-to-Month,Yes,No
+CUST2702,Customer_1702,42,Male,South,Premium,1621.57,40,2,15.3,Credit Card,Month-to-Month,Yes,No
+CUST2703,Customer_1703,56,Other,West,Premium,1394.3,14,1,15.7,Debit Card,Month-to-Month,Yes,Yes
+CUST2704,Customer_1704,37,Male,North,Standard,822.31,37,4,30.0,Credit Card,Month-to-Month,Yes,Yes
+CUST2705,Customer_1705,22,Male,South,Premium,508.52,44,3,18.8,Debit Card,One Year,Yes,Yes
+CUST2706,Customer_1706,18,Male,West,Standard,342.17,9,2,2.1,UPI,Month-to-Month,Yes,No
+CUST2707,Customer_1707,47,Male,West,Standard,1447.94,58,9,36.9,UPI,Month-to-Month,Yes,No
+CUST2708,Customer_1708,66,Female,East,Basic,1612.5,20,4,17.8,Credit Card,Month-to-Month,No,No
+CUST2709,Customer_1709,20,Male,West,Basic,1687.62,50,3,8.9,UPI,Month-to-Month,No,No
+CUST2710,Customer_1710,62,Male,South,Standard,1844.78,20,2,22.7,Wallet,One Year,No,No
+CUST2711,Customer_1711,31,Female,North,Premium,1783.87,36,4,9.5,Debit Card,Month-to-Month,No,No
+CUST2712,Customer_1712,47,Male,East,Standard,1999.53,27,1,9.0,Net Banking,Month-to-Month,No,No
+CUST2713,Customer_1713,67,Male,West,Basic,639.32,32,4,22.3,Net Banking,Month-to-Month,Yes,Yes
+CUST2714,Customer_1714,21,Male,West,Basic,1573.95,1,1,16.3,UPI,Two Year,Yes,No
+CUST2715,Customer_1715,35,Male,West,Premium,1255.63,17,3,23.3,Debit Card,Month-to-Month,Yes,No
+CUST2716,Customer_1716,54,Male,South,Basic,670.24,9,4,39.9,Wallet,Two Year,No,Yes
+CUST2717,Customer_1717,42,Female,East,Standard,1967.43,45,1,34.5,Net Banking,Month-to-Month,Yes,No
+CUST2718,Customer_1718,65,Male,South,Basic,1816.22,66,1,1.3,Wallet,Two Year,Yes,No
+CUST2719,Customer_1719,18,Male,East,Basic,431.33,32,2,3.0,Wallet,One Year,No,No
+CUST2720,Customer_1720,63,Female,North,Standard,247.09,45,1,24.8,Net Banking,Month-to-Month,Yes,No
+CUST2721,Customer_1721,32,Female,South,Standard,1439.0,9,4,25.4,Net Banking,One Year,No,No
+CUST2722,Customer_1722,26,Male,South,Basic,1287.44,30,4,35.2,UPI,One Year,No,Yes
+CUST2723,Customer_1723,32,Female,North,Basic,1884.47,38,1,25.5,Debit Card,Month-to-Month,Yes,Yes
+CUST2724,Customer_1724,66,Male,East,Premium,621.21,60,3,9.9,Credit Card,Month-to-Month,Yes,No
+CUST2725,Customer_1725,41,Female,West,Basic,351.9,1,3,19.3,Debit Card,One Year,No,No
+CUST2726,Customer_1726,21,Female,North,Standard,666.59,5,2,32.6,Credit Card,One Year,Yes,Yes
+CUST2727,Customer_1727,29,Male,West,Premium,234.07,63,1,37.0,Net Banking,One Year,No,No
+CUST2728,Customer_1728,54,Female,West,Basic,264.61,36,1,10.2,Wallet,One Year,No,No
+CUST2729,Customer_1729,54,Male,North,Premium,1846.74,65,2,22.0,Debit Card,One Year,Yes,Yes
+CUST2730,Customer_1730,60,Female,East,Basic,833.63,24,1,7.2,Wallet,One Year,Yes,No
+CUST2731,Customer_1731,23,Male,West,Standard,939.46,4,2,20.4,Debit Card,Month-to-Month,Yes,No
+CUST2732,Customer_1732,56,Female,North,Basic,233.07,68,2,4.5,Debit Card,Month-to-Month,Yes,No
+CUST2733,Customer_1733,63,Female,South,Premium,686.94,25,2,37.7,Wallet,Two Year,Yes,No
+CUST2734,Customer_1734,41,Female,South,Basic,1648.51,7,2,25.9,UPI,Month-to-Month,No,Yes
+CUST2735,Customer_1735,28,Male,South,Basic,1307.88,13,2,34.3,Net Banking,Month-to-Month,Yes,No
+CUST2736,Customer_1736,30,Female,North,Premium,1556.81,68,3,39.9,UPI,One Year,No,No
+CUST2737,Customer_1737,51,Female,South,Standard,1004.98,43,0,8.1,UPI,Month-to-Month,Yes,No
+CUST2738,Customer_1738,42,Female,West,Standard,757.51,57,2,28.1,Debit Card,Month-to-Month,Yes,Yes
+CUST2739,Customer_1739,24,Female,South,Basic,1069.06,36,1,35.6,Net Banking,Month-to-Month,Yes,No
+CUST2740,Customer_1740,69,Female,South,Standard,781.53,14,1,23.5,Debit Card,One Year,No,No
+CUST2741,Customer_1741,21,Male,West,Basic,1710.15,27,1,25.9,Credit Card,Two Year,Yes,No
+CUST2742,Customer_1742,25,Male,South,Basic,735.81,37,2,16.9,Debit Card,Month-to-Month,Yes,No
+CUST2743,Customer_1743,37,Female,West,Standard,1387.57,71,1,27.3,Wallet,Month-to-Month,No,No
+CUST2744,Customer_1744,46,Male,South,Basic,446.57,25,1,16.4,Debit Card,Month-to-Month,Yes,Yes
+CUST2745,Customer_1745,68,Other,West,Premium,1436.36,67,3,19.6,Credit Card,Month-to-Month,Yes,No
+CUST2746,Customer_1746,62,Female,South,Premium,1843.94,4,3,5.0,Debit Card,Month-to-Month,Yes,No
+CUST2747,Customer_1747,63,Female,West,Standard,1295.45,16,4,1.3,Credit Card,Month-to-Month,No,Yes
+CUST2748,Customer_1748,27,Male,North,Premium,1207.74,19,2,3.2,Net Banking,Month-to-Month,Yes,Yes
+CUST2749,Customer_1749,60,Female,West,Standard,1930.01,29,1,8.5,Debit Card,Month-to-Month,Yes,Yes
+CUST2750,Customer_1750,51,Female,South,Basic,1329.31,51,3,18.8,Credit Card,Month-to-Month,Yes,Yes
+CUST2751,Customer_1751,43,Female,South,Premium,667.19,18,3,1.8,Net Banking,One Year,No,No
+CUST2752,Customer_1752,58,Female,East,Basic,726.3,58,7,7.1,Wallet,Two Year,Yes,Yes
+CUST2753,Customer_1753,66,Male,West,Basic,1469.55,44,0,31.5,UPI,Two Year,Yes,No
+CUST2754,Customer_1754,20,Female,North,Premium,1523.79,16,2,30.7,Credit Card,One Year,Yes,No
+CUST2755,Customer_1755,23,Female,West,Standard,746.29,65,1,31.8,Wallet,Month-to-Month,Yes,No
+CUST2756,Customer_1756,22,Male,West,Premium,821.62,2,2,36.9,Net Banking,One Year,No,No
+CUST2757,Customer_1757,22,Male,North,Basic,1983.9,56,3,5.6,Wallet,Month-to-Month,Yes,No
+CUST2758,Customer_1758,64,Female,West,Standard,383.51,28,0,7.4,Debit Card,One Year,No,No
+CUST2759,Customer_1759,40,Female,North,Basic,928.36,65,3,14.0,UPI,One Year,No,Yes
+CUST2760,Customer_1760,66,Other,North,Standard,312.41,5,2,36.7,Credit Card,One Year,No,No
+CUST2761,Customer_1761,26,Female,West,Premium,1677.94,22,2,31.2,Net Banking,Two Year,Yes,No
+CUST2762,Customer_1762,52,Male,West,Standard,366.22,13,0,13.6,UPI,One Year,No,Yes
+CUST2763,Customer_1763,37,Male,South,Basic,1413.21,65,1,4.4,Net Banking,One Year,Yes,No
+CUST2764,Customer_1764,66,Male,South,Basic,301.67,16,0,25.0,Wallet,Month-to-Month,No,No
+CUST2765,Customer_1765,59,Male,East,Basic,1411.14,64,1,11.0,Net Banking,Two Year,Yes,Yes
+CUST2766,Customer_1766,52,Male,East,Standard,1717.47,32,1,21.7,Net Banking,Month-to-Month,No,No
+CUST2767,Customer_1767,67,Male,West,Premium,917.88,51,3,37.7,Wallet,Two Year,Yes,No
+CUST2768,Customer_1768,35,Male,North,Basic,1139.83,58,0,23.3,Wallet,Month-to-Month,No,No
+CUST2769,Customer_1769,34,Female,East,Standard,922.78,46,1,37.0,UPI,Month-to-Month,No,No
+CUST2770,Customer_1770,41,Male,West,Premium,740.88,52,0,16.3,Credit Card,One Year,No,No
+CUST2771,Customer_1771,20,Female,East,Standard,1645.87,63,3,25.7,Wallet,Month-to-Month,No,Yes
+CUST2772,Customer_1772,49,Female,North,Standard,689.6,60,1,35.9,UPI,One Year,Yes,No
+CUST2773,Customer_1773,52,Male,West,Premium,1501.3,65,2,23.9,Net Banking,Month-to-Month,Yes,No
+CUST2774,Customer_1774,55,Male,North,Basic,571.15,55,5,25.0,Net Banking,Two Year,No,No
+CUST2775,Customer_1775,30,Male,West,Basic,649.74,57,2,28.9,Debit Card,One Year,Yes,Yes
+CUST2776,Customer_1776,64,Male,East,Basic,805.63,71,3,35.4,Wallet,One Year,Yes,Yes
+CUST2777,Customer_1777,42,Female,South,Premium,1260.48,26,2,4.4,UPI,Month-to-Month,Yes,No
+CUST2778,Customer_1778,26,Male,East,Premium,1017.96,12,1,14.1,UPI,Month-to-Month,Yes,No
+CUST2779,Customer_1779,21,Male,East,Premium,1541.26,71,2,16.5,Credit Card,One Year,Yes,No
+CUST2780,Customer_1780,31,Male,South,Basic,584.42,46,3,36.5,UPI,Month-to-Month,Yes,No
+CUST2781,Customer_1781,54,Other,South,Standard,219.21,47,5,38.3,Wallet,Month-to-Month,Yes,No
+CUST2782,Customer_1782,51,Female,West,Basic,1597.8,38,4,5.7,UPI,One Year,Yes,Yes
+CUST2783,Customer_1783,28,Female,West,Basic,1678.97,21,2,5.6,Debit Card,Month-to-Month,Yes,Yes
+CUST2784,Customer_1784,58,Male,North,Standard,307.06,14,2,37.5,Net Banking,Month-to-Month,Yes,No
+CUST2785,Customer_1785,20,Female,North,Premium,1299.63,2,2,12.5,Net Banking,Month-to-Month,Yes,No
+CUST2786,Customer_1786,45,Female,East,Premium,880.77,70,1,10.4,UPI,Month-to-Month,Yes,No
+CUST2787,Customer_1787,46,Female,South,Standard,1629.01,33,1,2.4,UPI,Two Year,No,No
+CUST2788,Customer_1788,26,Other,North,Basic,1773.95,6,1,11.7,UPI,Month-to-Month,Yes,No
+CUST2789,Customer_1789,20,Male,East,Basic,1731.81,37,4,28.0,UPI,Two Year,No,Yes
+CUST2790,Customer_1790,42,Female,South,Basic,1598.97,14,3,17.6,Debit Card,Month-to-Month,No,Yes
+CUST2791,Customer_1791,51,Female,West,Premium,684.29,37,2,21.2,Wallet,Month-to-Month,Yes,No
+CUST2792,Customer_1792,29,Male,East,Premium,1661.4,8,2,36.8,Debit Card,Month-to-Month,Yes,No
+CUST2793,Customer_1793,59,Male,West,Basic,1160.26,13,3,5.5,Debit Card,Month-to-Month,Yes,Yes
+CUST2794,Customer_1794,26,Other,North,Standard,294.96,40,1,3.8,Debit Card,One Year,Yes,Yes
+CUST2795,Customer_1795,32,Male,North,Basic,1022.49,58,2,34.2,Net Banking,Two Year,Yes,No
+CUST2796,Customer_1796,57,Female,South,Basic,1895.88,18,2,31.2,Debit Card,Month-to-Month,Yes,Yes
+CUST2797,Customer_1797,42,Other,East,Standard,1798.15,57,2,11.3,UPI,One Year,Yes,No
+CUST2798,Customer_1798,22,Female,West,Basic,384.08,38,5,13.6,Debit Card,Month-to-Month,Yes,Yes
+CUST2799,Customer_1799,28,Male,South,Standard,1539.43,32,3,13.1,UPI,Month-to-Month,No,No
+CUST2800,Customer_1800,51,Female,North,Premium,1650.43,66,5,26.3,Wallet,Month-to-Month,Yes,No
+CUST2801,Customer_1801,41,Male,North,Standard,688.5,25,1,3.4,Net Banking,Two Year,No,Yes
+CUST2802,Customer_1802,32,Female,East,Basic,1048.9,58,1,20.1,Wallet,Month-to-Month,Yes,No
+CUST2803,Customer_1803,55,Male,West,Basic,1479.78,33,4,6.2,Wallet,Two Year,Yes,No
+CUST2804,Customer_1804,25,Female,East,Standard,990.27,66,2,33.0,Net Banking,Month-to-Month,Yes,No
+CUST2805,Customer_1805,22,Female,West,Basic,403.03,30,3,15.8,UPI,Month-to-Month,No,No
+CUST2806,Customer_1806,65,Female,West,Basic,1470.59,34,1,21.6,UPI,Month-to-Month,Yes,No
+CUST2807,Customer_1807,43,Female,East,Standard,1840.95,69,4,2.1,UPI,One Year,Yes,No
+CUST2808,Customer_1808,35,Female,South,Standard,1374.47,48,3,3.3,Net Banking,One Year,No,No
+CUST2809,Customer_1809,23,Female,East,Premium,1592.84,40,2,27.3,Debit Card,Month-to-Month,Yes,No
+CUST2810,Customer_1810,54,Male,East,Basic,845.05,51,2,30.9,Credit Card,Two Year,Yes,No
+CUST2811,Customer_1811,65,Female,North,Premium,529.76,13,2,28.7,Debit Card,Month-to-Month,No,No
+CUST2812,Customer_1812,30,Male,North,Basic,1356.99,31,1,29.7,Debit Card,Two Year,No,Yes
+CUST2813,Customer_1813,45,Female,East,Basic,789.99,39,4,5.1,Wallet,One Year,Yes,Yes
+CUST2814,Customer_1814,22,Male,East,Standard,1748.13,63,1,28.0,Credit Card,One Year,Yes,Yes
+CUST2815,Customer_1815,30,Male,North,Standard,420.73,48,1,8.1,UPI,One Year,No,No
+CUST2816,Customer_1816,34,Female,West,Premium,980.23,48,5,4.8,Debit Card,Month-to-Month,No,No
+CUST2817,Customer_1817,67,Male,East,Standard,914.11,61,1,30.5,Net Banking,One Year,Yes,No
+CUST2818,Customer_1818,57,Male,South,Premium,1888.5,12,0,35.7,Debit Card,Month-to-Month,No,Yes
+CUST2819,Customer_1819,62,Female,South,Premium,475.64,56,1,29.0,UPI,Month-to-Month,Yes,Yes
+CUST2820,Customer_1820,49,Female,South,Standard,217.72,18,1,32.4,Debit Card,Month-to-Month,Yes,No
+CUST2821,Customer_1821,46,Female,East,Standard,628.55,27,2,39.7,Wallet,Month-to-Month,Yes,No
+CUST2822,Customer_1822,68,Male,West,Standard,1676.5,28,2,6.3,Wallet,Month-to-Month,Yes,Yes
+CUST2823,Customer_1823,20,Female,West,Premium,576.78,52,2,38.6,Debit Card,Month-to-Month,Yes,No
+CUST2824,Customer_1824,57,Male,North,Premium,633.58,16,0,24.4,Wallet,Month-to-Month,Yes,No
+CUST2825,Customer_1825,51,Female,East,Basic,433.82,58,0,32.7,Net Banking,Month-to-Month,Yes,No
+CUST2826,Customer_1826,57,Female,West,Premium,1487.79,9,2,26.4,Credit Card,Two Year,Yes,No
+CUST2827,Customer_1827,44,Female,East,Basic,324.51,26,5,23.2,Debit Card,Month-to-Month,Yes,No
+CUST2828,Customer_1828,30,Male,North,Standard,796.17,28,4,28.4,Net Banking,One Year,No,No
+CUST2829,Customer_1829,62,Male,North,Basic,708.5,36,2,13.5,Net Banking,Month-to-Month,No,Yes
+CUST2830,Customer_1830,50,Male,North,Standard,1199.29,9,4,37.0,Net Banking,Month-to-Month,Yes,No
+CUST2831,Customer_1831,23,Male,South,Premium,1514.75,47,2,5.5,UPI,Month-to-Month,No,No
+CUST2832,Customer_1832,41,Male,East,Basic,1159.18,51,2,13.4,Debit Card,Month-to-Month,Yes,No
+CUST2833,Customer_1833,36,Female,North,Basic,1875.85,57,1,2.2,Debit Card,One Year,Yes,No
+CUST2834,Customer_1834,33,Male,East,Basic,1912.6,32,3,11.6,Debit Card,One Year,No,Yes
+CUST2835,Customer_1835,57,Female,South,Standard,850.64,67,2,9.5,Credit Card,Month-to-Month,Yes,No
+CUST2836,Customer_1836,45,Male,South,Basic,1599.82,57,2,2.9,Net Banking,Month-to-Month,Yes,No
+CUST2837,Customer_1837,50,Female,North,Basic,1529.84,54,3,20.2,Debit Card,Two Year,Yes,No
+CUST2838,Customer_1838,65,Female,North,Basic,1807.34,16,1,19.3,Wallet,Month-to-Month,Yes,No
+CUST2839,Customer_1839,58,Male,West,Standard,1006.3,62,0,4.0,UPI,Month-to-Month,Yes,No
+CUST2840,Customer_1840,30,Male,East,Basic,1154.85,56,2,11.2,Credit Card,One Year,No,Yes
+CUST2841,Customer_1841,60,Female,North,Standard,948.39,23,1,38.2,UPI,Month-to-Month,Yes,No
+CUST2842,Customer_1842,62,Male,West,Basic,1730.68,17,4,5.3,Net Banking,Two Year,No,Yes
+CUST2843,Customer_1843,42,Female,East,Standard,613.46,38,4,12.9,Wallet,One Year,No,Yes
+CUST2844,Customer_1844,59,Female,North,Basic,631.48,30,1,2.4,Net Banking,Month-to-Month,Yes,Yes
+CUST2845,Customer_1845,53,Female,West,Standard,870.69,58,3,6.8,Debit Card,Month-to-Month,Yes,Yes
+CUST2846,Customer_1846,44,Male,West,Basic,614.62,22,2,28.3,UPI,Month-to-Month,Yes,No
+CUST2847,Customer_1847,55,Female,East,Standard,1209.81,17,2,15.3,Wallet,Month-to-Month,Yes,No
+CUST2848,Customer_1848,24,Female,West,Premium,442.08,15,1,18.6,UPI,Two Year,Yes,Yes
+CUST2849,Customer_1849,22,Female,East,Premium,776.34,48,1,7.1,Credit Card,One Year,No,No
+CUST2850,Customer_1850,60,Male,East,Standard,1844.2,32,2,27.6,Wallet,Month-to-Month,No,Yes
+CUST2851,Customer_1851,62,Female,East,Standard,936.61,40,1,30.3,Credit Card,Month-to-Month,Yes,No
+CUST2852,Customer_1852,68,Female,South,Premium,1546.82,57,2,8.1,Wallet,Month-to-Month,Yes,No
+CUST2853,Customer_1853,48,Female,West,Standard,404.23,58,3,2.8,Debit Card,Month-to-Month,Yes,No
+CUST2854,Customer_1854,40,Male,East,Basic,645.62,16,2,4.2,UPI,One Year,Yes,Yes
+CUST2855,Customer_1855,59,Female,North,Premium,1653.22,28,1,26.6,UPI,One Year,No,No
+CUST2856,Customer_1856,27,Male,South,Standard,1573.39,1,2,6.3,Net Banking,Month-to-Month,No,Yes
+CUST2857,Customer_1857,49,Female,South,Basic,895.08,41,3,20.3,Wallet,Month-to-Month,Yes,No
+CUST2858,Customer_1858,60,Female,West,Basic,1917.91,48,1,7.0,Wallet,One Year,Yes,No
+CUST2859,Customer_1859,47,Female,East,Basic,1839.16,31,2,7.6,Credit Card,Month-to-Month,Yes,No
+CUST2860,Customer_1860,56,Female,West,Standard,1932.14,36,0,1.2,Wallet,One Year,Yes,No
+CUST2861,Customer_1861,48,Male,South,Basic,970.25,33,3,13.5,UPI,Month-to-Month,Yes,No
+CUST2862,Customer_1862,35,Other,East,Basic,555.45,33,1,4.5,Wallet,One Year,Yes,No
+CUST2863,Customer_1863,53,Male,North,Basic,1327.99,23,3,16.4,Net Banking,Two Year,Yes,No
+CUST2864,Customer_1864,19,Female,East,Standard,1432.59,60,3,24.3,Net Banking,Two Year,Yes,Yes
+CUST2865,Customer_1865,31,Female,South,Standard,425.8,30,2,15.3,UPI,Two Year,Yes,No
+CUST2866,Customer_1866,30,Female,North,Basic,1615.67,45,1,28.5,UPI,Two Year,Yes,Yes
+CUST2867,Customer_1867,46,Male,East,Basic,232.51,39,2,29.9,UPI,One Year,Yes,Yes
+CUST2868,Customer_1868,29,Female,North,Basic,1068.91,45,2,28.2,Wallet,Two Year,Yes,Yes
+CUST2869,Customer_1869,56,Female,North,Premium,795.83,12,3,37.5,Wallet,Two Year,Yes,No
+CUST2870,Customer_1870,19,Male,South,Standard,1532.55,32,4,10.3,Debit Card,One Year,Yes,No
+CUST2871,Customer_1871,49,Female,North,Standard,762.97,56,2,8.4,Credit Card,Month-to-Month,No,Yes
+CUST2872,Customer_1872,30,Male,West,Basic,1688.25,24,0,24.8,Wallet,Month-to-Month,Yes,No
+CUST2873,Customer_1873,63,Male,South,Standard,1270.92,13,4,24.2,Debit Card,One Year,Yes,No
+CUST2874,Customer_1874,44,Male,West,Standard,1629.01,20,5,20.9,Debit Card,Month-to-Month,No,No
+CUST2875,Customer_1875,66,Male,North,Basic,1980.81,56,5,1.2,Net Banking,One Year,Yes,No
+CUST2876,Customer_1876,58,Female,West,Basic,1422.49,53,2,22.7,Wallet,Month-to-Month,No,No
+CUST2877,Customer_1877,34,Male,East,Basic,1972.91,68,1,37.4,Debit Card,Month-to-Month,Yes,No
+CUST2878,Customer_1878,57,Male,North,Premium,251.91,54,3,14.0,Net Banking,One Year,Yes,Yes
+CUST2879,Customer_1879,48,Male,East,Premium,808.65,34,1,38.7,Credit Card,Two Year,Yes,No
+CUST2880,Customer_1880,51,Female,West,Standard,394.14,28,2,14.9,Net Banking,Month-to-Month,Yes,No
+CUST2881,Customer_1881,41,Female,East,Standard,672.15,50,3,6.5,Credit Card,Two Year,Yes,Yes
+CUST2882,Customer_1882,62,Male,North,Basic,1710.0,2,2,16.5,UPI,One Year,Yes,Yes
+CUST2883,Customer_1883,52,Male,East,Standard,258.18,26,2,20.3,UPI,Month-to-Month,No,No
+CUST2884,Customer_1884,65,Female,West,Standard,1136.33,51,3,25.5,Net Banking,Month-to-Month,Yes,Yes
+CUST2885,Customer_1885,23,Male,West,Basic,1220.83,47,3,20.7,UPI,Month-to-Month,Yes,Yes
+CUST2886,Customer_1886,36,Female,West,Premium,1210.07,26,3,21.9,Wallet,Month-to-Month,Yes,No
+CUST2887,Customer_1887,47,Male,North,Basic,1055.53,61,1,1.9,Net Banking,Month-to-Month,No,No
+CUST2888,Customer_1888,24,Female,West,Basic,1623.09,23,2,10.9,Debit Card,Month-to-Month,No,No
+CUST2889,Customer_1889,27,Male,North,Standard,440.38,37,2,13.1,Wallet,Month-to-Month,No,No
+CUST2890,Customer_1890,58,Female,East,Standard,759.04,41,4,39.5,Net Banking,One Year,Yes,No
+CUST2891,Customer_1891,49,Male,West,Standard,1308.31,52,2,12.5,Credit Card,Month-to-Month,Yes,No
+CUST2892,Customer_1892,51,Other,East,Basic,1443.71,49,1,36.0,UPI,One Year,Yes,Yes
+CUST2893,Customer_1893,45,Male,South,Premium,927.47,27,2,12.9,UPI,Month-to-Month,Yes,Yes
+CUST2894,Customer_1894,32,Female,East,Standard,1775.67,6,4,4.7,UPI,One Year,No,No
+CUST2895,Customer_1895,47,Male,South,Standard,947.89,66,2,10.7,Net Banking,Two Year,No,No
+CUST2896,Customer_1896,54,Male,East,Premium,925.0,24,3,11.6,Wallet,Month-to-Month,Yes,No
+CUST2897,Customer_1897,46,Female,North,Standard,265.17,38,2,39.2,Credit Card,Two Year,Yes,No
+CUST2898,Customer_1898,39,Male,East,Basic,1192.05,28,0,27.3,UPI,One Year,Yes,Yes
+CUST2899,Customer_1899,21,Female,North,Premium,1475.63,28,1,37.3,Wallet,One Year,Yes,No
+CUST2900,Customer_1900,37,Female,North,Basic,405.99,66,2,33.6,Debit Card,One Year,Yes,No
+CUST2901,Customer_1901,49,Female,West,Basic,749.78,61,0,23.6,Debit Card,Month-to-Month,Yes,No
+CUST2902,Customer_1902,53,Male,North,Standard,1606.26,46,0,27.3,Credit Card,Month-to-Month,No,No
+CUST2903,Customer_1903,67,Female,South,Premium,858.65,69,2,25.4,UPI,Month-to-Month,Yes,No
+CUST2904,Customer_1904,21,Male,West,Basic,634.88,43,2,27.0,Debit Card,Month-to-Month,No,No
+CUST2905,Customer_1905,44,Female,West,Standard,1409.96,59,1,11.3,Wallet,Month-to-Month,Yes,No
+CUST2906,Customer_1906,34,Female,East,Basic,554.17,2,0,16.9,Wallet,Two Year,Yes,Yes
+CUST2907,Customer_1907,29,Female,North,Standard,1812.18,15,2,24.1,Debit Card,Month-to-Month,Yes,Yes
+CUST2908,Customer_1908,39,Female,North,Standard,390.08,37,3,2.4,UPI,Two Year,Yes,Yes
+CUST2909,Customer_1909,34,Female,South,Standard,1471.79,71,0,19.8,Credit Card,Month-to-Month,Yes,Yes
+CUST2910,Customer_1910,27,Male,East,Basic,1099.19,20,2,34.5,UPI,Month-to-Month,Yes,No
+CUST2911,Customer_1911,18,Female,East,Standard,1765.87,35,0,20.2,Net Banking,Month-to-Month,Yes,No
+CUST2912,Customer_1912,39,Male,West,Premium,427.15,34,0,22.5,Debit Card,Month-to-Month,No,No
+CUST2913,Customer_1913,43,Female,West,Standard,1420.21,31,3,8.9,Net Banking,Two Year,Yes,No
+CUST2914,Customer_1914,35,Female,West,Standard,1229.7,19,2,32.0,Debit Card,One Year,No,No
+CUST2915,Customer_1915,67,Female,South,Premium,1064.16,68,3,15.0,Credit Card,Month-to-Month,Yes,Yes
+CUST2916,Customer_1916,31,Male,South,Basic,1084.53,24,2,38.3,UPI,Two Year,Yes,No
+CUST2917,Customer_1917,64,Female,West,Standard,1499.56,39,1,39.8,UPI,One Year,Yes,No
+CUST2918,Customer_1918,46,Male,East,Premium,1887.93,54,2,36.7,Debit Card,Month-to-Month,No,No
+CUST2919,Customer_1919,29,Male,South,Basic,364.25,39,1,4.3,Wallet,One Year,Yes,No
+CUST2920,Customer_1920,53,Male,East,Standard,235.1,17,3,14.0,Net Banking,One Year,Yes,Yes
+CUST2921,Customer_1921,52,Male,East,Basic,1650.27,19,2,37.9,UPI,Month-to-Month,Yes,No
+CUST2922,Customer_1922,69,Male,North,Standard,394.7,48,2,32.4,UPI,One Year,Yes,No
+CUST2923,Customer_1923,29,Female,West,Standard,1976.05,35,3,36.5,Debit Card,Month-to-Month,No,No
+CUST2924,Customer_1924,24,Male,North,Basic,1314.83,32,1,23.3,Wallet,Month-to-Month,Yes,No
+CUST2925,Customer_1925,46,Male,West,Standard,1371.56,47,2,19.7,Net Banking,Month-to-Month,Yes,No
+CUST2926,Customer_1926,28,Female,West,Basic,558.01,47,2,5.2,Wallet,Two Year,No,Yes
+CUST2927,Customer_1927,50,Male,East,Basic,632.56,64,2,33.7,Wallet,One Year,Yes,Yes
+CUST2928,Customer_1928,23,Female,West,Basic,1386.83,46,0,30.1,Debit Card,Month-to-Month,Yes,No
+CUST2929,Customer_1929,64,Female,East,Premium,1837.51,35,1,3.3,Wallet,Month-to-Month,Yes,Yes
+CUST2930,Customer_1930,32,Female,East,Basic,1968.3,17,2,9.2,Net Banking,Month-to-Month,No,No
+CUST2931,Customer_1931,49,Female,West,Premium,556.46,42,1,22.7,Credit Card,One Year,No,Yes
+CUST2932,Customer_1932,68,Female,East,Standard,441.42,29,2,27.7,Credit Card,Month-to-Month,Yes,No
+CUST2933,Customer_1933,28,Female,East,Basic,301.52,70,1,6.4,Net Banking,One Year,No,No
+CUST2934,Customer_1934,40,Male,East,Standard,1762.93,17,1,10.5,Debit Card,Two Year,Yes,Yes
+CUST2935,Customer_1935,43,Female,South,Standard,730.49,14,2,8.5,UPI,One Year,Yes,No
+CUST2936,Customer_1936,51,Male,East,Standard,203.26,24,0,9.6,Debit Card,Month-to-Month,Yes,No
+CUST2937,Customer_1937,63,Female,South,Basic,602.87,57,2,36.9,Net Banking,Month-to-Month,Yes,No
+CUST2938,Customer_1938,51,Male,South,Basic,812.79,50,4,28.9,Wallet,Month-to-Month,Yes,No
+CUST2939,Customer_1939,46,Female,East,Basic,1983.78,57,0,29.7,Credit Card,One Year,No,Yes
+CUST2940,Customer_1940,21,Male,East,Basic,1142.37,61,1,32.0,Wallet,One Year,Yes,No
+CUST2941,Customer_1941,34,Female,South,Basic,568.49,39,1,14.9,Debit Card,Month-to-Month,No,No
+CUST2942,Customer_1942,52,Male,South,Basic,802.67,55,2,30.9,Net Banking,Month-to-Month,Yes,No
+CUST2943,Customer_1943,30,Female,East,Basic,794.55,36,1,39.2,Credit Card,Two Year,Yes,No
+CUST2944,Customer_1944,58,Female,East,Basic,235.51,37,1,28.2,Net Banking,Month-to-Month,Yes,Yes
+CUST2945,Customer_1945,56,Male,West,Basic,443.33,14,1,17.3,Credit Card,Month-to-Month,Yes,Yes
+CUST2946,Customer_1946,32,Female,South,Basic,1451.35,27,1,28.9,Credit Card,One Year,No,No
+CUST2947,Customer_1947,46,Female,South,Premium,416.45,31,4,36.1,Credit Card,Month-to-Month,Yes,No
+CUST2948,Customer_1948,46,Female,West,Basic,615.32,44,1,6.0,Debit Card,One Year,No,No
+CUST2949,Customer_1949,28,Male,South,Standard,831.33,68,2,11.3,Net Banking,One Year,No,Yes
+CUST2950,Customer_1950,69,Male,North,Basic,1563.92,48,2,36.9,UPI,One Year,Yes,Yes
+CUST2951,Customer_1951,49,Male,South,Premium,1248.32,57,1,37.9,UPI,Month-to-Month,Yes,Yes
+CUST2952,Customer_1952,19,Male,West,Basic,1440.2,22,2,19.9,UPI,Month-to-Month,Yes,No
+CUST2953,Customer_1953,64,Female,North,Premium,1220.62,4,1,15.6,Net Banking,Month-to-Month,Yes,No
+CUST2954,Customer_1954,31,Male,East,Standard,1430.47,46,3,12.0,Wallet,Month-to-Month,Yes,No
+CUST2955,Customer_1955,37,Female,West,Basic,205.12,59,3,20.5,Net Banking,Two Year,Yes,Yes
+CUST2956,Customer_1956,39,Male,West,Premium,1875.62,34,2,37.4,Credit Card,One Year,Yes,Yes
+CUST2957,Customer_1957,28,Female,East,Standard,399.66,11,1,6.8,Wallet,Month-to-Month,No,No
+CUST2958,Customer_1958,44,Female,West,Basic,931.25,31,3,17.4,Credit Card,Two Year,Yes,No
+CUST2959,Customer_1959,20,Female,South,Premium,1587.87,11,6,36.6,Credit Card,One Year,Yes,No
+CUST2960,Customer_1960,34,Male,East,Premium,983.42,56,2,14.6,Net Banking,Month-to-Month,Yes,No
+CUST2961,Customer_1961,61,Male,West,Standard,1904.32,38,1,31.0,UPI,Month-to-Month,No,No
+CUST2962,Customer_1962,45,Male,East,Basic,1041.66,21,3,16.2,Wallet,Month-to-Month,Yes,Yes
+CUST2963,Customer_1963,46,Male,East,Premium,1774.89,10,2,32.4,Debit Card,Two Year,Yes,Yes
+CUST2964,Customer_1964,38,Male,East,Standard,1659.49,26,1,39.3,UPI,Month-to-Month,No,No
+CUST2965,Customer_1965,64,Male,North,Premium,1965.78,8,2,16.1,Debit Card,Two Year,No,No
+CUST2966,Customer_1966,33,Male,West,Standard,1867.79,8,1,34.0,Net Banking,Month-to-Month,No,No
+CUST2967,Customer_1967,54,Female,North,Basic,1816.62,60,2,39.5,Wallet,Two Year,Yes,No
+CUST2968,Customer_1968,37,Male,West,Premium,1516.89,34,3,39.4,Net Banking,Month-to-Month,No,No
+CUST2969,Customer_1969,23,Female,South,Basic,860.6,16,1,17.9,Debit Card,Two Year,Yes,Yes
+CUST2970,Customer_1970,36,Male,South,Basic,391.03,13,1,19.9,Credit Card,Two Year,No,No
+CUST2971,Customer_1971,22,Female,South,Standard,1439.56,22,5,12.8,Net Banking,Month-to-Month,Yes,No
+CUST2972,Customer_1972,20,Female,West,Standard,1961.58,27,1,13.2,Wallet,One Year,No,No
+CUST2973,Customer_1973,18,Female,East,Basic,1507.89,64,1,20.2,Net Banking,One Year,No,No
+CUST2974,Customer_1974,55,Female,East,Premium,1871.71,2,1,8.8,UPI,Two Year,Yes,No
+CUST2975,Customer_1975,32,Male,North,Basic,1647.75,26,0,28.7,Net Banking,Month-to-Month,No,Yes
+CUST2976,Customer_1976,51,Female,North,Standard,493.61,69,2,21.9,Debit Card,Month-to-Month,Yes,No
+CUST2977,Customer_1977,52,Male,South,Premium,648.57,30,5,36.0,Net Banking,Two Year,Yes,No
+CUST2978,Customer_1978,66,Male,North,Basic,815.36,8,1,32.6,Wallet,One Year,Yes,No
+CUST2979,Customer_1979,42,Female,West,Basic,502.87,38,2,13.6,Net Banking,Month-to-Month,No,Yes
+CUST2980,Customer_1980,41,Female,West,Basic,1246.97,61,4,20.7,Net Banking,One Year,Yes,Yes
+CUST2981,Customer_1981,29,Male,North,Premium,1955.81,65,3,30.3,Wallet,Month-to-Month,Yes,Yes
+CUST2982,Customer_1982,35,Female,North,Basic,1570.63,67,2,8.5,Net Banking,One Year,Yes,No
+CUST2983,Customer_1983,32,Female,North,Basic,962.1,46,0,2.2,Wallet,Month-to-Month,No,No
+CUST2984,Customer_1984,61,Male,North,Standard,208.11,43,3,34.2,Debit Card,Month-to-Month,No,Yes
+CUST2985,Customer_1985,33,Male,South,Standard,763.9,59,3,6.4,Wallet,Month-to-Month,Yes,No
+CUST2986,Customer_1986,44,Male,South,Basic,1148.17,46,0,35.7,Debit Card,Month-to-Month,Yes,No
+CUST2987,Customer_1987,25,Male,North,Standard,783.65,35,1,36.6,Debit Card,Month-to-Month,Yes,No
+CUST2988,Customer_1988,63,Male,West,Basic,399.86,39,2,19.0,Wallet,Month-to-Month,Yes,Yes
+CUST2989,Customer_1989,42,Male,South,Premium,996.98,51,6,32.5,Net Banking,Month-to-Month,Yes,Yes
+CUST2990,Customer_1990,34,Male,West,Basic,655.86,4,2,15.2,UPI,Month-to-Month,Yes,Yes
+CUST2991,Customer_1991,46,Female,East,Basic,1836.62,51,1,34.5,Wallet,One Year,No,No
+CUST2992,Customer_1992,25,Female,West,Standard,383.16,5,3,33.2,Net Banking,Month-to-Month,Yes,No
+CUST2993,Customer_1993,32,Other,North,Basic,288.47,55,1,4.1,Debit Card,Month-to-Month,Yes,Yes
+CUST2994,Customer_1994,44,Male,East,Standard,209.57,20,5,23.7,Credit Card,One Year,Yes,Yes
+CUST2995,Customer_1995,63,Female,South,Basic,790.53,24,1,26.0,UPI,Two Year,Yes,Yes
+CUST2996,Customer_1996,67,Female,South,Basic,1388.7,36,3,1.0,Net Banking,One Year,Yes,Yes
+CUST2997,Customer_1997,69,Female,East,Standard,1514.74,34,2,39.2,UPI,Month-to-Month,Yes,No
+CUST2998,Customer_1998,24,Male,West,Standard,1015.87,54,2,16.9,Credit Card,One Year,No,No
+CUST2999,Customer_1999,20,Female,South,Standard,1431.79,34,3,21.2,Credit Card,Two Year,Yes,No

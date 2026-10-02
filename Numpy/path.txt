@@ -1,0 +1,3 @@
+C:\Users\ASUS\AppData\Roaming\Python
+
+path where you will find the script and all the downloaded jupyter dependencies and other things.

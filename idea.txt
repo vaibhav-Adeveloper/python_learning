@@ -1,0 +1,10 @@
+convert all the important exercise, mini-project and full project py file into exe file and
+distribute to your friends, so that they can run these programs in their own laptop.
+or
+convert these program into packages, which can be downloaded by your friends.
+
+
+# know this :
+to run a python.exe file in powershell (python main.exe), does your friend requires to download python in their pc.
+
+# get to know this - how it is possible to run your python file in powershell without downloading python in your system.

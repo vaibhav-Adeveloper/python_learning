@@ -1,0 +1,2 @@
+1). tk - widget tool kit & tkinter - python interface fot this.
+2). creation of tk class instance > pack all the widgets > event loop start.

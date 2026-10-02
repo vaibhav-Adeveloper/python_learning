@@ -1,0 +1,7 @@
+1). import matplotlib.pyplot as plt
+is same as
+    from matplotlib import pyplot as plt
+
+2. matplotlib is python library.
+inside this library - we have many build classes inside it.
+so whenever we have to deal with the plotting part we have to use pyplot class of matplotlib library.

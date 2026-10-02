@@ -1,0 +1,3 @@
+('vaibhav', '9419419410', 'iron man', '7007700700', 'Gpay', 0)
+('praful', '8787878797', 'male', '9797979779', 'icici Credit card', 1)
+('ishant', '6006763458', 'male', '0011221100', 'online', 0)

@@ -1,0 +1,11 @@
+# Why use Numpy.
+
+Numpy provides efficient storage.
+it also provides better ways of handling data for processing.
+it is fast.
+Numpy uses relatively less memory to store data.
+
+
+# Jupyter Notebook.
+
+it makes data analysis easy.

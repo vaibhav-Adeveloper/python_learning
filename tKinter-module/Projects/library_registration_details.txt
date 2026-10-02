@@ -1,0 +1,11 @@
+{'Enrollment': '2024BECE012', 'email_id': 'gautam@gmail.com', 'password': 'gautam123'}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}
+{'Enrollment': '', 'email_id': '', 'password': ''}

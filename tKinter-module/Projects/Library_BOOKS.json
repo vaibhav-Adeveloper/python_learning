@@ -1,0 +1,41 @@
+{
+  "ECE": [
+    {"ref_id": "ECE101", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE102", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE103", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE104", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE105", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE106", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE107", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE108", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE109", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE110", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE111", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE111", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE111", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE111", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE111", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"},
+    {"ref_id": "ECE112", "auth_name": "A. KUMAR", "book": "SIGNALS & SYSTEM"}
+  ],
+  "CSE": [
+    {"ref_id": "CSE201", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE202", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE203", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE204", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE205", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE206", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE207", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE208", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"},
+    {"ref_id": "CSE209", "auth_name": "S.K. SRIVASTAVA", "book": "DATA STRUCTURE THROUGH C IN DEPTH"}
+  ],
+  "IT": [
+    {"ref_id": "IT301", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"},
+    {"ref_id": "IT302", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"},
+    {"ref_id": "IT303", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"},
+    {"ref_id": "IT304", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"},
+    {"ref_id": "IT305", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"},
+    {"ref_id": "IT306", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"},
+    {"ref_id": "IT307", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"},
+    {"ref_id": "IT308", "auth_name": "Dr. VINOD VERMA", "book": "CONCEPTS OF C++"}
+  ]
+}
